@@ -1,3 +1,32 @@
 # Reinforced Glicko-2 Poll
 
 This poll is based on the Glicko-2 rating system [\(Glickman 2013\)](http://glicko.net/glicko/glicko2.pdf) to produce resume-based sports rankings.
+
+### College Football
+| Rank	| Team					| Conference	| Record	| Rating	|
+| ---:	| ---:					| ---:			| ---:		| ---:		|
+| 1		| Alabama				| SEC			| 11-0		| 2971		|
+| 2		| Ohio State			| Big Ten		| 6-0		| 2816		|
+| 3		| Coastal Carolina		| Sun Belt		| 11-0		| 2769		|
+| 4		| Cincinnati			| AAC			| 9-0		| 2571		|
+| 5		| Clemson				| ACC			| 10-1		| 2454		|
+| 6		| Texas A&amp;M			| SEC			| 8-1		| 2452		|
+| 7		| Notre Dame			| ACC			| 10-1		| 2428		|
+| 8		| San Jos&eacute; State | Mountain West | 7-0		| 2330		|
+| 9		| Indiana				| Big Ten		| 6-1		| 2308		|
+| 10	| Louisiana				| Sun Belt		| 9-1		| 2290		|
+| 11	| BYU					| Independent	| 10-1		| 2239		|
+| 12	| Georgia				| SEC			| 7-2		| 2006		|
+| 13	| Florida				| SEC			| 8-3		| 1966		|
+| 14	| Miami of Florida		| ACC			| 8-2		| 1952		|
+| 15	| Oklahoma				| Big 12		| 8-2		| 1926		|
+| 16	| Northwestern			| Big Ten		| 6-2		| 1919		|
+| 17	| Iowa State			| Big 12		| 8-3		| 1900		|
+| 18	| USC					| Pac-12		| 5-1		| 1881		|
+|		| Tulsa					| AAC			| 6-2		| 1881		|
+| 20	| Colorado				| Pac-12		| 4-1		| 1871		|
+| 21	| Washington			| Pac-12		| 3-1		| 1858		|
+| 22	| Utah					| Pac-12		| 3-2		| 1845		|
+| 23	| North Carolina		| ACC			| 8-3		| 1842		|
+| 24	| Stanford				| Pac-12		| 4-2		| 1834		|
+| 25	| Iowa					| Big Ten		| 6-2		| 1820		|
