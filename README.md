@@ -41,7 +41,7 @@ Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for
 
 ### NFL
 | Rank  | Team                       | Record   | Rating |
-| ---:  | ---:                       | ---:     | ---:   |
+| ---:  | ---:                       | :---		| ---:   |
 | 1     | Kansas City Chiefs         | 13-1     | 2044   |
 | 2     | Pittsburgh Steelers        | 11-2     | 1851   |
 | 3     | Buffalo Bills              | 11-3     | 1839   |
