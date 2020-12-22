@@ -38,3 +38,41 @@ Because of changes the schedules forced by the pandemic, resume-based rankings f
 3. The 2020 schedule is run through 50 times.
 
 Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for the game data tables.
+
+### NFL
+| Rank  | Team                       | Record   | Rating |
+| ---:  | ---:                       | ---:     | ---:   |
+| 1     | Kansas City Chiefs         | 13-1     | 2044   |
+| 2     | Pittsburgh Steelers        | 11-2     | 1851   |
+| 3     | Buffalo Bills              | 11-3     | 1839   |
+| 4     | Tennessee Titans           | 10-4     | 1720   |
+| 5     | Baltimore Ravens           | 9-5      | 1706   |
+| 6     | Indianapolis Colts         | 10-4     | 1696   |
+| 7     | Cleveland Browns           | 10-4     | 1692   |
+| 8     | New Orleans Saints         | 10-4     | 1683   |
+| 9     | Green Bay Packers          | 11-3     | 1677   |
+| 10    | Tampa Bay Buccaneers       | 9-5      | 1640   |
+| 11    | Seattle Seahawks           | 10-4     | 1629   |
+| 12    | Miami Dolphins             | 9-5      | 1595   |
+| 13    | Los Angeles Rams           | 9-5      | 1587   |
+| 14    | Las Vegas Raiders          | 7-7      | 1534   |
+| 15    | Arizona Cardinals          | 8-6      | 1527   |
+| 16    | Chicago Bears              | 7-7      | 1479   |
+| 17    | New England Patriots       | 6-8      | 1474   |
+| 18    | Denver Broncos             | 5-9      | 1464   |
+| 19    | Washington Football Team   | 6-8      | 1431   |
+| 20    | Minnesota Vikings          | 6-8      | 1420   |
+| 21    | New York Giants            | 5-9      | 1388   |
+| 22    | San Francisco 49ers        | 5-9      | 1387   |
+| 23    | Philadelphia Eagles        | 4-9-1    | 1378   |
+| 24    | Dallas Cowboys             | 5-9      | 1368   |
+| 25    | Detroit Lions              | 5-9      | 1354   |
+| 26    | Los Angeles Chargers       | 5-9      | 1348   |
+| 27    | Houston Texans             | 4-10     | 1341   |
+| 28    | Atlanta Falcons            | 4-10     | 1323   |
+| 29    | Carolina Panthers          | 4-10     | 1317   |
+| 30    | Cincinnati Bengals         | 2-10-1   | 1186   |
+| 31    | New York Jets              | 1-13     | 1101   |
+| 32    | Jacksonville Jaguars       | 1-13     | 978    |
+
+NFL data comes from [https://www.pro-football-reference.com](https://www.pro-football-reference.com).
