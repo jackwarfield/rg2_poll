@@ -1,3 +1,6 @@
+"""
+Game data from https://collegefootballdata.com
+"""
 from glicko2 import *
 import random
 from datetime import datetime, timezone

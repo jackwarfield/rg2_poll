@@ -36,3 +36,5 @@ Because of changes the schedules forced by the pandemic, resume-based rankings f
 1. All P5 teams start with a rating of 1500 and all G5 teams start with a rating of 1200. Other, non-FBS teams, if encountered in the schedule, are added to the table starting with a rating of 800. All teams start with a rating deviation of 600 and a volatility of 0.6.
 2. The 2019 schedule is run through 1 time to give initial ratings. Note that, after this run, the RD remains high and so the ratings are still quite fluid.
 3. The 2020 schedule is run through 50 times.
+
+Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for the game data tables.
