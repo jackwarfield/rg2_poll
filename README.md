@@ -41,38 +41,38 @@ Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for
 
 ### NFL
 | Rank  | Team                       | Record   | Rating |
-| ---:  | ---:                       | :---		| ---:   |
-| 1     | Kansas City Chiefs         | 13-1     | 2044   |
-| 2     | Pittsburgh Steelers        | 11-2     | 1851   |
-| 3     | Buffalo Bills              | 11-3     | 1839   |
-| 4     | Tennessee Titans           | 10-4     | 1720   |
-| 5     | Baltimore Ravens           | 9-5      | 1706   |
-| 6     | Indianapolis Colts         | 10-4     | 1696   |
-| 7     | Cleveland Browns           | 10-4     | 1692   |
-| 8     | New Orleans Saints         | 10-4     | 1683   |
+| ---:  | ---:                       | ---:     | ---:   |
+| 1     | Kansas City Chiefs         | 13-1     | 2037   |
+| 2     | Buffalo Bills              | 11-3     | 1822   |
+| 3     | Pittsburgh Steelers        | 11-3     | 1733   |
+| 4     | Tennessee Titans           | 10-4     | 1705   |
+| 5     | Indianapolis Colts         | 10-4     | 1691   |
+| 6     | Baltimore Ravens           | 9-5      | 1684   |
+| 7     | New Orleans Saints         | 10-4     | 1683   |
+| 8     | Cleveland Browns           | 10-4     | 1681   |
 | 9     | Green Bay Packers          | 11-3     | 1677   |
 | 10    | Tampa Bay Buccaneers       | 9-5      | 1640   |
-| 11    | Seattle Seahawks           | 10-4     | 1629   |
-| 12    | Miami Dolphins             | 9-5      | 1595   |
-| 13    | Los Angeles Rams           | 9-5      | 1587   |
-| 14    | Las Vegas Raiders          | 7-7      | 1534   |
-| 15    | Arizona Cardinals          | 8-6      | 1527   |
-| 16    | Chicago Bears              | 7-7      | 1479   |
-| 17    | New England Patriots       | 6-8      | 1474   |
-| 18    | Denver Broncos             | 5-9      | 1464   |
-| 19    | Washington Football Team   | 6-8      | 1431   |
-| 20    | Minnesota Vikings          | 6-8      | 1420   |
-| 21    | New York Giants            | 5-9      | 1388   |
-| 22    | San Francisco 49ers        | 5-9      | 1387   |
-| 23    | Philadelphia Eagles        | 4-9-1    | 1378   |
-| 24    | Dallas Cowboys             | 5-9      | 1368   |
-| 25    | Detroit Lions              | 5-9      | 1354   |
-| 26    | Los Angeles Chargers       | 5-9      | 1348   |
-| 27    | Houston Texans             | 4-10     | 1341   |
-| 28    | Atlanta Falcons            | 4-10     | 1323   |
-| 29    | Carolina Panthers          | 4-10     | 1317   |
-| 30    | Cincinnati Bengals         | 2-10-1   | 1186   |
-| 31    | New York Jets              | 1-13     | 1101   |
-| 32    | Jacksonville Jaguars       | 1-13     | 978    |
+| 11    | Seattle Seahawks           | 10-4     | 1630   |
+| 12    | Miami Dolphins             | 9-5      | 1599   |
+| 13    | Los Angeles Rams           | 9-5      | 1588   |
+| 14    | Las Vegas Raiders          | 7-7      | 1533   |
+| 15    | Arizona Cardinals          | 8-6      | 1529   |
+| 16    | Chicago Bears              | 7-7      | 1478   |
+| 17    | New England Patriots       | 6-8      | 1473   |
+| 18    | Denver Broncos             | 5-9      | 1459   |
+| 19    | Washington Football Team   | 6-8      | 1436   |
+| 20    | Minnesota Vikings          | 6-8      | 1419   |
+| 21    | New York Giants            | 5-9      | 1394   |
+| 22    | San Francisco 49ers        | 5-9      | 1390   |
+| 23    | Philadelphia Eagles        | 4-9-1    | 1383   |
+| 24    | Dallas Cowboys             | 5-9      | 1375   |
+| 25    | Los Angeles Chargers       | 5-9      | 1357   |
+| 26    | Detroit Lions              | 5-9      | 1354   |
+| 27    | Houston Texans             | 4-10     | 1336   |
+| 28    | Atlanta Falcons            | 4-10     | 1325   |
+| 29    | Carolina Panthers          | 4-10     | 1318   |
+| 30    | Cincinnati Bengals         | 3-10-1   | 1295   |
+| 31    | New York Jets              | 1-13     | 1103   |
+| 32    | Jacksonville Jaguars       | 1-13     | 995    |
 
 NFL data comes from [https://www.pro-football-reference.com](https://www.pro-football-reference.com).
