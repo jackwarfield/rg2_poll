@@ -41,7 +41,7 @@ Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for
 
 ### NFL
 | Rank  | Team                       | Record   | Rating |
-| ---:  | ---:                       | ---:     | ---:   |
+| ---:  | ---:                       | :---     | ---:   |
 | 1     | Kansas City Chiefs         | 13-1     | 2037   |
 | 2     | Buffalo Bills              | 11-3     | 1822   |
 | 3     | Pittsburgh Steelers        | 11-3     | 1733   |
@@ -76,3 +76,34 @@ Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for
 | 32    | Jacksonville Jaguars       | 1-13     | 995    |
 
 NFL data comes from [https://www.pro-football-reference.com](https://www.pro-football-reference.com).
+
+### Men's College Basketball
+| Rank  | Team                 | Conference | Record   | Rating |
+| ---:  | ---:                 | ---:       | ---:     | ---:   |
+| 1     | Gonzaga              | WCC        | 6-0      | 3230   |
+| 2     | Houston              | AAC        | 6-0      | 3072   |
+| 3     | Michigan             | Big 10     | 6-0      | 3069   |
+| 4     | Missouri             | SEC        | 6-0      | 2933   |
+| 5     | SMU                  | AAC        | 5-0      | 2905   |
+| 6     | Kansas               | Big 12     | 8-1      | 2873   |
+| 7     | Baylor               | Big 12     | 6-0      | 2872   |
+| 8     | Chattanooga          | Southern   | 9-0      | 2780   |
+| 9     | Tennessee            | SEC        | 6-0      | 2765   |
+| 10    | UCF                  | AAC        | 3-1      | 2710   |
+| 11    | Boise St.            | MWC        | 6-1      | 2626   |
+| 12    | Arkansas             | SEC        | 8-0      | 2626   |
+| 13    | Iowa                 | Big 10     | 7-1      | 2598   |
+| 14    | St. Bonaventure      | A-10       | 2-0      | 2597   |
+| 15    | Southern Ill.        | MVC        | 6-0      | 2579   |
+| 16    | Washington St.       | Pac 12     | 8-0      | 2559   |
+| 17    | Georgia              | SEC        | 7-0      | 2558   |
+| 18    | Winthrop             | Big South  | 5-0      | 2526   |
+| 19    | Drake                | MVC        | 9-0      | 2517   |
+| 20    | West Virginia        | Big 12     | 7-2      | 2510   |
+| 21    | Villanova            | Big East   | 8-1      | 2499   |
+| 22    | Texas Tech           | Big 12     | 7-2      | 2495   |
+| 23    | Virginia Tech        | ACC        | 7-1      | 2481   |
+| 24    | Florida St.          | ACC        | 5-1      | 2473   |
+| 25    | Rutgers              | Big 10     | 6-1      | 2464   |
+
+Script for scraping data by [Luke Benz](https://github.com/lbenz730/NCAA_Hoops).

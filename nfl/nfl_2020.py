@@ -38,7 +38,7 @@ for j in range(51):
 ranks = df.sort_values ('rating', ascending=False).reset_index(drop=True)[['team', 'rating', 'wins', 'losses', 'ties']].values
 
 print ('| {:<5} | {:<26} | {:<8} | {:<6} |'.format('Rank', 'Team', 'Record', 'Rating'))
-print ('| {:<5} | {:<26} | {:<8} | {:<6} |'.format('---:', '---:', '---:', '---:'))
+print ('| {:<5} | {:<26} | {:<8} | {:<6} |'.format('---:', '---:', ':---', '---:'))
 for i in range(1,len(ranks)+1):
     t,r,w,l,e = ranks[i-1]
     if e == 0:
