@@ -77,11 +77,15 @@ for j in range(50):
         df = update_ratings (id1,id2,win,df.copy())
 
 df = df[df.conference.notna()].reset_index(drop=True)
-top25 = df.sort_values ('rating', ascending=False).head(25).reset_index(drop=True)[['school', 'conference', 'rating', 'wins', 'losses']].values
 
-print ('{:>5} {:>20} {:>20} {:>6} {:>6}'.format('Rank', 'Team', 'Conference', 'Record', 'Rating'))
-for i in range(1,26):
-    t,c,r,w,l = top25[i-1]
-    print ('{:>5} {:>20} {:>20} {:>6} {:>6}'.format(i, t, c, str(int(w))+'-'+str(int(l)), int(r)))
+ranks = df.sort_values ('rating', ascending=False).reset_index(drop=True)[['school', 'conference', 'rating', 'wins', 'losses']].values
+
+print ('| {:<5} | {:<20} | {:<20} | {:<8} | {:<6} |'.format('Rank', 'Team', 'Conference', 'Record', 'Rating'))
+print ('| {:<5} | {:<20} | {:<20} | {:<8} | {:<6} |'.format('---:', '---:', '---:', '---:', '---:'))
+for i in range(1,25+1):
+    t,c,r,w,l = ranks[i-1]
+    rec = str(int(w))+'-'+str(int(l))
+    print ('| {:<5} | {:<20} | {:<20} | {:<8} | {:<6} |'.format(i, t, c, rec, int(r)))
+
 
 df.to_csv ('teams_2020_rankings.csv', index=False)
