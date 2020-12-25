@@ -18,7 +18,7 @@ This poll is based on the Glicko-2 rating system [\(Glickman 2013\)](http://glic
 | 11    | BYU                  | FBS Independents     | 11-1     | 2282   |
 | 12    | Georgia              | SEC                  | 7-2      | 2006   |
 | 13    | Florida              | SEC                  | 8-3      | 1966   |
-| 14    | Miami                | ACC                  | 8-2      | 1946   |
+| 14    | Miami of Florida	   | ACC                  | 8-2      | 1946   |
 | 15    | Northwestern         | Big Ten              | 6-2      | 1919   |
 | 16    | Oklahoma             | Big 12               | 8-2      | 1918   |
 | 17    | Iowa State           | Big 12               | 8-3      | 1892   |
