@@ -7,29 +7,30 @@ This poll is based on the Glicko-2 rating system [\(Glickman 2013\)](http://glic
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
 | 1     | Alabama              | SEC                  | 11-0     | 2971   |
 | 2     | Ohio State           | Big Ten              | 6-0      | 2816   |
-| 3     | Coastal Carolina     | Sun Belt             | 11-0     | 2788   |
-| 4     | Cincinnati           | American Athletic    | 9-0      | 2540   |
-| 5     | Clemson              | ACC                  | 10-1     | 2452   |
-| 6     | Texas A&M            | SEC                  | 8-1      | 2452   |
-| 7     | Notre Dame           | FBS Independents     | 10-1     | 2426   |
-| 8     | San José State       | Mountain West        | 7-0      | 2380   |
+| 3     | Coastal Carolina     | Sun Belt             | 11-0     | 2785   |
+| 4     | Cincinnati           | American Athletic    | 9-0      | 2539   |
+| 5     | Texas A&M            | SEC                  | 8-1      | 2452   |
+| 6     | Clemson              | ACC                  | 10-1     | 2451   |
+| 7     | Notre Dame           | FBS Independents     | 10-1     | 2425   |
+| 8     | San José State       | Mountain West        | 7-0      | 2379   |
 | 9     | Indiana              | Big Ten              | 6-1      | 2308   |
-| 10    | Louisiana            | Sun Belt             | 9-1      | 2295   |
-| 11    | BYU                  | FBS Independents     | 11-1     | 2282   |
+| 10    | Louisiana            | Sun Belt             | 9-1      | 2290   |
+| 11    | BYU                  | FBS Independents     | 11-1     | 2280   |
 | 12    | Georgia              | SEC                  | 7-2      | 2006   |
 | 13    | Florida              | SEC                  | 8-3      | 1966   |
-| 14    | Miami of Florida	   | ACC                  | 8-2      | 1946   |
+| 14    | Miami of Florida     | ACC                  | 8-2      | 1943   |
 | 15    | Northwestern         | Big Ten              | 6-2      | 1919   |
-| 16    | Oklahoma             | Big 12               | 8-2      | 1918   |
-| 17    | Iowa State           | Big 12               | 8-3      | 1892   |
+| 16    | Oklahoma             | Big 12               | 8-2      | 1916   |
+| 17    | Iowa State           | Big 12               | 8-3      | 1891   |
 | 18    | USC                  | Pac-12               | 5-1      | 1887   |
 | 19    | Colorado             | Pac-12               | 4-1      | 1878   |
-| 20    | Boise State          | Mountain West        | 5-2      | 1865   |
-| 21    | North Carolina       | ACC                  | 8-3      | 1837   |
-| 22    | Tulsa                | American Athletic    | 6-2      | 1836   |
+| 20    | Boise State          | Mountain West        | 5-2      | 1864   |
+| 21    | North Carolina       | ACC                  | 8-3      | 1835   |
+| 22    | Tulsa                | American Athletic    | 6-2      | 1834   |
 | 23    | Washington           | Pac-12               | 3-1      | 1827   |
 | 24    | Utah                 | Pac-12               | 3-2      | 1822   |
 | 25    | Iowa                 | Big Ten              | 6-2      | 1820   |
+_Updated 12/25/2020 at 7:35pm_
 
 Because of changes the schedules forced by the pandemic, resume-based rankings for college football are more difficult this year. Where for previous years, bias-free rankings using this method produce reasonable results, the lack of cross-conference play and full schedules complicate this year's rankings. The formula that I ended up using is:
 
@@ -74,6 +75,7 @@ Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for
 | 30    | Cincinnati Bengals         | 3-10-1   | 1295   |
 | 31    | New York Jets              | 1-13     | 1103   |
 | 32    | Jacksonville Jaguars       | 1-13     | 995    |
+_Updated 12/21/2020_
 
 NFL data comes from [https://www.pro-football-reference.com](https://www.pro-football-reference.com).
 
@@ -105,5 +107,6 @@ NFL data comes from [https://www.pro-football-reference.com](https://www.pro-foo
 | 23    | Virginia Tech        | ACC        | 7-1      | 2481   |
 | 24    | Florida St.          | ACC        | 5-1      | 2473   |
 | 25    | Rutgers              | Big 10     | 6-1      | 2464   |
+_Updated 12/24/2020_
 
 Script for scraping data by [Luke Benz](https://github.com/lbenz730/NCAA_Hoops).
