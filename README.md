@@ -8,10 +8,10 @@ This poll is based on the Glicko-2 rating system [\(Glickman 2013\)](http://glic
 | 1     | Alabama              | SEC                  | 11-0     | 2971   |
 | 2     | Ohio State           | Big Ten              | 6-0      | 2816   |
 | 3     | Coastal Carolina     | Sun Belt             | 11-0     | 2785   |
-| 4     | Cincinnati           | American Athletic    | 9-0      | 2539   |
+| 4     | Cincinnati           | AAC			      | 9-0      | 2539   |
 | 5     | Texas A&M            | SEC                  | 8-1      | 2452   |
 | 6     | Clemson              | ACC                  | 10-1     | 2451   |
-| 7     | Notre Dame           | FBS Independents     | 10-1     | 2425   |
+| 7     | Notre Dame           | ACC			      | 10-1     | 2425   |
 | 8     | San José State       | Mountain West        | 7-0      | 2379   |
 | 9     | Indiana              | Big Ten              | 6-1      | 2308   |
 | 10    | Louisiana            | Sun Belt             | 9-1      | 2290   |
@@ -26,7 +26,7 @@ This poll is based on the Glicko-2 rating system [\(Glickman 2013\)](http://glic
 | 19    | Colorado             | Pac-12               | 4-1      | 1878   |
 | 20    | Boise State          | Mountain West        | 5-2      | 1864   |
 | 21    | North Carolina       | ACC                  | 8-3      | 1835   |
-| 22    | Tulsa                | American Athletic    | 6-2      | 1834   |
+| 22    | Tulsa                | AAC				  | 6-2      | 1834   |
 | 23    | Washington           | Pac-12               | 3-1      | 1827   |
 | 24    | Utah                 | Pac-12               | 3-2      | 1822   |
 | 25    | Iowa                 | Big Ten              | 6-2      | 1820   |
