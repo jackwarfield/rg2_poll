@@ -30,7 +30,7 @@ This poll is based on the Glicko-2 rating system [\(Glickman 2013\)](http://glic
 | 23    | Washington           | Pac-12               | 3-1      | 1827   |
 | 24    | Utah                 | Pac-12               | 3-2      | 1822   |
 | 25    | Iowa                 | Big Ten              | 6-2      | 1820   |
-_Updated 12/25/2020 at 7:35pm_
+_Updated 12/26/2020, 7:30am_
 
 Because of changes the schedules forced by the pandemic, resume-based rankings for college football are more difficult this year. Where for previous years, bias-free rankings using this method produce reasonable results, the lack of cross-conference play and full schedules complicate this year's rankings. The formula that I ended up using is:
 
@@ -43,70 +43,70 @@ Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for
 ### NFL
 | Rank  | Team                       | Record   | Rating |
 | ---:  | ---:                       | :---     | ---:   |
-| 1     | Kansas City Chiefs         | 13-1     | 2037   |
-| 2     | Buffalo Bills              | 11-3     | 1822   |
+| 1     | Kansas City Chiefs         | 13-1     | 2040   |
+| 2     | Buffalo Bills              | 11-3     | 1823   |
 | 3     | Pittsburgh Steelers        | 11-3     | 1733   |
-| 4     | Tennessee Titans           | 10-4     | 1705   |
-| 5     | Indianapolis Colts         | 10-4     | 1691   |
-| 6     | Baltimore Ravens           | 9-5      | 1684   |
-| 7     | New Orleans Saints         | 10-4     | 1683   |
+| 4     | Tennessee Titans           | 10-4     | 1703   |
+| 5     | New Orleans Saints         | 11-4     | 1700   |
+| 6     | Indianapolis Colts         | 10-4     | 1690   |
+| 7     | Baltimore Ravens           | 9-5      | 1684   |
 | 8     | Cleveland Browns           | 10-4     | 1681   |
 | 9     | Green Bay Packers          | 11-3     | 1677   |
-| 10    | Tampa Bay Buccaneers       | 9-5      | 1640   |
+| 10    | Tampa Bay Buccaneers       | 9-5      | 1643   |
 | 11    | Seattle Seahawks           | 10-4     | 1630   |
 | 12    | Miami Dolphins             | 9-5      | 1599   |
 | 13    | Los Angeles Rams           | 9-5      | 1588   |
-| 14    | Las Vegas Raiders          | 7-7      | 1533   |
+| 14    | Las Vegas Raiders          | 7-7      | 1535   |
 | 15    | Arizona Cardinals          | 8-6      | 1529   |
-| 16    | Chicago Bears              | 7-7      | 1478   |
-| 17    | New England Patriots       | 6-8      | 1473   |
-| 18    | Denver Broncos             | 5-9      | 1459   |
+| 16    | Chicago Bears              | 7-7      | 1477   |
+| 17    | New England Patriots       | 6-8      | 1474   |
+| 18    | Denver Broncos             | 5-9      | 1461   |
 | 19    | Washington Football Team   | 6-8      | 1436   |
-| 20    | Minnesota Vikings          | 6-8      | 1419   |
+| 20    | Minnesota Vikings          | 6-9      | 1406   |
 | 21    | New York Giants            | 5-9      | 1394   |
-| 22    | San Francisco 49ers        | 5-9      | 1390   |
-| 23    | Philadelphia Eagles        | 4-9-1    | 1383   |
-| 24    | Dallas Cowboys             | 5-9      | 1375   |
-| 25    | Los Angeles Chargers       | 5-9      | 1357   |
-| 26    | Detroit Lions              | 5-9      | 1354   |
-| 27    | Houston Texans             | 4-10     | 1336   |
+| 22    | San Francisco 49ers        | 5-9      | 1391   |
+| 23    | Philadelphia Eagles        | 4-9-1    | 1384   |
+| 24    | Dallas Cowboys             | 5-9      | 1374   |
+| 25    | Los Angeles Chargers       | 5-9      | 1359   |
+| 26    | Detroit Lions              | 5-9      | 1353   |
+| 27    | Houston Texans             | 4-10     | 1334   |
 | 28    | Atlanta Falcons            | 4-10     | 1325   |
 | 29    | Carolina Panthers          | 4-10     | 1318   |
 | 30    | Cincinnati Bengals         | 3-10-1   | 1295   |
-| 31    | New York Jets              | 1-13     | 1103   |
-| 32    | Jacksonville Jaguars       | 1-13     | 995    |
-_Updated 12/21/2020_
+| 31    | New York Jets              | 1-13     | 1104   |
+| 32    | Jacksonville Jaguars       | 1-13     | 993    |
+_Updated 12/26/2020, 7:30am_
 
 NFL data comes from [https://www.pro-football-reference.com](https://www.pro-football-reference.com).
 
 ### Men's College Basketball
 | Rank  | Team                 | Conference | Record   | Rating |
 | ---:  | ---:                 | ---:       | ---:     | ---:   |
-| 1     | Gonzaga              | WCC        | 6-0      | 3230   |
-| 2     | Houston              | AAC        | 6-0      | 3072   |
-| 3     | Michigan             | Big 10     | 6-0      | 3069   |
-| 4     | Missouri             | SEC        | 6-0      | 2933   |
-| 5     | SMU                  | AAC        | 5-0      | 2905   |
-| 6     | Kansas               | Big 12     | 8-1      | 2873   |
-| 7     | Baylor               | Big 12     | 6-0      | 2872   |
-| 8     | Chattanooga          | Southern   | 9-0      | 2780   |
-| 9     | Tennessee            | SEC        | 6-0      | 2765   |
-| 10    | UCF                  | AAC        | 3-1      | 2710   |
-| 11    | Boise St.            | MWC        | 6-1      | 2626   |
-| 12    | Arkansas             | SEC        | 8-0      | 2626   |
-| 13    | Iowa                 | Big 10     | 7-1      | 2598   |
-| 14    | St. Bonaventure      | A-10       | 2-0      | 2597   |
-| 15    | Southern Ill.        | MVC        | 6-0      | 2579   |
-| 16    | Washington St.       | Pac 12     | 8-0      | 2559   |
-| 17    | Georgia              | SEC        | 7-0      | 2558   |
-| 18    | Winthrop             | Big South  | 5-0      | 2526   |
-| 19    | Drake                | MVC        | 9-0      | 2517   |
-| 20    | West Virginia        | Big 12     | 7-2      | 2510   |
-| 21    | Villanova            | Big East   | 8-1      | 2499   |
-| 22    | Texas Tech           | Big 12     | 7-2      | 2495   |
-| 23    | Virginia Tech        | ACC        | 7-1      | 2481   |
-| 24    | Florida St.          | ACC        | 5-1      | 2473   |
-| 25    | Rutgers              | Big 10     | 6-1      | 2464   |
-_Updated 12/24/2020_
+| 1     | Gonzaga              | WCC        | 6-0      | 3178   |
+| 2     | Houston              | AAC        | 6-0      | 3075   |
+| 3     | Michigan             | Big 10     | 7-0      | 2999   |
+| 4     | Missouri             | SEC        | 6-0      | 2963   |
+| 5     | SMU                  | AAC        | 5-0      | 2886   |
+| 6     | Baylor               | Big 12     | 6-0      | 2870   |
+| 7     | Kansas               | Big 12     | 8-1      | 2845   |
+| 8     | Chattanooga          | Southern   | 9-0      | 2832   |
+| 9     | Tennessee            | SEC        | 6-0      | 2796   |
+| 10    | UCF                  | AAC        | 3-1      | 2640   |
+| 11    | Boise St.            | MWC        | 6-1      | 2621   |
+| 12    | Arkansas             | SEC        | 8-0      | 2609   |
+| 13    | Georgia              | SEC        | 7-0      | 2605   |
+| 14    | Southern Ill.        | MVC        | 6-0      | 2563   |
+| 15    | Minnesota            | Big 10     | 8-1      | 2533   |
+| 16    | Washington St.       | Pac 12     | 8-0      | 2516   |
+| 17    | Drake                | MVC        | 9-0      | 2515   |
+| 18    | St. Bonaventure      | A-10       | 2-0      | 2512   |
+| 19    | West Virginia        | Big 12     | 7-2      | 2494   |
+| 20    | Texas Tech           | Big 12     | 7-2      | 2485   |
+| 21    | The Citadel          | Southern   | 7-0      | 2478   |
+| 22    | Villanova            | Big East   | 8-1      | 2454   |
+| 23    | Illinois             | Big 10     | 6-3      | 2446   |
+| 24    | Virginia Tech        | ACC        | 7-1      | 2426   |
+| 25    | Rutgers              | Big 10     | 6-1      | 2425   |
+_Updated 12/26/2020, 7:30am_
 
 Script for scraping data by [Luke Benz](https://github.com/lbenz730/NCAA_Hoops).
