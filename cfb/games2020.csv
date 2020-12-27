@@ -16,9 +16,9 @@
 401256140,2020,1,postseason,2020-12-24T20:30:00.000Z,false,true,false,,1400,Toyota Stadium,248,Houston,American Athletic,14,0,0,14,0,0.1450248401062372,62,Hawai'i,Mountain West,28,14,7,7,0,0.8549751598937628,3.4081005787
 401256141,2020,1,postseason,2020-12-25T19:30:00.000Z,false,true,false,,3689,Cramton Bowl,2084,Buffalo,Mid-American,17,0,10,0,7,0.9572777407301918,276,Marshall,Conference USA,10,0,7,3,0,0.042722259269808216,9.1075877397
 401256142,2020,1,postseason,2020-12-26T17:00:00.000Z,false,true,false,,3886,Raymond James Stadium,5,UAB,Conference USA,,,,,,,2579,South Carolina,SEC,,,,,,,
-401256144,2020,1,postseason,2020-12-26T20:30:00.000Z,false,true,false,,3735,Gerald J. Ford Stadium,2636,UT San Antonio,Conference USA,,,,,,,309,Louisiana,Sun Belt,,,,,,,
-401256145,2020,1,postseason,2020-12-26T20:30:00.000Z,false,true,false,,3797,Ladd Peebles Stadium,2247,Georgia State,Sun Belt,,,,,,,98,Western Kentucky,Conference USA,,,,,,,
-401256143,2020,1,postseason,2020-12-27T00:30:00.000Z,false,true,false,,4013,Camping World Stadium,324,Coastal Carolina,Sun Belt,,,,,,,2335,Liberty,FBS Independents,,,,,,,
+401256144,2020,1,postseason,2020-12-26T20:30:00.000Z,false,true,false,,3735,Gerald J. Ford Stadium,2636,UT San Antonio,Conference USA,24,0,7,14,3,0.4730522763174354,309,Louisiana,Sun Belt,31,7,10,7,7,0.5269477236825646,3.8174746217
+401256145,2020,1,postseason,2020-12-26T20:30:00.000Z,false,true,false,,3797,Ladd Peebles Stadium,2247,Georgia State,Sun Belt,39,7,20,3,9,0.9969544448140139,98,Western Kentucky,Conference USA,21,7,0,7,7,0.0030455551859861485,3.9327838561
+401256143,2020,1,postseason,2020-12-27T00:30:00.000Z,false,true,false,,4013,Camping World Stadium,324,Coastal Carolina,Sun Belt,34,0,13,6,15,0.7455936586828745,2335,Liberty,FBS Independents,37,14,3,7,10,0.2544063413171255,7.0867948538
 401256150,2020,1,postseason,2020-12-29T22:30:00.000Z,false,true,false,,4013,Camping World Stadium,2390,Miami,ACC,,,,,,,197,Oklahoma State,Big 12,,,,,,,
 401256151,2020,1,postseason,2020-12-30T02:00:00.000Z,false,true,false,,3604,Alamodome,38,Colorado,Pac-12,,,,,,,251,Texas,Big 12,,,,,,,
 401256152,2020,1,postseason,2020-12-30T17:00:00.000Z,false,true,false,,3628,Bank of America Stadium,275,Wisconsin,Big Ten,,,,,,,154,Wake Forest,ACC,,,,,,,
