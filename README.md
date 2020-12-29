@@ -82,31 +82,31 @@ NFL data comes from [https://www.pro-football-reference.com](https://www.pro-foo
 ### Men's College Basketball
 | Rank  | Team                 | Conference | Record   | Rating |
 | ---:  | ---:                 | ---:       | ---:     | ---:   |
-| 1     | Gonzaga              | WCC        | 7-0      | 3207   |
-| 2     | Houston              | AAC        | 7-0      | 3164   |
-| 3     | Michigan             | Big 10     | 7-0      | 3018   |
-| 4     | Missouri             | SEC        | 6-0      | 3000   |
-| 5     | Baylor               | Big 12     | 6-0      | 2940   |
-| 6     | SMU                  | AAC        | 5-0      | 2928   |
-| 7     | Kansas               | Big 12     | 8-1      | 2861   |
-| 8     | Chattanooga          | Southern   | 9-0      | 2809   |
-| 9     | Tennessee            | SEC        | 6-0      | 2808   |
-| 10    | Boise St.            | MWC        | 6-1      | 2656   |
-| 11    | UCF                  | AAC        | 3-2      | 2635   |
-| 12    | Georgia              | SEC        | 7-0      | 2620   |
-| 13    | Arkansas             | SEC        | 8-0      | 2619   |
-| 14    | Southern Ill.        | MVC        | 6-0      | 2576   |
-| 15    | Minnesota            | Big 10     | 8-1      | 2570   |
-| 16    | Drake                | MVC        | 9-0      | 2532   |
-| 17    | Washington St.       | Pac 12     | 8-0      | 2530   |
-| 18    | St. Bonaventure      | A-10       | 2-0      | 2512   |
-| 19    | West Virginia        | Big 12     | 7-2      | 2509   |
-| 20    | Illinois             | Big 10     | 7-3      | 2504   |
-| 21    | Texas Tech           | Big 12     | 7-2      | 2499   |
-| 22    | Villanova            | Big East   | 8-1      | 2483   |
-| 23    | The Citadel          | Southern   | 7-0      | 2475   |
-| 24    | Virginia Tech        | ACC        | 7-1      | 2457   |
-| 25    | Saint Louis          | A-10       | 7-1      | 2431   |
-_Updated 12/26/2020, 9:30pm_
+| 1     | Gonzaga              | WCC        | 8-0      | 3185   |
+| 2     | Houston              | AAC        | 7-0      | 3104   |
+| 3     | Michigan             | Big 10     | 7-0      | 3007   |
+| 4     | Missouri             | SEC        | 6-0      | 2986   |
+| 5     | SMU                  | AAC        | 5-0      | 2968   |
+| 6     | Baylor               | Big 12     | 6-0      | 2942   |
+| 7     | Chattanooga          | Southern   | 9-0      | 2855   |
+| 8     | Kansas               | Big 12     | 8-1      | 2831   |
+| 9     | Arkansas             | SEC        | 8-0      | 2612   |
+| 10    | UCF                  | AAC        | 3-2      | 2609   |
+| 11    | Georgia              | SEC        | 7-0      | 2608   |
+| 12    | Boise St.            | MWC        | 6-1      | 2604   |
+| 13    | Drake                | MVC        | 11-0     | 2597   |
+| 14    | Winthrop             | Big South  | 5-0      | 2565   |
+| 15    | Tennessee            | SEC        | 6-0      | 2561   |
+| 16    | St. Bonaventure      | A-10       | 2-0      | 2531   |
+| 17    | Minnesota            | Big 10     | 9-1      | 2531   |
+| 18    | Washington St.       | Pac 12     | 8-0      | 2519   |
+| 19    | West Virginia        | Big 12     | 7-2      | 2489   |
+| 20    | Illinois             | Big 10     | 7-3      | 2489   |
+| 21    | Texas Tech           | Big 12     | 7-2      | 2468   |
+| 22    | The Citadel          | Southern   | 7-0      | 2467   |
+| 23    | Dayton               | A-10       | 4-1      | 2455   |
+| 24    | East Carolina        | AAC        | 7-1      | 2441   |
+| 25    | Alabama A&M          | SWAC       | 2-0      | 2435   |
+_Updated 12/29/2020, 1:18am_
 
 Script for scraping data by [Luke Benz](https://github.com/lbenz730/NCAA_Hoops).
