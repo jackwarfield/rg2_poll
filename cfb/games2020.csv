@@ -32,8 +32,8 @@
 401256199,2020,1,postseason,2021-01-01T18:00:00.000Z,false,true,false,,4013,Camping World Stadium,77,Northwestern,Big Ten,35,14,0,7,14,0.959438617182813,2,Auburn,SEC,19,0,6,7,6,0.04056138281718702,5.2579258655
 401240152,2020,1,postseason,2021-01-01T21:00:00.000Z,false,true,false,,3687,AT&T Stadium,333,Alabama,SEC,31,14,7,7,3,0.9985487793840647,87,Notre Dame,FBS Independents,14,0,7,0,7,0.001451220615935278,1.8223041546
 401240173,2020,1,postseason,2021-01-02T01:00:00.000Z,false,true,false,,3493,Mercedes-Benz Superdome,228,Clemson,ACC,28,14,0,7,7,0.014577236871223129,194,Ohio State,Big Ten,49,14,21,7,7,0.9854227631287769,2.8921976421
-401256109,2020,1,postseason,2021-01-02T17:00:00.000Z,false,true,false,,3712,EverBank Field,96,Kentucky,SEC,,,,,,,152,NC State,ACC,,,,,,,
-401256110,2020,1,postseason,2021-01-02T17:30:00.000Z,false,true,false,,3886,Raymond James Stadium,84,Indiana,Big Ten,,,,,,,145,Ole Miss,SEC,,,,,,,
+401256109,2020,1,postseason,2021-01-02T17:00:00.000Z,false,true,false,,3712,EverBank Field,96,Kentucky,SEC,23,3,10,0,10,0.7343053586931432,152,NC State,ACC,21,0,0,7,14,0.2656946413068568,6.4005115484
+401256110,2020,1,postseason,2021-01-02T17:30:00.000Z,false,true,false,,3886,Raymond James Stadium,84,Indiana,Big Ten,20,3,0,3,14,0.11332722683116944,145,Ole Miss,SEC,26,6,7,7,6,0.8866727731688305,6.5142029679
 401256111,2020,1,postseason,2021-01-02T21:00:00.000Z,false,true,false,,3970,University of Phoenix Stadium,66,Iowa State,Big 12,,,,,,,2483,Oregon,Pac-12,,,,,,,
 401256112,2020,1,postseason,2021-01-03T01:00:00.000Z,false,true,false,,3948,Hard Rock Stadium,153,North Carolina,ACC,,,,,,,245,Texas A&M,SEC,,,,,,,
 401240174,2020,1,regular,2021-01-12T01:00:00.000Z,,true,false,,3948,Hard Rock Stadium,333,Alabama,SEC,,,,,,,194,Ohio State,Big Ten,,,,,,,
