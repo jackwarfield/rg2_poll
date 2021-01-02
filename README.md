@@ -5,32 +5,32 @@ This poll is based on the Glicko-2 rating system [\(Glickman 2013\)](http://glic
 ### College Football
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
-| 1     | Alabama              | SEC                  | 11-0     | 2971   |
-| 2     | Ohio State           | Big Ten              | 6-0      | 2823   |
-| 3     | Cincinnati           | American Athletic    | 9-0      | 2477   |
-| 4     | Texas A&M            | SEC                  | 8-1      | 2454   |
-| 5     | Clemson              | ACC                  | 10-1     | 2431   |
-| 6     | Notre Dame           | ACC			      | 10-1     | 2407   |
-| 7     | Indiana              | Big Ten              | 6-1      | 2322   |
-| 8     | Coastal Carolina     | Sun Belt             | 11-1     | 2176   |
-| 9     | Louisiana            | Sun Belt             | 10-1     | 2124   |
-| 10    | Oklahoma             | Big 12               | 9-2      | 2095   |
-| 11    | Ball State           | Mid-American         | 7-1      | 2033   |
-| 12    | Liberty              | FBS Independents     | 10-1     | 2031   |
-| 13    | Georgia              | SEC                  | 7-2      | 2030   |
-| 14    | BYU                  | FBS Independents     | 11-1     | 2027   |
-| 15    | Iowa State           | Big 12               | 8-3      | 2015   |
-| 16    | San José State       | Mountain West        | 7-1      | 1943   |
-| 17    | Northwestern         | Big Ten              | 6-2      | 1941   |
-| 18    | Florida              | SEC                  | 8-4      | 1934   |
-| 19    | Oklahoma State       | Big 12               | 8-3      | 1932   |
+| 1     | Alabama              | SEC                  | 12-0     | 3058   |
+| 2     | Ohio State           | Big Ten              | 7-0      | 2955   |
+| 3     | Texas A&M            | SEC                  | 8-1      | 2485   |
+| 4     | Indiana              | Big Ten              | 6-1      | 2376   |
+| 5     | Clemson              | ACC                  | 10-2     | 2347   |
+| 6     | Notre Dame           | ACC			      | 10-2     | 2325   |
+| 7     | Coastal Carolina     | Sun Belt             | 11-1     | 2172   |
+| 8     | Georgia              | SEC                  | 8-2      | 2141   |
+| 9     | Louisiana            | Sun Belt             | 10-1     | 2122   |
+| 10    | Oklahoma             | Big 12               | 9-2      | 2098   |
+| 11    | Ball State           | Mid-American         | 7-1      | 2032   |
+| 12    | Northwestern         | Big Ten              | 7-2      | 2031   |
+| 13    | Liberty              | FBS Independents     | 10-1     | 2025   |
+| 14    | BYU                  | FBS Independents     | 11-1     | 2022   |
+| 15    | Cincinnati           | American Athletic    | 9-1      | 2020   |
+| 16    | Iowa State           | Big 12               | 8-3      | 2014   |
+| 17    | Florida              | SEC                  | 8-4      | 1958   |
+| 18    | San José State       | Mountain West        | 7-1      | 1940   |
+| 19    | Oklahoma State       | Big 12               | 8-3      | 1928   |
 | 20    | Buffalo              | Mid-American         | 6-1      | 1916   |
-| 21    | Texas                | Big 12               | 7-3      | 1913   |
-| 22    | Miami		           | Mid-American         | 2-1      | 1867   |
-| 23    | Miami of Florida     | ACC                  | 8-3      | 1862   |
+| 21    | Texas                | Big 12               | 7-3      | 1912   |
+| 22    | Iowa                 | Big Ten              | 6-2      | 1878   |
+| 23    | Miami		           | Mid-American         | 2-1      | 1867   |
 | 24    | USC                  | Pac-12               | 5-1      | 1856   |
-| 25    | Iowa                 | Big Ten              | 6-2      | 1841   |
-_Updated 1/01/2021, 1:00am_
+| 25    | Miami of Florida     | ACC                  | 8-3      | 1852   |
+_Updated 1/02/2021, 2:30pm_
 
 Because of changes the schedules forced by the pandemic, resume-based rankings for college football are more difficult this year. Where for previous years, bias-free rankings using this method produce reasonable results, the lack of cross-conference play and full schedules complicate this year's rankings. The formula that I ended up using is:
 
@@ -75,38 +75,38 @@ Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for
 | 30    | Houston Texans             | 4-11     | 1265   |
 | 31    | New York Jets              | 2-13     | 1260   |
 | 32    | Jacksonville Jaguars       | 1-14     | 963    |
-_Updated 1/01/2021, 1:00am_
+_Updated 1/02/2021, 2:30pm_
 
 NFL data comes from [https://www.pro-football-reference.com](https://www.pro-football-reference.com).
 
 ### Men's College Basketball
 | Rank  | Team                 | Conference | Record   | Rating |
 | ---:  | ---:                 | ---:       | ---:     | ---:   |
-| 1     | Gonzaga              | WCC        | 9-0      | 3220   |
-| 2     | Tennessee            | SEC        | 7-0      | 3125   |
-| 3     | Baylor               | Big 12     | 8-0      | 2932   |
-| 4     | Michigan             | Big 10     | 8-0      | 2915   |
-| 5     | SMU                  | AAC        | 6-0      | 2878   |
-| 6     | Kansas               | Big 12     | 8-1      | 2834   |
-| 7     | Arkansas             | SEC        | 9-0      | 2766   |
-| 8     | Missouri             | SEC        | 6-1      | 2756   |
-| 9     | Drake                | MVC        | 11-0     | 2621   |
-| 10    | Washington St.       | Pac 12     | 8-0      | 2545   |
-| 11    | West Virginia        | Big 12     | 8-2      | 2530   |
-| 12    | Winthrop             | Big South  | 7-0      | 2501   |
-| 13    | Clemson              | ACC        | 7-1      | 2486   |
-| 14    | Virginia Tech        | ACC        | 8-1      | 2486   |
-| 15    | Villanova            | Big East   | 8-1      | 2473   |
-| 16    | Rutgers              | Big 10     | 7-1      | 2465   |
-| 17    | The Citadel          | Southern   | 7-0      | 2465   |
-| 18    | Houston              | AAC        | 7-1      | 2459   |
-| 19    | Illinois             | Big 10     | 7-3      | 2423   |
-| 20    | Texas                | Big 12     | 7-1      | 2404   |
-| 21    | Oregon               | Pac 12     | 7-1      | 2392   |
-| 22    | UCF                  | AAC        | 3-2      | 2378   |
-| 23    | Minnesota            | Big 10     | 9-2      | 2365   |
-| 24    | Iowa                 | Big 10     | 8-2      | 2364   |
-| 25    | Alabama A&M          | SWAC       | 2-0      | 2358   |
-_Updated 1/01/2021, 1:00am_
+| 1     | Tennessee            | SEC        | 7-0      | 3180   |
+| 2     | Gonzaga              | WCC        | 9-0      | 3126   |
+| 3     | Baylor               | Big 12     | 8-0      | 2956   |
+| 4     | Michigan             | Big 10     | 8-0      | 2952   |
+| 5     | Missouri             | SEC        | 7-1      | 2854   |
+| 6     | SMU                  | AAC        | 6-0      | 2811   |
+| 7     | Texas                | Big 12     | 8-1      | 2629   |
+| 8     | Drake                | MVC        | 11-0     | 2617   |
+| 9     | Villanova            | Big East   | 8-1      | 2590   |
+| 10    | Kansas               | Big 12     | 8-2      | 2585   |
+| 11    | Winthrop             | Big South  | 7-0      | 2578   |
+| 12    | Virginia Tech        | ACC        | 8-1      | 2549   |
+| 13    | Washington St.       | Pac 12     | 8-0      | 2525   |
+| 14    | Clemson              | ACC        | 7-1      | 2515   |
+| 15    | Arkansas             | SEC        | 9-1      | 2499   |
+| 16    | Rutgers              | Big 10     | 7-1      | 2474   |
+| 17    | The Citadel          | Southern   | 7-0      | 2472   |
+| 18    | West Virginia        | Big 12     | 8-2      | 2452   |
+| 19    | Illinois             | Big 10     | 7-3      | 2452   |
+| 20    | Houston              | AAC        | 7-1      | 2441   |
+| 21    | Alabama A&M          | SWAC       | 2-0      | 2434   |
+| 22    | Oregon               | Pac 12     | 7-1      | 2432   |
+| 23    | UCF                  | AAC        | 3-2      | 2392   |
+| 24    | Minnesota            | Big 10     | 9-2      | 2383   |
+| 25    | Louisiana            | Sunbelt    | 7-1      | 2373   |
+_Updated 1/02/2021, 2:30pm_
 
 Script for scraping data by [Luke Benz](https://github.com/lbenz730/NCAA_Hoops).
