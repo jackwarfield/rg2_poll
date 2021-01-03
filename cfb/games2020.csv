@@ -34,9 +34,9 @@
 401240173,2020,1,postseason,2021-01-02T01:00:00.000Z,false,true,false,,3493,Mercedes-Benz Superdome,228,Clemson,ACC,28,14,0,7,7,0.014577236871223129,194,Ohio State,Big Ten,49,14,21,7,7,0.9854227631287769,2.8921976421
 401256109,2020,1,postseason,2021-01-02T17:00:00.000Z,false,true,false,,3712,EverBank Field,96,Kentucky,SEC,23,3,10,0,10,0.7343053586931432,152,NC State,ACC,21,0,0,7,14,0.2656946413068568,6.4005115484
 401256110,2020,1,postseason,2021-01-02T17:30:00.000Z,false,true,false,,3886,Raymond James Stadium,84,Indiana,Big Ten,20,3,0,3,14,0.11332722683116944,145,Ole Miss,SEC,26,6,7,7,6,0.8866727731688305,6.5142029679
-401256111,2020,1,postseason,2021-01-02T21:00:00.000Z,false,true,false,,3970,University of Phoenix Stadium,66,Iowa State,Big 12,,,,,,,2483,Oregon,Pac-12,,,,,,,
-401256112,2020,1,postseason,2021-01-03T01:00:00.000Z,false,true,false,,3948,Hard Rock Stadium,153,North Carolina,ACC,,,,,,,245,Texas A&M,SEC,,,,,,,
-401240174,2020,1,regular,2021-01-12T01:00:00.000Z,,true,false,,3948,Hard Rock Stadium,333,Alabama,SEC,,,,,,,194,Ohio State,Big Ten,,,,,,,
+401256111,2020,1,postseason,2021-01-02T21:00:00.000Z,false,true,false,,3970,University of Phoenix Stadium,66,Iowa State,Big 12,34,7,21,3,3,0.8856251807501376,2483,Oregon,Pac-12,17,7,10,0,0,0.11437481924986237,4.4266759647
+401256112,2020,1,postseason,2021-01-03T01:00:00.000Z,false,true,false,,3948,Hard Rock Stadium,153,North Carolina,ACC,27,3,10,7,7,0.07774768489011649,245,Texas A&M,SEC,41,7,10,0,24,0.9222523151098835,7.2782176951
+401240174,2020,1,postseason,2021-01-12T01:00:00.000Z,false,true,false,,3948,Hard Rock Stadium,333,Alabama,SEC,,,,,,,194,Ohio State,Big Ten,,,,,,,
 401234559,2020,2,regular,2020-09-11T00:00:00.000Z,false,false,false,,3948,Hard Rock Stadium,2390,Miami,ACC,31,7,7,17,0,0.9978418110459198,5,UAB,Conference USA,14,7,0,7,0,0.0021581889540801535,3.6867926170
 401236053,2020,2,regular,2020-09-12T16:00:00.000Z,false,false,false,,3636,Bill Snyder Family Football Stadium,2306,Kansas State,Big 12,31,7,14,0,10,0.3652594357684556,2032,Arkansas State,Sun Belt,35,7,7,7,14,0.6347405642315445,7.1983025295
 401234565,2020,2,regular,2020-09-12T16:00:00.000Z,false,false,true,,3787,Kenan Memorial Stadium,153,North Carolina,ACC,31,7,0,3,21,0.998956190979728,183,Syracuse,ACC,6,0,3,3,0,0.001043809020272013,3.2978536983
