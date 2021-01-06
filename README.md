@@ -30,7 +30,7 @@ This poll is based on the Glicko-2 rating system [\(Glickman 2013\)](http://glic
 | 23    | LSU                  | SEC                  | 5-5      | 1870   |
 | 24    | Miami		           | Mid-American         | 2-1      | 1867   |
 | 25    | Iowa                 | Big Ten              | 6-2      | 1834   |
-_Updated 1/04/2021, 12:00pm_
+_Updated 1/05/2021, 6:00pm_
 
 Because of changes the schedules forced by the pandemic, resume-based rankings for college football are more difficult this year. Where for previous years, bias-free rankings using this method produce reasonable results, the lack of cross-conference play and full schedules complicate this year's rankings. The formula that I ended up using is:
 
@@ -75,38 +75,38 @@ Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for
 | 30    | Houston Texans             | 4-12     | 1259   |
 | 31    | New York Jets              | 2-14     | 1244   |
 | 32    | Jacksonville Jaguars       | 1-15     | 961    |
-_Updated 1/04/2021, 12:00pm_
+_Updated 1/05/2021, 6:00pm_
 
 NFL data comes from [https://www.pro-football-reference.com](https://www.pro-football-reference.com).
 
 ### Men's College Basketball
 | Rank  | Team                 | Conference | Record   | Rating |
 | ---:  | ---:                 | ---:       | ---:     | ---:   |
-| 1     | Gonzaga              | WCC        | 10-0     | 3099   |
-| 2     | Michigan             | Big 10     | 9-0      | 2898   |
-| 3     | Baylor               | Big 12     | 9-0      | 2882   |
-| 4     | Winthrop             | Big South  | 7-0      | 2663   |
-| 5     | Texas                | Big 12     | 8-1      | 2614   |
-| 6     | Drake                | MVC        | 12-0     | 2591   |
-| 7     | Villanova            | Big East   | 8-1      | 2580   |
-| 8     | Missouri             | SEC        | 7-1      | 2580   |
-| 9     | Virginia Tech        | ACC        | 8-1      | 2532   |
-| 10    | Kansas               | Big 12     | 8-2      | 2518   |
-| 11    | Clemson              | ACC        | 8-1      | 2497   |
-| 12    | Iowa                 | Big 10     | 9-2      | 2464   |
-| 13    | The Citadel          | Southern   | 7-0      | 2461   |
-| 14    | Houston              | AAC        | 8-1      | 2433   |
-| 15    | Oregon               | Pac 12     | 8-1      | 2415   |
-| 16    | Minnesota            | Big 10     | 10-2     | 2415   |
-| 17    | Illinois             | Big 10     | 8-3      | 2412   |
-| 18    | Tennessee            | SEC        | 7-1      | 2387   |
-| 19    | Rutgers              | Big 10     | 7-2      | 2351   |
-| 20    | UC San Diego         | Big West   | 2-0      | 2338   |
-| 21    | Hawaii               | Big West   | 2-0      | 2338   |
-| 22    | Saint Louis          | A-10       | 7-1      | 2332   |
-| 23    | Oklahoma St.         | Big 12     | 7-2      | 2331   |
-| 24    | Arkansas             | SEC        | 9-1      | 2327   |
-| 25    | Louisville           | ACC        | 7-1      | 2316   |
-_Updated 1/04/2021, 12:00pm_
+| 1     | Gonzaga              | WCC        | 10-0     | 3138   |
+| 2     | Baylor               | Big 12     | 9-0      | 2909   |
+| 3     | Michigan             | Big 10     | 9-0      | 2900   |
+| 4     | Drake                | MVC        | 13-0     | 2657   |
+| 5     | Texas                | Big 12     | 8-1      | 2611   |
+| 6     | Winthrop             | Big South  | 9-0      | 2601   |
+| 7     | Missouri             | SEC        | 7-1      | 2590   |
+| 8     | Villanova            | Big East   | 8-1      | 2558   |
+| 9     | Kansas               | Big 12     | 8-2      | 2546   |
+| 10    | Virginia Tech        | ACC        | 8-1      | 2521   |
+| 11    | Clemson              | ACC        | 8-1      | 2494   |
+| 12    | Iowa                 | Big 10     | 9-2      | 2486   |
+| 13    | The Citadel          | Southern   | 7-0      | 2468   |
+| 14    | Houston              | AAC        | 8-1      | 2443   |
+| 15    | Minnesota            | Big 10     | 10-2     | 2433   |
+| 16    | Illinois             | Big 10     | 8-3      | 2433   |
+| 17    | Oregon               | Pac 12     | 8-1      | 2427   |
+| 18    | Siena                | MAAC       | 2-0      | 2400   |
+| 19    | Tennessee            | SEC        | 7-1      | 2396   |
+| 20    | Alabama A&M          | SWAC       | 2-0      | 2373   |
+| 21    | Rutgers              | Big 10     | 7-2      | 2361   |
+| 22    | Saint Louis          | A-10       | 7-1      | 2340   |
+| 23    | UC San Diego         | Big West   | 2-0      | 2338   |
+| 24    | Hawaii               | Big West   | 2-0      | 2338   |
+| 25    | Arkansas             | SEC        | 9-1      | 2337   |
+_Updated 1/05/2021, 6:00pm_
 
 Script for scraping data by [Luke Benz](https://github.com/lbenz730/NCAA_Hoops).
