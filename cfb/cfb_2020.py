@@ -39,11 +39,12 @@ for i in s_ind:
         win = False
     df = update_ratings (id1,id2,win,df.copy())
 
-sched = pd.read_csv ('games2020.csv')
+sched = pd.read_json ('https://api.collegefootballdata.com/games?year=2020&seasonType=both')
 sched = sched[(sched.season == 2020)]
 sched = sched[sched.home_points.notna()]
 sched = sched.sort_values ('start_date', ascending=True)
 sched = sched.reset_index (drop=True)
+sched.to_csv ('games2020.csv', index=False)
 s_ind = list(sched.index)
 
 for j in range(50):
