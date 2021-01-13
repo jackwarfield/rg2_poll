@@ -47,6 +47,8 @@ for j in range(51):
             df.loc[df.team == id1, 'losses'] += 1
         df = update_ratings (id1,id2,win,df.copy())
 df = df[df.conference != 'removethis']
+df = df.sort_values(by='rating', ascending=False).reset_index(drop=True)
+df = df[(df.wins + df.losses) > df.loc[0].wins/2.0]
 
 ranks = df.sort_values ('rating', ascending=False).reset_index(drop=True)[['team', 'conference', 'rating', 'wins', 'losses']].values
 
