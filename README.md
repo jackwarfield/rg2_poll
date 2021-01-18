@@ -30,7 +30,7 @@ This poll is based on the Glicko-2 rating system [\(Glickman 2013\)](http://glic
 | 23    | LSU                  | SEC                  | 5-5      | 1874   |
 | 24    | Miami		           | Mid-American         | 2-1      | 1867   |
 | 25    | USC                  | Pac-12               | 5-1      | 1833   |
-_Updated 1/13/2021, 1:00pm_
+_Updated 1/18/2021, 6:00pm_
 
 Because of changes the schedules forced by the pandemic, resume-based rankings for college football are more difficult this year. Where for previous years, bias-free rankings using this method produce reasonable results, the lack of cross-conference play and full schedules complicate this year's rankings. The formula that I ended up using is:
 
@@ -43,70 +43,70 @@ Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for
 ### NFL
 | Rank  | Team                       | Record   | Rating |
 | ---:  | ---:                       | :---     | ---:   |
-| 1     | Kansas City Chiefs         | 14-2     | 1916   |
-| 2     | Buffalo Bills              | 14-3     | 1870   |
-| 3     | New Orleans Saints         | 13-4     | 1742   |
-| 4     | Green Bay Packers          | 13-3     | 1735   |
-| 5     | Baltimore Ravens           | 12-5     | 1700   |
-| 6     | Tampa Bay Buccaneers       | 12-5     | 1699   |
-| 7     | Cleveland Browns           | 12-5     | 1668   |
-| 8     | Pittsburgh Steelers        | 12-5     | 1657   |
-| 9     | Seattle Seahawks           | 12-5     | 1648   |
-| 10    | Miami Dolphins             | 10-6     | 1637   |
-| 11    | Los Angeles Rams           | 11-6     | 1633   |
-| 12    | Indianapolis Colts         | 11-6     | 1621   |
-| 13    | Tennessee Titans           | 11-6     | 1617   |
-| 14    | Las Vegas Raiders          | 8-8      | 1554   |
-| 15    | New England Patriots       | 7-9      | 1500   |
-| 16    | Los Angeles Chargers       | 7-9      | 1499   |
-| 17    | Arizona Cardinals          | 8-8      | 1476   |
-| 18    | Chicago Bears              | 8-9      | 1453   |
-| 19    | San Francisco 49ers        | 6-10     | 1432   |
-| 20    | Minnesota Vikings          | 7-9      | 1425   |
-| 21    | Denver Broncos             | 5-11     | 1418   |
-| 22    | Washington Football Team   | 7-10     | 1405   |
-| 23    | New York Giants            | 6-10     | 1403   |
-| 24    | Dallas Cowboys             | 6-10     | 1367   |
-| 25    | Carolina Panthers          | 5-11     | 1365   |
-| 26    | Atlanta Falcons            | 4-12     | 1334   |
-| 27    | Philadelphia Eagles        | 4-11-1   | 1317   |
-| 28    | Cincinnati Bengals         | 4-11-1   | 1317   |
-| 29    | Detroit Lions              | 5-11     | 1301   |
-| 30    | Houston Texans             | 4-12     | 1252   |
-| 31    | New York Jets              | 2-14     | 1246   |
-| 32    | Jacksonville Jaguars       | 1-15     | 955    |
-_Updated 1/13/2021, 1:00pm_
+| 1     | Kansas City Chiefs         | 15-2     | 1942   |
+| 2     | Buffalo Bills              | 15-3     | 1895   |
+| 3     | Green Bay Packers          | 14-3     | 1769   |
+| 4     | Tampa Bay Buccaneers       | 13-5     | 1738   |
+| 5     | New Orleans Saints         | 13-5     | 1713   |
+| 6     | Baltimore Ravens           | 12-6     | 1678   |
+| 7     | Pittsburgh Steelers        | 12-5     | 1651   |
+| 8     | Cleveland Browns           | 12-6     | 1650   |
+| 9     | Seattle Seahawks           | 12-5     | 1645   |
+| 10    | Miami Dolphins             | 10-6     | 1640   |
+| 11    | Indianapolis Colts         | 11-6     | 1621   |
+| 12    | Tennessee Titans           | 11-6     | 1616   |
+| 13    | Los Angeles Rams           | 11-7     | 1615   |
+| 14    | Las Vegas Raiders          | 8-8      | 1559   |
+| 15    | Los Angeles Chargers       | 7-9      | 1504   |
+| 16    | New England Patriots       | 7-9      | 1501   |
+| 17    | Arizona Cardinals          | 8-8      | 1474   |
+| 18    | Chicago Bears              | 8-9      | 1456   |
+| 19    | San Francisco 49ers        | 6-10     | 1430   |
+| 20    | Minnesota Vikings          | 7-9      | 1429   |
+| 21    | Denver Broncos             | 5-11     | 1422   |
+| 22    | Washington Football Team   | 7-10     | 1402   |
+| 23    | New York Giants            | 6-10     | 1400   |
+| 24    | Carolina Panthers          | 5-11     | 1370   |
+| 25    | Dallas Cowboys             | 6-10     | 1363   |
+| 26    | Atlanta Falcons            | 4-12     | 1338   |
+| 27    | Philadelphia Eagles        | 4-11-1   | 1313   |
+| 28    | Cincinnati Bengals         | 4-11-1   | 1312   |
+| 29    | Detroit Lions              | 5-11     | 1305   |
+| 30    | Houston Texans             | 4-12     | 1253   |
+| 31    | New York Jets              | 2-14     | 1247   |
+| 32    | Jacksonville Jaguars       | 1-15     | 956    |
+_Updated 1/18/2021, 6:00pm_
 
 NFL data comes from [https://www.pro-football-reference.com](https://www.pro-football-reference.com).
 
 ### Men's College Basketball
 | Rank  | Team                 | Conference | Record   | Rating |
 | ---:  | ---:                 | ---:       | ---:     | ---:   |
-| 1     | Gonzaga              | WCC        | 12-0     | 3170   |
-| 2     | Michigan             | Big 10     | 11-0     | 3065   |
-| 3     | Baylor               | Big 12     | 11-0     | 2973   |
-| 4     | Drake                | MVC        | 13-0     | 2689   |
-| 5     | Texas                | Big 12     | 10-1     | 2626   |
-| 6     | Winthrop             | Big South  | 11-0     | 2602   |
-| 7     | The Citadel          | Southern   | 8-0      | 2546   |
-| 8     | Iowa                 | Big 10     | 11-2     | 2545   |
-| 9     | Villanova            | Big East   | 8-1      | 2539   |
-| 10    | Clemson              | ACC        | 9-1      | 2487   |
-| 11    | Louisville           | ACC        | 8-1      | 2474   |
-| 12    | Kansas               | Big 12     | 10-3     | 2472   |
-| 13    | Houston              | AAC        | 10-1     | 2466   |
-| 14    | Tennessee            | SEC        | 9-1      | 2426   |
-| 15    | Virginia Tech        | ACC        | 10-2     | 2411   |
-| 16    | Creighton            | Big East   | 10-2     | 2387   |
-| 17    | Minnesota            | Big 10     | 10-4     | 2385   |
-| 18    | UConn                | Big East   | 7-1      | 2370   |
-| 19    | Wisconsin            | Big 10     | 10-3     | 2370   |
-| 20    | Boise St.            | MWC        | 11-1     | 2368   |
-| 21    | Oklahoma St.         | Big 12     | 9-3      | 2332   |
-| 22    | Missouri             | SEC        | 7-2      | 2328   |
-| 23    | Illinois             | Big 10     | 9-4      | 2293   |
-| 24    | Southern California  | Pac 12     | 9-2      | 2281   |
-| 25    | West Virginia        | Big 12     | 9-4      | 2279   |
-_Updated 1/13/2021, 1:00pm_
+| 1     | Gonzaga              | WCC        | 14-0     | 3191   |
+| 2     | Baylor               | Big 12     | 12-0     | 3007   |
+| 3     | Winthrop             | Big South  | 13-0     | 2720   |
+| 4     | Drake                | MVC        | 13-0     | 2718   |
+| 5     | Iowa                 | Big 10     | 12-2     | 2572   |
+| 6     | Michigan             | Big 10     | 11-1     | 2562   |
+| 7     | Houston              | AAC        | 11-1     | 2492   |
+| 8     | Texas                | Big 12     | 11-2     | 2445   |
+| 9     | Minnesota            | Big 10     | 11-4     | 2440   |
+| 10    | Villanova            | Big East   | 8-1      | 2432   |
+| 11    | Kansas               | Big 12     | 10-3     | 2422   |
+| 12    | Boise St.            | MWC        | 12-1     | 2405   |
+| 13    | Tennessee            | SEC        | 10-1     | 2399   |
+| 14    | Wisconsin            | Big 10     | 11-3     | 2331   |
+| 15    | Texas Tech           | Big 12     | 11-4     | 2320   |
+| 16    | Clemson              | ACC        | 9-2      | 2313   |
+| 17    | UConn                | Big East   | 7-1      | 2312   |
+| 18    | Oklahoma St.         | Big 12     | 9-3      | 2311   |
+| 19    | Ohio St.             | Big 10     | 11-3     | 2307   |
+| 20    | Missouri             | SEC        | 8-2      | 2303   |
+| 21    | Virginia Tech        | ACC        | 10-2     | 2291   |
+| 22    | Saint Louis          | A-10       | 7-1      | 2289   |
+| 23    | UCLA                 | Pac 12     | 11-2     | 2279   |
+| 24    | Southern California  | Pac 12     | 11-2     | 2277   |
+| 25    | BYU                  | WCC        | 11-3     | 2261   |
+_Updated 1/18/2021, 6:00pm_
 
 Script for scraping data by [Luke Benz](https://github.com/lbenz730/NCAA_Hoops).
