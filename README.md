@@ -110,3 +110,4 @@ NFL data comes from [https://www.pro-football-reference.com](https://www.pro-foo
 _Updated 1/20/2021, 3:00pm_
 
 Script for scraping data by [Luke Benz](https://github.com/lbenz730/NCAA_Hoops).
+One potential standing issue is that, because of the way the games are scraped, every game is actually considered twice when constructing the ranking. I don't think that this can actually be considered an objectively good or bad thing, but regardless it is probably something that I should fix eventually.
