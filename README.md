@@ -30,7 +30,7 @@ This poll is based on the Glicko-2 rating system [\(Glickman 2013\)](http://glic
 | 23    | LSU                  | SEC                  | 5-5      | 1874   |
 | 24    | Miami		           | Mid-American         | 2-1      | 1867   |
 | 25    | USC                  | Pac-12               | 5-1      | 1833   |
-_Updated 2/24/2021, 10:00am_
+_Updated 2/25/2021, 12:00pm_
 
 Because of changes the schedules forced by the pandemic, resume-based rankings for college football are more difficult this year. Where for previous years, bias-free rankings using this method produce reasonable results, the lack of cross-conference play and full schedules complicate this year's rankings. The formula that I ended up using is:
 
@@ -75,39 +75,39 @@ Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for
 | 30    | Houston Texans             | 4-12     | 1254   |
 | 31    | New York Jets              | 2-14     | 1248   |
 | 32    | Jacksonville Jaguars       | 1-15     | 958    |
-_Updated 2/24/2021, 10:00am_
+_Updated 2/25/2021, 12:00pm_
 
 NFL data comes from [https://www.pro-football-reference.com](https://www.pro-football-reference.com).
 
 ### Men's College Basketball
 | Rank  | Team                 | Conference | Record   | Rating |
 | ---:  | ---:                 | ---:       | ---:     | ---:   |
-| 1     | Gonzaga              | WCC        | 22-0     | 3148   |
-| 2     | Baylor               | Big 12     | 18-0     | 3086   |
-| 3     | Michigan             | Big 10     | 16-1     | 2508   |
-| 4     | Ohio St.             | Big 10     | 18-5     | 2261   |
-| 5     | Florida St.          | ACC        | 13-3     | 2208   |
-| 6     | Iowa                 | Big 10     | 17-6     | 2205   |
-| 7     | West Virginia        | Big 12     | 16-6     | 2199   |
-| 8     | Illinois             | Big 10     | 16-6     | 2199   |
-| 9     | Texas                | Big 12     | 14-6     | 2176   |
-| 10    | Villanova            | Big East   | 15-3     | 2157   |
-| 11    | Kansas               | Big 12     | 17-8     | 2150   |
-| 12    | Clemson              | ACC        | 13-5     | 2148   |
-| 13    | Oklahoma             | Big 12     | 14-6     | 2142   |
-| 14    | Oklahoma St.         | Big 12     | 15-6     | 2140   |
-| 15    | Alabama              | SEC        | 18-5     | 2138   |
-| 16    | Purdue               | Big 10     | 15-8     | 2129   |
-| 17    | BYU                  | WCC        | 17-5     | 2123   |
-| 18    | Southern California  | Pac 12     | 19-4     | 2112   |
-| 19    | Wisconsin            | Big 10     | 16-8     | 2110   |
-| 20    | Virginia             | ACC        | 15-5     | 2107   |
-| 21    | Maryland             | Big 10     | 14-10    | 2096   |
-| 22    | Rutgers              | Big 10     | 12-9     | 2071   |
-| 23    | Creighton            | Big East   | 16-5     | 2069   |
-| 24    | Houston              | AAC        | 18-3     | 2068   |
-| 25    | Texas Tech           | Big 12     | 14-8     | 2065   |
-_Updated 2/24/2021, 10:00am_
+| 1     | Gonzaga              | WCC        | 22-0     | 3149   |
+| 2     | Baylor               | Big 12     | 18-0     | 3108   |
+| 3     | Michigan             | Big 10     | 16-1     | 2531   |
+| 4     | Ohio St.             | Big 10     | 18-5     | 2283   |
+| 5     | Iowa                 | Big 10     | 17-6     | 2222   |
+| 6     | Illinois             | Big 10     | 16-6     | 2215   |
+| 7     | West Virginia        | Big 12     | 16-6     | 2205   |
+| 8     | Florida St.          | ACC        | 14-3     | 2203   |
+| 9     | Villanova            | Big East   | 15-3     | 2183   |
+| 10    | Texas                | Big 12     | 14-6     | 2178   |
+| 11    | Kansas               | Big 12     | 17-8     | 2158   |
+| 12    | Purdue               | Big 10     | 15-8     | 2148   |
+| 13    | Oklahoma             | Big 12     | 14-6     | 2148   |
+| 14    | Oklahoma St.         | Big 12     | 15-6     | 2147   |
+| 15    | Clemson              | ACC        | 14-5     | 2146   |
+| 16    | Wisconsin            | Big 10     | 16-8     | 2131   |
+| 17    | BYU                  | WCC        | 17-5     | 2130   |
+| 18    | Southern California  | Pac 12     | 19-4     | 2116   |
+| 19    | Maryland             | Big 10     | 14-10    | 2115   |
+| 20    | Alabama              | SEC        | 18-6     | 2114   |
+| 21    | Rutgers              | Big 10     | 13-9     | 2113   |
+| 22    | Arkansas             | SEC        | 18-5     | 2109   |
+| 23    | Creighton            | Big East   | 17-5     | 2103   |
+| 24    | Minnesota            | Big 10     | 13-10    | 2075   |
+| 25    | Houston              | AAC        | 18-3     | 2073   |
+_Updated 2/25/2021, 12:00pm_
 
 Script for scraping data by [Luke Benz](https://github.com/lbenz730/NCAA_Hoops).
 One potential standing issue is that, because of the way the games are scraped, every game is actually considered twice when constructing the ranking. I don't think that this can actually be considered an objectively good or bad thing, but regardless it is probably something that I should fix eventually.
