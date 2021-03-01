@@ -82,31 +82,31 @@ NFL data comes from [https://www.pro-football-reference.com](https://www.pro-foo
 ### Men's College Basketball
 | Rank  | Team                 | Conference | Record   | Rating |
 | ---:  | ---:                 | ---:       | ---:     | ---:   |
-| 1     | Gonzaga              | WCC        | 23-0     | 3170   |
-| 2     | Baylor               | Big 12     | 18-0     | 3114   |
-| 3     | Michigan             | Big 10     | 17-1     | 2661   |
-| 4     | Ohio St.             | Big 10     | 18-6     | 2248   |
-| 5     | Illinois             | Big 10     | 17-6     | 2226   |
-| 6     | Iowa                 | Big 10     | 17-7     | 2224   |
-| 7     | Florida St.          | ACC        | 14-3     | 2219   |
-| 8     | West Virginia        | Big 12     | 16-6     | 2209   |
-| 9     | Villanova            | Big East   | 15-3     | 2189   |
-| 10    | Texas                | Big 12     | 14-6     | 2185   |
-| 11    | Clemson              | ACC        | 14-5     | 2164   |
-| 12    | Kansas               | Big 12     | 17-8     | 2162   |
-| 13    | Purdue               | Big 10     | 15-8     | 2158   |
-| 14    | Oklahoma St.         | Big 12     | 15-6     | 2150   |
-| 15    | Oklahoma             | Big 12     | 14-6     | 2149   |
-| 16    | Wisconsin            | Big 10     | 16-8     | 2144   |
-| 17    | BYU                  | WCC        | 18-5     | 2135   |
-| 18    | Rutgers              | Big 10     | 13-9     | 2126   |
-| 19    | Maryland             | Big 10     | 14-10    | 2123   |
-| 20    | Alabama              | SEC        | 18-6     | 2118   |
-| 21    | Arkansas             | SEC        | 18-5     | 2116   |
-| 22    | Creighton            | Big East   | 17-5     | 2107   |
-| 23    | Houston              | AAC        | 19-3     | 2106   |
-| 24    | San Diego St.        | MWC        | 18-4     | 2106   |
-| 26    | Southern California  | Pac 12     | 19-5     | 2083   |
+| 1     | Gonzaga              | WCC        | 24-0     | 3189   |
+| 2     | Michigan             | Big 10     | 18-1     | 2541   |
+| 3     | Baylor               | Big 12     | 18-1     | 2476   |
+| 4     | Iowa                 | Big 10     | 18-7     | 2220   |
+| 5     | Illinois             | Big 10     | 18-6     | 2211   |
+| 6     | West Virginia        | Big 12     | 17-6     | 2206   |
+| 7     | Kansas               | Big 12     | 18-8     | 2197   |
+| 8     | Ohio St.             | Big 10     | 18-7     | 2191   |
+| 9     | Oklahoma St.         | Big 12     | 16-6     | 2175   |
+| 10    | BYU                  | WCC        | 19-5     | 2165   |
+| 11    | Clemson              | ACC        | 15-5     | 2142   |
+| 12    | San Diego St.        | MWC        | 19-4     | 2138   |
+| 13    | Purdue               | Big 10     | 16-8     | 2138   |
+| 14    | Florida St.          | ACC        | 14-4     | 2137   |
+| 15    | Texas                | Big 12     | 14-7     | 2136   |
+| 16    | Villanova            | Big East   | 15-4     | 2119   |
+| 17    | Maryland             | Big 10     | 15-10    | 2118   |
+| 18    | Arkansas             | SEC        | 19-5     | 2118   |
+| 19    | Alabama              | SEC        | 19-6     | 2111   |
+| 20    | Oklahoma             | Big 12     | 14-7     | 2110   |
+| 21    | Houston              | AAC        | 20-3     | 2104   |
+| 22    | Texas Tech           | Big 12     | 15-8     | 2098   |
+| 23    | Wisconsin            | Big 10     | 16-9     | 2095   |
+| 24    | Rutgers              | Big 10     | 13-9     | 2089   |
+| 25    | Creighton            | Big East   | 17-6     | 2076   |
 _Updated 2/26/2021, 11:00am_
 
 Script for scraping data by [Luke Benz](https://github.com/lbenz730/NCAA_Hoops).
