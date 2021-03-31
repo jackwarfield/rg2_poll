@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+from numba import jit
 
 pd.options.mode.chained_assignment = None  # default='warn'
 
@@ -43,6 +44,7 @@ def iterSigPr (sig, delta, phi, vi, tau, eps=1e-6):
         fB = fC
     return np.exp(A/2)
 
+@jit(forceobj=True)
 def update_ratings (id1, id2, t1win, df, ot=False):
     table = df
     tau = 0.2
