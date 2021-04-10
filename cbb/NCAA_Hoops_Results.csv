@@ -598,7 +598,8 @@
 2021,3,21,"Baylor","Wisconsin","N",76,63,FALSE,FALSE,NA,2
 2021,3,27,"Baylor","Villanova","N",62,51,FALSE,FALSE,NA,2
 2021,3,29,"Baylor","Arkansas","N",81,72,FALSE,FALSE,NA,2
-2021,4,3,"Baylor","Houston","N",NA,NA,FALSE,FALSE,NA,2
+2021,4,3,"Baylor","Houston","N",78,59,FALSE,FALSE,NA,2
+2021,4,5,"Baylor","Gonzaga","N",86,70,FALSE,FALSE,NA,2
 2020,12,1,"Bellarmine","Dayton","V",NA,NA,TRUE,FALSE,NA,2
 2020,12,4,"Bellarmine","Duke","V",54,76,FALSE,FALSE,NA,2
 2020,12,6,"Bellarmine","Howard","V",84,63,FALSE,FALSE,NA,2
@@ -2862,8 +2863,8 @@ NA,1,23,"Eastern Mich.","Miami (OH)","H",63,85,FALSE,FALSE,NA,2
 2021,3,19,"Georgia Tech","Loyola Chicago","N",60,71,FALSE,FALSE,NA,2
 2020,11,26,"Gonzaga","Kansas","N",102,90,FALSE,FALSE,NA,2
 2020,11,27,"Gonzaga","Auburn","N",90,67,FALSE,FALSE,NA,2
-2020,12,2,"Gonzaga","Tennessee","N",NA,NA,TRUE,FALSE,NA,2
 2020,12,2,"Gonzaga","West Virginia","N",87,82,FALSE,FALSE,NA,2
+2020,12,2,"Gonzaga","Tennessee","N",NA,NA,TRUE,FALSE,NA,2
 2020,12,5,"Gonzaga","Baylor","N",NA,NA,TRUE,FALSE,NA,2
 2020,12,8,"Gonzaga","Tarleton St.","H",NA,NA,TRUE,FALSE,NA,2
 2020,12,10,"Gonzaga","Southern U.","H",NA,NA,TRUE,FALSE,NA,2
@@ -2883,8 +2884,8 @@ NA,1,23,"Eastern Mich.","Miami (OH)","H",63,85,FALSE,FALSE,NA,2
 2021,1,23,"Gonzaga","Pacific","H",95,49,FALSE,FALSE,NA,2
 2021,1,28,"Gonzaga","San Diego","V",90,62,FALSE,FALSE,NA,2
 2021,1,30,"Gonzaga","Pepperdine","V",97,75,FALSE,FALSE,NA,2
-2021,2,4,"Gonzaga","LMU (CA)","H",NA,NA,TRUE,FALSE,NA,2
 2021,2,4,"Gonzaga","Pacific","V",76,58,FALSE,FALSE,NA,2
+2021,2,4,"Gonzaga","LMU (CA)","H",NA,NA,TRUE,FALSE,NA,2
 2021,2,6,"Gonzaga","Santa Clara","H",NA,NA,TRUE,FALSE,NA,2
 2021,2,8,"Gonzaga","BYU","V",82,71,FALSE,FALSE,NA,2
 2021,2,11,"Gonzaga","Santa Clara","V",NA,NA,FALSE,TRUE,NA,2
@@ -2899,7 +2900,8 @@ NA,1,23,"Eastern Mich.","Miami (OH)","H",63,85,FALSE,FALSE,NA,2
 2021,3,22,"Gonzaga","Oklahoma","N",87,71,FALSE,FALSE,NA,2
 2021,3,28,"Gonzaga","Creighton","N",83,65,FALSE,FALSE,NA,2
 2021,3,30,"Gonzaga","Southern California","N",85,66,FALSE,FALSE,NA,2
-2021,4,3,"Gonzaga","UCLA","N",NA,NA,FALSE,FALSE,NA,2
+2021,4,3,"Gonzaga","UCLA","N",93,90,FALSE,FALSE,NA,2
+2021,4,5,"Gonzaga","Baylor","N",70,86,FALSE,FALSE,NA,2
 2020,11,25,"Grambling","Grand Canyon","V",53,69,FALSE,FALSE,NA,2
 2020,11,27,"Grambling","Arizona","V",55,74,FALSE,FALSE,NA,2
 2020,12,3,"Grambling","East Tex. Baptist","H",68,59,FALSE,FALSE,NA,1
@@ -3182,7 +3184,7 @@ NA,1,23,"Eastern Mich.","Miami (OH)","H",63,85,FALSE,FALSE,NA,2
 2021,3,21,"Houston","Rutgers","N",63,60,FALSE,FALSE,NA,2
 2021,3,27,"Houston","Syracuse","N",62,46,FALSE,FALSE,NA,2
 2021,3,29,"Houston","Oregon St.","N",67,61,FALSE,FALSE,NA,2
-2021,4,3,"Houston","Baylor","N",NA,NA,FALSE,FALSE,NA,2
+2021,4,3,"Houston","Baylor","N",59,78,FALSE,FALSE,NA,2
 2020,11,25,"Houston Baptist","TCU","V",45,69,FALSE,FALSE,NA,2
 2020,11,29,"Houston Baptist","Arizona St.","V",77,100,FALSE,FALSE,NA,2
 2020,12,2,"Houston Baptist","SMU","V",75,102,FALSE,FALSE,NA,2
@@ -8822,7 +8824,7 @@ NA,2,28,"South Dakota","North Dakota St.","H",77,89,FALSE,FALSE,NA,2
 2021,3,22,"UCLA","Abilene Christian","N",67,47,FALSE,FALSE,NA,2
 2021,3,28,"UCLA","Alabama","N",88,78,FALSE,FALSE,NA,2
 2021,3,30,"UCLA","Michigan","N",51,49,FALSE,FALSE,NA,2
-2021,4,3,"UCLA","Gonzaga","N",NA,NA,FALSE,FALSE,NA,2
+2021,4,3,"UCLA","Gonzaga","N",90,93,FALSE,FALSE,NA,2
 2020,11,25,"UConn","Central Conn. St.","H",102,75,FALSE,FALSE,NA,2
 2020,11,27,"UConn","Hartford","H",69,57,FALSE,FALSE,NA,2
 2020,12,1,"UConn","Vanderbilt","N",NA,NA,TRUE,FALSE,NA,2
