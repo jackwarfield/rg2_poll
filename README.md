@@ -5,32 +5,32 @@ This poll is based on the Glicko-2 rating system [\(Glickman 2013\)](http://glic
 ### College Football
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
-| 1     | Alabama              | SEC                  | 13-0     | 3262   |
-| 2     | Ohio State           | Big Ten              | 7-1      | 2693   |
-| 3     | Texas A&M            | SEC                  | 9-1      | 2616   |
-| 4     | Clemson              | ACC                  | 10-2     | 2287   |
-| 5     | Notre Dame           | ACC			      | 10-2     | 2279   |
-| 6     | Georgia              | SEC                  | 8-2      | 2235   |
-| 7     | Coastal Carolina     | Sun Belt             | 11-1     | 2167   |
-| 8     | Oklahoma             | Big 12               | 9-2      | 2140   |
-| 9     | Louisiana            | Sun Belt             | 10-1     | 2134   |
-| 10    | Florida              | SEC                  | 8-4      | 2072   |
-| 11    | Cincinnati           | American Athletic    | 9-1      | 2064   |
-| 12    | Iowa State           | Big 12               | 9-3      | 2052   |
-| 13    | Ball State           | Mid-American         | 7-1      | 2032   |
-| 14    | BYU                  | FBS Independents     | 11-1     | 2021   |
-| 15    | Northwestern         | Big Ten              | 7-2      | 2019   |
-| 16    | Liberty              | FBS Independents     | 10-1     | 1988   |
-| 17    | Oklahoma State       | Big 12               | 8-3      | 1943   |
-| 18    | San José State       | Mountain West        | 7-1      | 1941   |
-| 19    | Auburn               | SEC                  | 6-5      | 1935   |
-| 20    | Texas                | Big 12               | 7-3      | 1931   |
-| 21    | Indiana              | Big Ten              | 6-2      | 1926   |
-| 22    | Buffalo              | Mid-American         | 6-1      | 1916   |
-| 23    | LSU                  | SEC                  | 5-5      | 1874   |
-| 24    | Miami		           | Mid-American         | 2-1      | 1867   |
-| 26    | USC                  | Pac-12               | 5-1      | 1833   |
-_Updated 4/10/2021, 12:00pm_
+| 1     | Alabama              | SEC                  | 0-0      | 2469   |
+| 2     | Ohio State           | Big Ten              | 1-0      | 2349   |
+| 3     | Clemson              | ACC                  | 0-0      | 2140   |
+| 4     | Texas A&M            | SEC                  | 0-0      | 2103   |
+| 5     | Utah                 | Pac-12               | 1-0      | 2101   |
+| 6     | Notre Dame           | FBS Independents     | 0-0      | 2075   |
+| 7     | Georgia              | SEC                  | 0-0      | 2025   |
+| 8     | Coastal Carolina     | Sun Belt             | 1-0      | 2021   |
+| 9     | Cincinnati           | American Athletic    | 0-0      | 1998   |
+| 10    | Ball State           | Mid-American         | 1-0      | 1984   |
+| 11    | Oklahoma             | Big 12               | 0-0      | 1950   |
+| 12    | BYU                  | FBS Independents     | 0-0      | 1934   |
+| 13    | San José State       | Mountain West        | 1-0      | 1921   |
+| 14    | Northwestern         | Big Ten              | 0-0      | 1915   |
+| 15    | UCF                  | American Athletic    | 1-0      | 1894   |
+| 16    | Liberty              | FBS Independents     | 0-0      | 1884   |
+| 17    | North Carolina       | ACC                  | 0-0      | 1881   |
+| 18    | Louisiana            | Sun Belt             | 0-0      | 1870   |
+| 19    | UCLA                 | Pac-12               | 1-0      | 1862   |
+| 20    | Iowa                 | Big Ten              | 0-0      | 1841   |
+| 21    | Buffalo              | Mid-American         | 1-0      | 1835   |
+| 22    | Stanford             | Pac-12               | 0-0      | 1799   |
+| 23    | USC                  | Pac-12               | 0-0      | 1789   |
+| 24    | Iowa State           | Big 12               | 0-0      | 1782   |
+| 25    | Appalachian State    | Sun Belt             | 1-0      | 1781   |
+_Updated 9/03/2021, 12:00pm_
 
 Because of changes the schedules forced by the pandemic, resume-based rankings for college football are more difficult this year. Where for previous years, bias-free rankings using this method produce reasonable results, the lack of cross-conference play and full schedules complicate this year's rankings. The formula that I ended up using is:
 

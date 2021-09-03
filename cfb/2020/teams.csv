@@ -1,0 +1,132 @@
+school,id,division,conference,rating,rd,volatility
+Air Force,2005,Mountain,Mountain West,1200,350.0,0.06
+Akron,2006,East,Mid-American,1200,350.0,0.06
+Alabama,333,West,SEC,1500,350.0,0.06
+Appalachian State,2026,,Sun Belt,1200,350.0,0.06
+Arizona,12,South,Pac-12,1500,350.0,0.06
+Arizona State,9,South,Pac-12,1500,350.0,0.06
+Arkansas,8,West,SEC,1500,350.0,0.06
+Arkansas State,2032,,Sun Belt,1200,350.0,0.06
+Army,349,,FBS Independents,1200,350.0,0.06
+Auburn,2,West,SEC,1500,350.0,0.06
+Ball State,2050,West,Mid-American,1200,350.0,0.06
+Baylor,239,,Big 12,1500,350.0,0.06
+Boise State,68,Mountain,Mountain West,1200,350.0,0.06
+Boston College,103,Atlantic,ACC,1500,350.0,0.06
+Bowling Green,189,East,Mid-American,1200,350.0,0.06
+Buffalo,2084,East,Mid-American,1200,350.0,0.06
+BYU,252,,FBS Independents,1200,350.0,0.06
+California,25,North,Pac-12,1500,350.0,0.06
+Central Michigan,2117,West,Mid-American,1200,350.0,0.06
+Charlotte,2429,East,Conference USA,1200,350.0,0.06
+Cincinnati,2132,East,American Athletic,1200,350.0,0.06
+Clemson,228,Atlantic,ACC,1500,350.0,0.06
+Coastal Carolina,324,,Sun Belt,1200,350.0,0.06
+Colorado,38,South,Pac-12,1500,350.0,0.06
+Colorado State,36,Mountain,Mountain West,1200,350.0,0.06
+Connecticut,41,East,American Athletic,1200,350.0,0.06
+Duke,150,Coastal,ACC,1500,350.0,0.06
+East Carolina,151,East,American Athletic,1200,350.0,0.06
+Eastern Michigan,2199,West,Mid-American,1200,350.0,0.06
+Florida,57,East,SEC,1500,350.0,0.06
+Florida Atlantic,2226,East,Conference USA,1200,350.0,0.06
+Florida International,2229,East,Conference USA,1200,350.0,0.06
+Florida State,52,Atlantic,ACC,1500,350.0,0.06
+Fresno State,278,West,Mountain West,1200,350.0,0.06
+Georgia,61,East,SEC,1500,350.0,0.06
+Georgia Southern,290,,Sun Belt,1200,350.0,0.06
+Georgia State,2247,,Sun Belt,1200,350.0,0.06
+Georgia Tech,59,Coastal,ACC,1500,350.0,0.06
+Hawai'i,62,West,Mountain West,1200,350.0,0.06
+Houston,248,West,American Athletic,1200,350.0,0.06
+Illinois,356,West,Big Ten,1500,350.0,0.06
+Indiana,84,East,Big Ten,1500,350.0,0.06
+Iowa,2294,West,Big Ten,1500,350.0,0.06
+Iowa State,66,,Big 12,1500,350.0,0.06
+Kansas,2305,,Big 12,1500,350.0,0.06
+Kansas State,2306,,Big 12,1500,350.0,0.06
+Kent State,2309,East,Mid-American,1200,350.0,0.06
+Kentucky,96,East,SEC,1500,350.0,0.06
+Liberty,2335,,FBS Independents,1200,350.0,0.06
+Louisiana,309,,Sun Belt,1200,350.0,0.06
+Louisiana Monroe,2433,,Sun Belt,1200,350.0,0.06
+Louisiana Tech,2348,West,Conference USA,1200,350.0,0.06
+Louisville,97,Atlantic,ACC,1500,350.0,0.06
+LSU,99,West,SEC,1500,350.0,0.06
+Marshall,276,East,Conference USA,1200,350.0,0.06
+Maryland,120,East,Big Ten,1500,350.0,0.06
+Memphis,235,West,American Athletic,1200,350.0,0.06
+Miami,2390,Coastal,ACC,1500,350.0,0.06
+Miami (OH),193,East,Mid-American,1200,350.0,0.06
+Michigan,130,East,Big Ten,1500,350.0,0.06
+Michigan State,127,East,Big Ten,1500,350.0,0.06
+Middle Tennessee,2393,East,Conference USA,1200,350.0,0.06
+Minnesota,135,West,Big Ten,1500,350.0,0.06
+Mississippi State,344,West,SEC,1500,350.0,0.06
+Missouri,142,East,SEC,1500,350.0,0.06
+Navy,2426,West,American Athletic,1200,350.0,0.06
+NC State,152,Atlantic,ACC,1500,350.0,0.06
+Nebraska,158,West,Big Ten,1500,350.0,0.06
+Nevada,2440,West,Mountain West,1200,350.0,0.06
+New Mexico,167,Mountain,Mountain West,1200,350.0,0.06
+New Mexico State,166,,FBS Independents,1200,350.0,0.06
+North Carolina,153,Coastal,ACC,1500,350.0,0.06
+Northern Illinois,2459,West,Mid-American,1200,350.0,0.06
+North Texas,249,West,Conference USA,1200,350.0,0.06
+Northwestern,77,West,Big Ten,1500,350.0,0.06
+Notre Dame,87,,FBS Independents,1500,350.0,0.06
+Ohio,195,East,Mid-American,1200,350.0,0.06
+Ohio State,194,East,Big Ten,1500,350.0,0.06
+Oklahoma,201,,Big 12,1500,350.0,0.06
+Oklahoma State,197,,Big 12,1500,350.0,0.06
+Old Dominion,295,East,Conference USA,1200,350.0,0.06
+Ole Miss,145,West,SEC,1500,350.0,0.06
+Oregon,2483,North,Pac-12,1500,350.0,0.06
+Oregon State,204,North,Pac-12,1500,350.0,0.06
+Penn State,213,East,Big Ten,1500,350.0,0.06
+Pittsburgh,221,Coastal,ACC,1500,350.0,0.06
+Purdue,2509,West,Big Ten,1500,350.0,0.06
+Rice,242,West,Conference USA,1200,350.0,0.06
+Rutgers,164,East,Big Ten,1500,350.0,0.06
+San Diego State,21,West,Mountain West,1200,350.0,0.06
+San José State,23,West,Mountain West,1200,350.0,0.06
+SMU,2567,West,American Athletic,1200,350.0,0.06
+South Alabama,6,,Sun Belt,1200,350.0,0.06
+South Carolina,2579,East,SEC,1500,350.0,0.06
+Southern Mississippi,2572,West,Conference USA,1200,350.0,0.06
+South Florida,58,East,American Athletic,1200,350.0,0.06
+Stanford,24,North,Pac-12,1500,350.0,0.06
+Syracuse,183,Atlantic,ACC,1500,350.0,0.06
+TCU,2628,,Big 12,1500,350.0,0.06
+Temple,218,East,American Athletic,1200,350.0,0.06
+Tennessee,2633,East,SEC,1500,350.0,0.06
+Texas,251,,Big 12,1500,350.0,0.06
+Texas A&M,245,West,SEC,1500,350.0,0.06
+Texas State,326,,Sun Belt,1200,350.0,0.06
+Texas Tech,2641,,Big 12,1500,350.0,0.06
+Toledo,2649,West,Mid-American,1200,350.0,0.06
+Troy,2653,,Sun Belt,1200,350.0,0.06
+Tulane,2655,West,American Athletic,1200,350.0,0.06
+Tulsa,202,West,American Athletic,1200,350.0,0.06
+UAB,5,West,Conference USA,1200,350.0,0.06
+UCF,2116,East,American Athletic,1200,350.0,0.06
+UCLA,26,South,Pac-12,1500,350.0,0.06
+UMass,113,,FBS Independents,1200,350.0,0.06
+UNLV,2439,West,Mountain West,1200,350.0,0.06
+USC,30,South,Pac-12,1500,350.0,0.06
+Utah,254,South,Pac-12,1500,350.0,0.06
+Utah State,328,Mountain,Mountain West,1200,350.0,0.06
+UTEP,2638,West,Conference USA,1200,350.0,0.06
+UT San Antonio,2636,West,Conference USA,1200,350.0,0.06
+Vanderbilt,238,East,SEC,1500,350.0,0.06
+Virginia,258,Coastal,ACC,1500,350.0,0.06
+Virginia Tech,259,Coastal,ACC,1500,350.0,0.06
+Wake Forest,154,Atlantic,ACC,1500,350.0,0.06
+Washington,264,North,Pac-12,1500,350.0,0.06
+Washington State,265,North,Pac-12,1500,350.0,0.06
+Western Kentucky,98,East,Conference USA,1200,350.0,0.06
+Western Michigan,2711,West,Mid-American,1200,350.0,0.06
+West Virginia,277,,Big 12,1500,350.0,0.06
+Wisconsin,275,West,Big Ten,1500,350.0,0.06
+Wyoming,2751,Mountain,Mountain West,1200,350.0,0.06
+Yale,43,,,800,350.0,0.06
