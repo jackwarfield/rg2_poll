@@ -5,32 +5,32 @@ This poll is based on the Glicko-2 rating system [\(Glickman 2013\)](http://glic
 ### College Football
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
-| 1     | Alabama              | SEC                  | 0-0      | 2469   |
-| 2     | Ohio State           | Big Ten              | 1-0      | 2349   |
-| 3     | Clemson              | ACC                  | 0-0      | 2140   |
-| 4     | Texas A&M            | SEC                  | 0-0      | 2103   |
-| 5     | Utah                 | Pac-12               | 1-0      | 2101   |
-| 6     | Notre Dame           | FBS Independents     | 0-0      | 2075   |
-| 7     | Georgia              | SEC                  | 0-0      | 2025   |
-| 8     | Coastal Carolina     | Sun Belt             | 1-0      | 2021   |
-| 9     | Cincinnati           | American Athletic    | 0-0      | 1998   |
-| 10    | Ball State           | Mid-American         | 1-0      | 1984   |
-| 11    | Oklahoma             | Big 12               | 0-0      | 1950   |
-| 12    | BYU                  | FBS Independents     | 0-0      | 1934   |
-| 13    | San José State       | Mountain West        | 1-0      | 1921   |
-| 14    | Northwestern         | Big Ten              | 0-0      | 1915   |
-| 15    | UCF                  | American Athletic    | 1-0      | 1894   |
-| 16    | Liberty              | FBS Independents     | 0-0      | 1884   |
-| 17    | North Carolina       | ACC                  | 0-0      | 1881   |
-| 18    | Louisiana            | Sun Belt             | 0-0      | 1870   |
-| 19    | UCLA                 | Pac-12               | 1-0      | 1862   |
-| 20    | Iowa                 | Big Ten              | 0-0      | 1841   |
-| 21    | Buffalo              | Mid-American         | 1-0      | 1835   |
-| 22    | Stanford             | Pac-12               | 0-0      | 1799   |
-| 23    | USC                  | Pac-12               | 0-0      | 1789   |
-| 24    | Iowa State           | Big 12               | 0-0      | 1782   |
-| 25    | Appalachian State    | Sun Belt             | 1-0      | 1781   |
-_Updated 9/03/2021, 12:00pm_
+| 1     | Alabama              | SEC                  | 1-0      | 2572   |
+| 2     | Georgia              | SEC                  | 1-0      | 2420   |
+| 3     | Ohio State           | Big Ten              | 1-0      | 2349   |
+| 4     | USC                  | Pac-12               | 1-0      | 2271   |
+| 5     | Texas A&M            | SEC                  | 1-0      | 2233   |
+| 6     | Iowa                 | Big Ten              | 1-0      | 2174   |
+| 7     | Notre Dame           | FBS Independents     | 1-0      | 2165   |
+| 8     | Michigan State       | Big Ten              | 1-0      | 2138   |
+| 9     | Cincinnati           | American Athletic    | 1-0      | 2125   |
+| 10    | Texas                | Big 12               | 1-0      | 2108   |
+| 11    | Utah                 | Pac-12               | 1-0      | 2101   |
+| 12    | Oklahoma             | Big 12               | 1-0      | 2086   |
+| 13    | UCLA                 | Pac-12               | 2-0      | 2085   |
+| 14    | Virginia Tech        | ACC                  | 1-0      | 2036   |
+| 15    | Coastal Carolina     | Sun Belt             | 1-0      | 2021   |
+| 16    | BYU                  | FBS Independents     | 1-0      | 1998   |
+| 17    | Ball State           | Mid-American         | 1-0      | 1984   |
+| 18    | Penn State           | Big Ten              | 1-0      | 1942   |
+| 19    | Liberty              | FBS Independents     | 1-0      | 1919   |
+| 20    | UCF                  | American Athletic    | 1-0      | 1894   |
+| 21    | Maryland             | Big Ten              | 1-0      | 1880   |
+| 22    | Iowa State           | Big 12               | 1-0      | 1879   |
+| 23    | Florida              | SEC                  | 1-0      | 1861   |
+| 24    | Buffalo              | Mid-American         | 1-0      | 1835   |
+| 25    | Oregon               | Pac-12               | 1-0      | 1796   |
+_Updated 9/06/2021, 1:00pm_
 
 Because of changes the schedules forced by the pandemic, resume-based rankings for college football are more difficult this year. Where for previous years, bias-free rankings using this method produce reasonable results, the lack of cross-conference play and full schedules complicate this year's rankings. The formula that I ended up using is:
 
