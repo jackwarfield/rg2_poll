@@ -5,77 +5,77 @@ This poll is based on the Glicko-2 rating system [\(Glickman 2013\)](http://glic
 ### College Football
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
-| 1     | Alabama              | SEC                  | 1-0      | 2572   |
-| 2     | Georgia              | SEC                  | 1-0      | 2420   |
-| 3     | Ohio State           | Big Ten              | 1-0      | 2349   |
-| 4     | USC                  | Pac-12               | 1-0      | 2271   |
-| 5     | Texas A&M            | SEC                  | 1-0      | 2233   |
-| 6     | Iowa                 | Big Ten              | 1-0      | 2174   |
-| 7     | Notre Dame           | FBS Independents     | 1-0      | 2165   |
-| 8     | Michigan State       | Big Ten              | 1-0      | 2138   |
-| 9     | Cincinnati           | American Athletic    | 1-0      | 2125   |
-| 10    | Texas                | Big 12               | 1-0      | 2108   |
-| 11    | Utah                 | Pac-12               | 1-0      | 2101   |
-| 12    | Oklahoma             | Big 12               | 1-0      | 2086   |
-| 13    | UCLA                 | Pac-12               | 2-0      | 2085   |
-| 14    | Virginia Tech        | ACC                  | 1-0      | 2036   |
-| 15    | Coastal Carolina     | Sun Belt             | 1-0      | 2021   |
-| 16    | BYU                  | FBS Independents     | 1-0      | 1998   |
-| 17    | Ball State           | Mid-American         | 1-0      | 1984   |
-| 18    | Penn State           | Big Ten              | 1-0      | 1942   |
-| 19    | Liberty              | FBS Independents     | 1-0      | 1919   |
-| 20    | UCF                  | American Athletic    | 1-0      | 1894   |
-| 21    | Maryland             | Big Ten              | 1-0      | 1880   |
-| 22    | Iowa State           | Big 12               | 1-0      | 1879   |
-| 23    | Florida              | SEC                  | 1-0      | 1861   |
-| 24    | Buffalo              | Mid-American         | 1-0      | 1835   |
-| 25    | Oregon               | Pac-12               | 1-0      | 1796   |
-_Updated 9/06/2021, 1:00pm_
+| 1     | Alabama              | SEC                  | 2-0      | 2670   |
+| 2     | Georgia              | SEC                  | 2-0      | 2491   |
+| 3     | Oregon               | Pac-12               | 2-0      | 2471   |
+| 4     | Texas A&M            | SEC                  | 2-0      | 2362   |
+| 5     | Iowa                 | Big Ten              | 2-0      | 2338   |
+| 6     | BYU                  | FBS Independents     | 2-0      | 2298   |
+| 7     | Notre Dame           | FBS Independents     | 2-0      | 2217   |
+| 8     | Michigan State       | Big Ten              | 2-0      | 2211   |
+| 9     | Penn State           | Big Ten              | 2-0      | 2199   |
+| 10    | Kansas State         | Big 12               | 2-0      | 2190   |
+| 11    | Oklahoma             | Big 12               | 2-0      | 2161   |
+| 12    | Virginia Tech        | ACC                  | 2-0      | 2135   |
+| 13    | Arkansas             | SEC                  | 2-0      | 2131   |
+| 14    | Cincinnati           | American Athletic    | 2-0      | 2128   |
+| 15    | Coastal Carolina     | Sun Belt             | 2-0      | 2076   |
+| 16    | Florida              | SEC                  | 2-0      | 2063   |
+| 17    | UCLA                 | Pac-12               | 2-0      | 2052   |
+| 18    | Liberty              | FBS Independents     | 2-0      | 2043   |
+| 19    | Mississippi State    | SEC                  | 2-0      | 2035   |
+| 20    | Kentucky             | SEC                  | 2-0      | 2010   |
+| 21    | UCF                  | American Athletic    | 2-0      | 1988   |
+| 22    | Miami                | ACC                  | 1-1      | 1972   |
+| 23    | Virginia             | ACC                  | 2-0      | 1959   |
+| 24    | Oklahoma State       | Big 12               | 2-0      | 1933   |
+| 25    | Maryland             | Big Ten              | 2-0      | 1929   |
+_Updated 9/13/2021, 8:00pm_
 
 Because of changes the schedules forced by the pandemic, resume-based rankings for college football are more difficult this year. Where for previous years, bias-free rankings using this method produce reasonable results, the lack of cross-conference play and full schedules complicate this year's rankings. The formula that I ended up using is:
 
 1. All P5 teams start with a rating of 1500 and all G5 teams start with a rating of 1200. Other, non-FBS teams, if encountered in the schedule, are added to the table starting with a rating of 800. All teams start with a rating deviation of 600 and a volatility of 0.6.
-2. The 2019 schedule is run through 1 time to give initial ratings. Note that, after this run, the RD remains high and so the ratings are still quite fluid.
-3. The 2020 schedule is run through 50 times.
+2. The 2020 schedule is run through 1 time to give initial ratings. Note that, after this run, the RD remains high and so the ratings are still quite fluid.
+3. The 2021 schedule is run through 50 times.
 
 Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for the game data tables.
 
 ### NFL
 | Rank  | Team                       | Record   | Rating |
 | ---:  | ---:                       | :---     | ---:   |
-| 1     | Kansas City Chiefs         | 16-3     | 1922   |
-| 2     | Buffalo Bills              | 15-4     | 1858   |
-| 3     | Tampa Bay Buccaneers       | 15-5     | 1832   |
-| 4     | Green Bay Packers          | 14-4     | 1743   |
-| 5     | New Orleans Saints         | 13-5     | 1735   |
-| 6     | Baltimore Ravens           | 12-6     | 1675   |
-| 7     | Cleveland Browns           | 12-6     | 1650   |
-| 8     | Pittsburgh Steelers        | 12-5     | 1649   |
-| 9     | Seattle Seahawks           | 12-5     | 1646   |
-| 10    | Miami Dolphins             | 10-6     | 1637   |
-| 11    | Indianapolis Colts         | 11-6     | 1620   |
-| 12    | Los Angeles Rams           | 11-7     | 1618   |
-| 13    | Tennessee Titans           | 11-6     | 1614   |
-| 14    | Las Vegas Raiders          | 8-8      | 1565   |
-| 15    | Los Angeles Chargers       | 7-9      | 1511   |
-| 16    | New England Patriots       | 7-9      | 1500   |
-| 17    | Arizona Cardinals          | 8-8      | 1476   |
-| 18    | Chicago Bears              | 8-9      | 1463   |
-| 19    | Minnesota Vikings          | 7-9      | 1436   |
-| 20    | San Francisco 49ers        | 6-10     | 1432   |
-| 21    | Denver Broncos             | 5-11     | 1429   |
-| 22    | Washington Football Team   | 7-10     | 1408   |
-| 23    | New York Giants            | 6-10     | 1404   |
-| 24    | Carolina Panthers          | 5-11     | 1381   |
-| 26    | Dallas Cowboys             | 6-10     | 1366   |
-| 26    | Atlanta Falcons            | 4-12     | 1350   |
-| 27    | Philadelphia Eagles        | 4-11-1   | 1315   |
-| 28    | Cincinnati Bengals         | 4-11-1   | 1314   |
-| 29    | Detroit Lions              | 5-11     | 1311   |
-| 30    | Houston Texans             | 4-12     | 1264   |
-| 31    | New York Jets              | 2-14     | 1248   |
-| 32    | Jacksonville Jaguars       | 1-15     | 958    |
-_Updated 4/10/2021, 12:00pm_
+| 1     | Kansas City Chiefs         | 1-0      | 2247   |
+| 2     | Pittsburgh Steelers        | 1-0      | 2159   |
+| 3     | New Orleans Saints         | 1-0      | 2075   |
+| 4     | Tampa Bay Buccaneers       | 1-0      | 1988   |
+| 5     | Seattle Seahawks           | 1-0      | 1983   |
+| 6     | Miami Dolphins             | 1-0      | 1938   |
+| 7     | Los Angeles Chargers       | 1-0      | 1855   |
+| 8     | Arizona Cardinals          | 1-0      | 1848   |
+| 9     | Los Angeles Rams           | 1-0      | 1821   |
+| 10    | Baltimore Ravens           | 0-0      | 1782   |
+| 11    | Denver Broncos             | 1-0      | 1725   |
+| 12    | Cincinnati Bengals         | 1-0      | 1631   |
+| 13    | San Francisco 49ers        | 1-0      | 1619   |
+| 14    | Buffalo Bills              | 0-1      | 1584   |
+| 15    | Philadelphia Eagles        | 1-0      | 1577   |
+| 16    | Cleveland Browns           | 0-1      | 1568   |
+| 17    | Las Vegas Raiders          | 0-0      | 1531   |
+| 18    | Carolina Panthers          | 1-0      | 1529   |
+| 19    | Green Bay Packers          | 0-1      | 1461   |
+| 20    | Indianapolis Colts         | 0-1      | 1400   |
+| 21    | Houston Texans             | 1-0      | 1316   |
+| 22    | Tennessee Titans           | 0-1      | 1280   |
+| 23    | New England Patriots       | 0-1      | 1257   |
+| 24    | Dallas Cowboys             | 0-1      | 1198   |
+| 25    | Chicago Bears              | 0-1      | 1178   |
+| 26    | Washington Football Team   | 0-1      | 1177   |
+| 27    | New York Giants            | 0-1      | 1123   |
+| 28    | Minnesota Vikings          | 0-1      | 1029   |
+| 29    | Detroit Lions              | 0-1      | 979    |
+| 30    | Atlanta Falcons            | 0-1      | 974    |
+| 31    | New York Jets              | 0-1      | 844    |
+| 32    | Jacksonville Jaguars       | 0-1      | 524    |
+_Updated 9/13/2021, 8:00pm_
 
 NFL data comes from [https://www.pro-football-reference.com](https://www.pro-football-reference.com).
 
