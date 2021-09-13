@@ -32,8 +32,6 @@ This poll is based on the Glicko-2 rating system [\(Glickman 2013\)](http://glic
 | 25    | Maryland             | Big Ten              | 2-0      | 1929   |
 _Updated 9/13/2021, 8:00pm_
 
-Because of changes the schedules forced by the pandemic, resume-based rankings for college football are more difficult this year. Where for previous years, bias-free rankings using this method produce reasonable results, the lack of cross-conference play and full schedules complicate this year's rankings. The formula that I ended up using is:
-
 1. All P5 teams start with a rating of 1500 and all G5 teams start with a rating of 1200. Other, non-FBS teams, if encountered in the schedule, are added to the table starting with a rating of 800. All teams start with a rating deviation of 600 and a volatility of 0.6.
 2. The 2020 schedule is run through 1 time to give initial ratings. Note that, after this run, the RD remains high and so the ratings are still quite fluid.
 3. The 2021 schedule is run through 50 times.
