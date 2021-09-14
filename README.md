@@ -46,21 +46,21 @@ Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for
 | 3     | New Orleans Saints         | 1-0      | 2075   |
 | 4     | Tampa Bay Buccaneers       | 1-0      | 1988   |
 | 5     | Seattle Seahawks           | 1-0      | 1983   |
-| 6     | Miami Dolphins             | 1-0      | 1938   |
-| 7     | Los Angeles Chargers       | 1-0      | 1855   |
-| 8     | Arizona Cardinals          | 1-0      | 1848   |
-| 9     | Los Angeles Rams           | 1-0      | 1821   |
-| 10    | Baltimore Ravens           | 0-0      | 1782   |
+| 6     | Las Vegas Raiders          | 1-0      | 1955   |
+| 7     | Miami Dolphins             | 1-0      | 1938   |
+| 8     | Los Angeles Chargers       | 1-0      | 1855   |
+| 9     | Arizona Cardinals          | 1-0      | 1848   |
+| 10    | Los Angeles Rams           | 1-0      | 1821   |
 | 11    | Denver Broncos             | 1-0      | 1725   |
 | 12    | Cincinnati Bengals         | 1-0      | 1631   |
 | 13    | San Francisco 49ers        | 1-0      | 1619   |
 | 14    | Buffalo Bills              | 0-1      | 1584   |
 | 15    | Philadelphia Eagles        | 1-0      | 1577   |
 | 16    | Cleveland Browns           | 0-1      | 1568   |
-| 17    | Las Vegas Raiders          | 0-0      | 1531   |
-| 18    | Carolina Panthers          | 1-0      | 1529   |
-| 19    | Green Bay Packers          | 0-1      | 1461   |
-| 20    | Indianapolis Colts         | 0-1      | 1400   |
+| 17    | Carolina Panthers          | 1-0      | 1529   |
+| 18    | Green Bay Packers          | 0-1      | 1461   |
+| 19    | Indianapolis Colts         | 0-1      | 1400   |
+| 20    | Baltimore Ravens           | 0-1      | 1375   |
 | 21    | Houston Texans             | 1-0      | 1316   |
 | 22    | Tennessee Titans           | 0-1      | 1280   |
 | 23    | New England Patriots       | 0-1      | 1257   |
@@ -73,7 +73,7 @@ Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for
 | 30    | Atlanta Falcons            | 0-1      | 974    |
 | 31    | New York Jets              | 0-1      | 844    |
 | 32    | Jacksonville Jaguars       | 0-1      | 524    |
-_Updated 9/13/2021, 8:00pm_
+_Updated 9/14/2021, 11:00am_
 
 NFL data comes from [https://www.pro-football-reference.com](https://www.pro-football-reference.com).
 
