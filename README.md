@@ -5,32 +5,32 @@ This poll is based on the Glicko-2 rating system [\(Glickman 2013\)](http://glic
 ### College Football
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
-| 1     | Alabama              | SEC                  | 2-0      | 2670   |
-| 2     | Georgia              | SEC                  | 2-0      | 2491   |
-| 3     | Oregon               | Pac-12               | 2-0      | 2471   |
-| 4     | Texas A&M            | SEC                  | 2-0      | 2362   |
-| 5     | Iowa                 | Big Ten              | 2-0      | 2338   |
-| 6     | BYU                  | FBS Independents     | 2-0      | 2298   |
-| 7     | Notre Dame           | FBS Independents     | 2-0      | 2217   |
-| 8     | Michigan State       | Big Ten              | 2-0      | 2211   |
-| 9     | Penn State           | Big Ten              | 2-0      | 2199   |
-| 10    | Kansas State         | Big 12               | 2-0      | 2190   |
-| 11    | Oklahoma             | Big 12               | 2-0      | 2161   |
-| 12    | Virginia Tech        | ACC                  | 2-0      | 2135   |
-| 13    | Arkansas             | SEC                  | 2-0      | 2131   |
-| 14    | Cincinnati           | American Athletic    | 2-0      | 2128   |
-| 15    | Coastal Carolina     | Sun Belt             | 2-0      | 2076   |
-| 16    | Florida              | SEC                  | 2-0      | 2063   |
-| 17    | UCLA                 | Pac-12               | 2-0      | 2052   |
-| 18    | Liberty              | FBS Independents     | 2-0      | 2043   |
-| 19    | Mississippi State    | SEC                  | 2-0      | 2035   |
-| 20    | Kentucky             | SEC                  | 2-0      | 2010   |
-| 21    | UCF                  | American Athletic    | 2-0      | 1988   |
-| 22    | Miami                | ACC                  | 1-1      | 1972   |
-| 23    | Virginia             | ACC                  | 2-0      | 1959   |
-| 24    | Oklahoma State       | Big 12               | 2-0      | 1933   |
-| 25    | Maryland             | Big Ten              | 2-0      | 1929   |
-_Updated 9/13/2021, 8:00pm_
+| 1     | Alabama              | SEC                  | 3-0      | 2714   |
+| 2     | Oregon               | Pac-12               | 3-0      | 2609   |
+| 3     | Georgia              | SEC                  | 3-0      | 2526   |
+| 4     | Michigan State       | Big Ten              | 3-0      | 2379   |
+| 5     | Iowa                 | Big Ten              | 3-0      | 2356   |
+| 6     | Texas A&M            | SEC                  | 3-0      | 2307   |
+| 7     | Notre Dame           | FBS Independents     | 3-0      | 2304   |
+| 8     | Kansas State         | Big 12               | 3-0      | 2303   |
+| 9     | Maryland             | Big Ten              | 3-0      | 2296   |
+| 10    | BYU                  | FBS Independents     | 3-0      | 2257   |
+| 11    | Cincinnati           | American Athletic    | 3-0      | 2240   |
+| 12    | Penn State           | Big Ten              | 3-0      | 2230   |
+| 13    | Arkansas             | SEC                  | 3-0      | 2164   |
+| 14    | Memphis              | American Athletic    | 3-0      | 2164   |
+| 15    | Oklahoma             | Big 12               | 3-0      | 2159   |
+| 16    | Ole Miss             | SEC                  | 3-0      | 2128   |
+| 17    | Liberty              | FBS Independents     | 3-0      | 2116   |
+| 18    | Michigan             | Big Ten              | 3-0      | 2104   |
+| 19    | Coastal Carolina     | Sun Belt             | 3-0      | 2083   |
+| 20    | Ohio State           | Big Ten              | 2-1      | 2061   |
+| 21    | Kentucky             | SEC                  | 3-0      | 2042   |
+| 22    | Fresno State         | Mountain West        | 3-1      | 2024   |
+| 23    | San Diego State      | Mountain West        | 3-0      | 2010   |
+| 24    | Oklahoma State       | Big 12               | 3-0      | 2001   |
+| 25    | Florida              | SEC                  | 2-1      | 1989   |
+_Updated 9/19/2021, 3:00pm_
 
 1. All P5 teams start with a rating of 1500 and all G5 teams start with a rating of 1200. Other, non-FBS teams, if encountered in the schedule, are added to the table starting with a rating of 800. All teams start with a rating deviation of 600 and a volatility of 0.6.
 2. The 2020 schedule is run through 1 time to give initial ratings. Note that, after this run, the RD remains high and so the ratings are still quite fluid.
