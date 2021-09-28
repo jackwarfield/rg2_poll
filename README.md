@@ -41,39 +41,39 @@ Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for
 ### NFL
 | Rank  | Team                       | Record   | Rating |
 | ---:  | ---:                       | :---     | ---:   |
-| 1     | Las Vegas Raiders          | 3-0      | 2338   |
-| 2     | Los Angeles Rams           | 3-0      | 2321   |
-| 3     | Carolina Panthers          | 3-0      | 2218   |
+| 1     | Las Vegas Raiders          | 3-0      | 2339   |
+| 2     | Los Angeles Rams           | 3-0      | 2332   |
+| 3     | Carolina Panthers          | 3-0      | 2216   |
 | 4     | Arizona Cardinals          | 3-0      | 2153   |
-| 5     | Tampa Bay Buccaneers       | 2-1      | 1967   |
-| 6     | Baltimore Ravens           | 2-1      | 1913   |
-| 7     | New Orleans Saints         | 2-1      | 1887   |
-| 8     | Dallas Cowboys             | 1-1      | 1788   |
-| 9     | Los Angeles Chargers       | 2-1      | 1699   |
+| 5     | Tampa Bay Buccaneers       | 2-1      | 1990   |
+| 6     | Baltimore Ravens           | 2-1      | 1916   |
+| 7     | New Orleans Saints         | 2-1      | 1880   |
+| 8     | Dallas Cowboys             | 2-1      | 1831   |
+| 9     | Los Angeles Chargers       | 2-1      | 1720   |
 | 10    | Tennessee Titans           | 2-1      | 1693   |
-| 11    | Green Bay Packers          | 2-1      | 1691   |
-| 12    | Cincinnati Bengals         | 2-1      | 1684   |
-| 13    | Denver Broncos             | 3-0      | 1662   |
-| 14    | Cleveland Browns           | 2-1      | 1627   |
-| 15    | Chicago Bears              | 1-2      | 1619   |
+| 11    | Cincinnati Bengals         | 2-1      | 1685   |
+| 12    | Green Bay Packers          | 2-1      | 1676   |
+| 13    | Denver Broncos             | 3-0      | 1660   |
+| 14    | Cleveland Browns           | 2-1      | 1630   |
+| 15    | Chicago Bears              | 1-2      | 1621   |
 | 16    | Pittsburgh Steelers        | 1-2      | 1617   |
-| 17    | Kansas City Chiefs         | 1-2      | 1588   |
+| 17    | Kansas City Chiefs         | 1-2      | 1597   |
 | 18    | Buffalo Bills              | 2-1      | 1587   |
-| 19    | San Francisco 49ers        | 2-1      | 1518   |
+| 19    | San Francisco 49ers        | 2-1      | 1487   |
 | 20    | Minnesota Vikings          | 1-2      | 1451   |
 | 21    | Miami Dolphins             | 1-2      | 1399   |
-| 22    | Philadelphia Eagles        | 1-1      | 1324   |
+| 22    | Philadelphia Eagles        | 1-2      | 1265   |
 | 23    | Seattle Seahawks           | 1-2      | 1208   |
-| 24    | Washington Football Team   | 1-2      | 1184   |
+| 24    | Washington Football Team   | 1-2      | 1185   |
 | 25    | New England Patriots       | 1-2      | 1116   |
-| 26    | Houston Texans             | 1-2      | 1076   |
-| 27    | Atlanta Falcons            | 1-2      | 1075   |
+| 26    | Houston Texans             | 1-2      | 1077   |
+| 27    | Atlanta Falcons            | 1-2      | 1039   |
 | 28    | Indianapolis Colts         | 0-3      | 903    |
-| 29    | Detroit Lions              | 0-3      | 878    |
-| 30    | New York Giants            | 0-3      | 665    |
-| 31    | New York Jets              | 0-3      | 653    |
+| 29    | Detroit Lions              | 0-3      | 868    |
+| 30    | New York Jets              | 0-3      | 653    |
+| 31    | New York Giants            | 0-3      | 650    |
 | 32    | Jacksonville Jaguars       | 0-3      | 425    |
-_Updated 9/27/2021, 9:00am_
+_Updated 9/28/2021, 10:00am_
 
 NFL data comes from [https://www.pro-football-reference.com](https://www.pro-football-reference.com).
 
