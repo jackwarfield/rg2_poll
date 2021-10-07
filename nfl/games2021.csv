@@ -6,9 +6,9 @@ Week,Day,Date,Time,Winner/tie,,Loser/tie,,PtsW,PtsL,YdsW,TOW,YdsL,TOL
 1,Sun,2021-09-12,1:00PM,Cincinnati Bengals,,Minnesota Vikings,boxscore,27,24,366,0,403,1
 1,Sun,2021-09-12,1:00PM,Seattle Seahawks,@,Indianapolis Colts,boxscore,28,16,381,1,336,1
 1,Sun,2021-09-12,1:00PM,Arizona Cardinals,@,Tennessee Titans,boxscore,38,13,416,1,248,3
+1,Sun,2021-09-12,1:00PM,Los Angeles Chargers,@,Washington Football Team,boxscore,20,16,424,2,259,1
 1,Sun,2021-09-12,1:00PM,San Francisco 49ers,@,Detroit Lions,boxscore,41,33,442,2,430,1
 1,Sun,2021-09-12,1:00PM,Houston Texans,,Jacksonville Jaguars,boxscore,37,21,449,0,395,3
-1,Sun,2021-09-12,1:00PM,Los Angeles Chargers,@,Washington Football Team,boxscore,20,16,424,2,259,1
 1,Sun,2021-09-12,4:25PM,New Orleans Saints,,Green Bay Packers,boxscore,38,3,322,0,229,3
 1,Sun,2021-09-12,4:25PM,Kansas City Chiefs,,Cleveland Browns,boxscore,33,29,397,0,457,2
 1,Sun,2021-09-12,4:25PM,Denver Broncos,@,New York Giants,boxscore,27,13,420,1,314,1
@@ -42,9 +42,9 @@ Week,Day,Date,Time,Winner/tie,,Loser/tie,,PtsW,PtsL,YdsW,TOW,YdsL,TOL
 3,Sun,2021-09-26,1:00PM,Baltimore Ravens,@,Detroit Lions,boxscore,19,17,387,1,285,0
 3,Sun,2021-09-26,1:00PM,Los Angeles Chargers,@,Kansas City Chiefs,boxscore,30,24,352,0,437,4
 3,Sun,2021-09-26,4:05PM,Las Vegas Raiders,,Miami Dolphins,boxscore,31,28,497,1,330,0
-3,Sun,2021-09-26,4:05PM,Denver Broncos,,New York Jets,boxscore,26,0,344,1,162,2
-3,Sun,2021-09-26,4:25PM,Los Angeles Rams,,Tampa Bay Buccaneers,boxscore,34,24,407,0,446,0
+3,Sun,2021-09-26,4:05PM,Denver Broncos,,New York Jets,boxscore,26,0,343,1,162,2
 3,Sun,2021-09-26,4:25PM,Minnesota Vikings,,Seattle Seahawks,boxscore,30,17,453,0,389,0
+3,Sun,2021-09-26,4:25PM,Los Angeles Rams,,Tampa Bay Buccaneers,boxscore,34,24,407,0,446,0
 3,Sun,2021-09-26,8:20PM,Green Bay Packers,@,San Francisco 49ers,boxscore,30,28,353,0,298,2
 3,Mon,2021-09-27,8:15PM,Dallas Cowboys,,Philadelphia Eagles,boxscore,41,21,380,1,367,2
 4,Thu,2021-09-30,8:20PM,Cincinnati Bengals,,Jacksonville Jaguars,boxscore,24,21,420,0,341,0
@@ -57,8 +57,9 @@ Week,Day,Date,Time,Winner/tie,,Loser/tie,,PtsW,PtsL,YdsW,TOW,YdsL,TOL
 4,Sun,2021-10-03,1:00PM,Indianapolis Colts,@,Miami Dolphins,boxscore,27,17,349,1,203,2
 4,Sun,2021-10-03,1:00PM,New York Giants,@,New Orleans Saints,boxscore,27,21,485,1,405,1
 4,Sun,2021-10-03,1:00PM,New York Jets,,Tennessee Titans,boxscore,27,24,355,1,430,0
-4,Sun,2021-10-03,4:05PM,Seattle Seahawks,@,San Francisco 49ers,boxscore,28,21,234,0,457,2
 4,Sun,2021-10-03,4:05PM,Arizona Cardinals,@,Los Angeles Rams,boxscore,37,20,465,0,401,2
+4,Sun,2021-10-03,4:05PM,Seattle Seahawks,@,San Francisco 49ers,boxscore,28,21,234,0,457,2
 4,Sun,2021-10-03,4:25PM,Baltimore Ravens,@,Denver Broncos,boxscore,23,7,406,0,254,1
 4,Sun,2021-10-03,4:25PM,Green Bay Packers,,Pittsburgh Steelers,boxscore,27,17,367,1,282,2
 4,Sun,2021-10-03,8:20PM,Tampa Bay Buccaneers,@,New England Patriots,boxscore,19,17,380,0,294,2
+4,Mon,2021-10-04,8:15PM,Los Angeles Chargers,,Las Vegas Raiders,boxscore,28,14,380,0,213,1

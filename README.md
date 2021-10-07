@@ -41,39 +41,39 @@ Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for
 ### NFL
 | Rank  | Team                       | Record   | Rating |
 | ---:  | ---:                       | :---     | ---:   |
-| 1     | Arizona Cardinals          | 4-0      | 2420   |
-| 2     | Las Vegas Raiders          | 3-0      | 2379   |
-| 3     | Los Angeles Rams           | 3-1      | 2131   |
-| 4     | Baltimore Ravens           | 3-1      | 2052   |
-| 5     | Tampa Bay Buccaneers       | 3-1      | 1983   |
-| 6     | Dallas Cowboys             | 3-1      | 1956   |
-| 7     | Los Angeles Chargers       | 2-1      | 1837   |
-| 8     | Cleveland Browns           | 3-1      | 1737   |
-| 9     | Kansas City Chiefs         | 2-2      | 1717   |
-| 10    | Carolina Panthers          | 3-1      | 1714   |
-| 11    | Denver Broncos             | 3-1      | 1673   |
-| 12    | Chicago Bears              | 2-2      | 1636   |
-| 13    | Cincinnati Bengals         | 3-1      | 1633   |
-| 14    | Green Bay Packers          | 3-1      | 1535   |
-| 15    | Buffalo Bills              | 3-1      | 1534   |
-| 16    | Pittsburgh Steelers        | 1-3      | 1438   |
-| 17    | Minnesota Vikings          | 1-3      | 1436   |
-| 18    | Tennessee Titans           | 2-2      | 1425   |
-| 19    | Washington Football Team   | 2-2      | 1418   |
-| 20    | New Orleans Saints         | 2-2      | 1396   |
+| 1     | Arizona Cardinals          | 4-0      | 2427   |
+| 2     | Los Angeles Rams           | 3-1      | 2147   |
+| 3     | Dallas Cowboys             | 3-1      | 2042   |
+| 4     | Los Angeles Chargers       | 3-1      | 2036   |
+| 5     | Tampa Bay Buccaneers       | 3-1      | 2023   |
+| 6     | Las Vegas Raiders          | 3-1      | 1954   |
+| 7     | Baltimore Ravens           | 3-1      | 1908   |
+| 8     | Cleveland Browns           | 3-1      | 1749   |
+| 9     | Carolina Panthers          | 3-1      | 1747   |
+| 10    | Kansas City Chiefs         | 2-2      | 1745   |
+| 11    | Chicago Bears              | 2-2      | 1640   |
+| 12    | Cincinnati Bengals         | 3-1      | 1629   |
+| 13    | Denver Broncos             | 3-1      | 1627   |
+| 14    | Buffalo Bills              | 3-1      | 1537   |
+| 15    | Green Bay Packers          | 3-1      | 1530   |
+| 16    | Washington Football Team   | 2-2      | 1442   |
+| 17    | Minnesota Vikings          | 1-3      | 1437   |
+| 18    | Pittsburgh Steelers        | 1-3      | 1424   |
+| 19    | Tennessee Titans           | 2-2      | 1423   |
+| 20    | New Orleans Saints         | 2-2      | 1401   |
 | 21    | Seattle Seahawks           | 2-2      | 1359   |
-| 22    | New York Jets              | 1-3      | 1270   |
-| 23    | San Francisco 49ers        | 2-2      | 1255   |
-| 24    | Indianapolis Colts         | 1-3      | 1239   |
-| 25    | Philadelphia Eagles        | 1-3      | 1192   |
-| 26    | New York Giants            | 1-3      | 1188   |
-| 27    | Miami Dolphins             | 1-3      | 1187   |
-| 28    | New England Patriots       | 1-3      | 1180   |
-| 29    | Atlanta Falcons            | 1-3      | 1143   |
-| 30    | Houston Texans             | 1-3      | 983    |
-| 31    | Detroit Lions              | 0-4      | 736    |
-| 32    | Jacksonville Jaguars       | 0-4      | 378    |
-_Updated 10/4/2021, 1:40pm_
+| 22    | New York Jets              | 1-3      | 1266   |
+| 23    | San Francisco 49ers        | 2-2      | 1257   |
+| 24    | Indianapolis Colts         | 1-3      | 1236   |
+| 25    | Philadelphia Eagles        | 1-3      | 1202   |
+| 26    | New York Giants            | 1-3      | 1196   |
+| 27    | Miami Dolphins             | 1-3      | 1182   |
+| 28    | New England Patriots       | 1-3      | 1178   |
+| 29    | Atlanta Falcons            | 1-3      | 1156   |
+| 30    | Houston Texans             | 1-3      | 988    |
+| 31    | Detroit Lions              | 0-4      | 735    |
+| 32    | Jacksonville Jaguars       | 0-4      | 379    |
+_Updated 10/6/2021, 11:11pm_
 
 NFL data comes from [https://www.pro-football-reference.com](https://www.pro-football-reference.com).
 
