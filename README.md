@@ -30,7 +30,7 @@ This poll is based on the Glicko-2 rating system [\(Glickman 2013\)](http://glic
 | 23    | Western Michigan     | Mid-American         | 4-1      | 2020   |
 | 24    | Ole Miss             | SEC                  | 3-1      | 2007   |
 | 25    | Kansas State         | Big 12               | 3-2      | 2005   |
-_Updated 10/3/2021, 1:00pm_
+_Updated 10/6/2021, 11:15pm_
 
 1. All P5 teams start with a rating of 1500 and all G5 teams start with a rating of 1200. Other, non-FBS teams, if encountered in the schedule, are added to the table starting with a rating of 800. All teams start with a rating deviation of 600 and a volatility of 0.6.
 2. The 2020 schedule is run through 1 time to give initial ratings. Note that, after this run, the RD remains high and so the ratings are still quite fluid.
