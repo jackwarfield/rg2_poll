@@ -5,32 +5,32 @@ This poll is based on the Glicko-2 rating system [\(Glickman 2013\)](http://glic
 ### College Football
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
-| 1     | Cincinnati           | American Athletic    | 7-0      | 2734   |
-| 2     | Georgia              | SEC                  | 7-0      | 2730   |
-| 3     | Oklahoma             | Big 12               | 8-0      | 2523   |
-| 4     | Wake Forest          | ACC                  | 7-0      | 2360   |
-| 5     | Michigan             | Big Ten              | 7-0      | 2355   |
-| 6     | Michigan State       | Big Ten              | 7-0      | 2352   |
-| 7     | San Diego State      | Mountain West        | 7-0      | 2330   |
-| 8     | Notre Dame           | FBS Independents     | 6-1      | 2280   |
-| 9     | Kentucky             | SEC                  | 6-1      | 2178   |
-| 10    | UT San Antonio       | Conference USA       | 8-0      | 2171   |
-| 11    | Oklahoma State       | Big 12               | 6-1      | 2144   |
-| 12    | Baylor               | Big 12               | 6-1      | 2109   |
-| 13    | SMU                  | American Athletic    | 7-0      | 2104   |
-| 14    | Iowa                 | Big Ten              | 6-1      | 2035   |
-| 15    | Ole Miss             | SEC                  | 6-1      | 2032   |
-| 16    | Iowa State           | Big 12               | 5-2      | 2027   |
-| 17    | Alabama              | SEC                  | 7-1      | 1990   |
-| 18    | Auburn               | SEC                  | 5-2      | 1929   |
-| 19    | Ohio State           | Big Ten              | 6-1      | 1917   |
-| 20    | Arkansas             | SEC                  | 5-3      | 1871   |
-| 21    | Oregon               | Pac-12               | 6-1      | 1870   |
-| 22    | Wisconsin            | Big Ten              | 4-3      | 1861   |
-| 23    | Penn State           | Big Ten              | 5-2      | 1844   |
-| 24    | Texas                | Big 12               | 4-3      | 1836   |
-| 25    | Kansas State         | Big 12               | 4-3      | 1815   |
-_Updated 10/24/2021, 12:00pm_
+| 1     | Cincinnati           | American Athletic    | 8-0      | 2780   |
+| 2     | Michigan State       | Big Ten              | 8-0      | 2680   |
+| 3     | Georgia              | SEC                  | 8-0      | 2671   |
+| 4     | Oklahoma             | Big 12               | 9-0      | 2544   |
+| 5     | Wake Forest          | ACC                  | 8-0      | 2330   |
+| 6     | Notre Dame           | FBS Independents     | 7-1      | 2321   |
+| 7     | Michigan             | Big Ten              | 7-1      | 2240   |
+| 8     | UT San Antonio       | Conference USA       | 8-0      | 2108   |
+| 9     | Baylor               | Big 12               | 7-1      | 2103   |
+| 10    | Oklahoma State       | Big 12               | 7-1      | 2087   |
+| 11    | Ohio State           | Big Ten              | 7-1      | 2020   |
+| 12    | Auburn               | SEC                  | 6-2      | 2008   |
+| 13    | Alabama              | SEC                  | 7-1      | 1976   |
+| 14    | Oregon               | Pac-12               | 7-1      | 1939   |
+| 15    | Wisconsin            | Big Ten              | 5-3      | 1920   |
+| 16    | Ole Miss             | SEC                  | 6-2      | 1900   |
+| 17    | Iowa                 | Big Ten              | 6-2      | 1866   |
+| 18    | BYU                  | FBS Independents     | 7-2      | 1859   |
+| 19    | Arkansas             | SEC                  | 5-3      | 1842   |
+| 20    | San Diego State      | Mountain West        | 7-1      | 1815   |
+| 21    | Iowa State           | Big 12               | 5-3      | 1809   |
+| 22    | Kansas State         | Big 12               | 5-3      | 1798   |
+| 23    | Texas                | Big 12               | 4-4      | 1791   |
+| 24    | Penn State           | Big Ten              | 5-3      | 1777   |
+| 25    | Purdue               | Big Ten              | 5-3      | 1775   |
+_Updated 10/31/2021, 10:30am_
 
 1. All P5 teams start with a rating of 1500 and all G5 teams start with a rating of 1200. Other, non-FBS teams, if encountered in the schedule, are added to the table starting with a rating of 800. All teams start with a rating deviation of 600 and a volatility of 0.6.
 2. The 2020 schedule is run through 1 time to give initial ratings. Note that, after this run, the RD remains high and so the ratings are still quite fluid.
