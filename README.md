@@ -80,32 +80,32 @@ NFL data comes from [https://www.pro-football-reference.com](https://www.pro-foo
 ### Men's College Basketball
 | Rank  | Team                 | Conference | Record   | Rating |
 | ---:  | ---:                 | ---:       | ---:     | ---:   |
-| 1     | Gonzaga              | WCC        | 31-1     | 2617   |
-| 2     | Baylor               | Big 12     | 28-2     | 2538   |
-| 3     | Illinois             | Big 10     | 24-7     | 2218   |
-| 4     | Michigan             | Big 10     | 23-5     | 2215   |
-| 5     | Southern California  | Pac 12     | 25-8     | 2182   |
-| 6     | Houston              | AAC        | 28-4     | 2171   |
-| 7     | Oklahoma St.         | Big 12     | 21-9     | 2169   |
-| 8     | Kansas               | Big 12     | 21-9     | 2140   |
-| 9     | Oregon               | Pac 12     | 21-7     | 2133   |
-| 10    | Alabama              | SEC        | 26-7     | 2131   |
-| 11    | Arkansas             | SEC        | 25-7     | 2126   |
-| 12    | Iowa                 | Big 10     | 22-9     | 2123   |
-| 13    | UCLA                 | Pac 12     | 22-10    | 2123   |
-| 14    | Texas                | Big 12     | 19-8     | 2114   |
-| 15    | BYU                  | WCC        | 20-7     | 2101   |
-| 16    | Colorado             | Pac 12     | 23-9     | 2098   |
-| 17    | Ohio St.             | Big 10     | 21-10    | 2095   |
-| 18    | San Diego St.        | MWC        | 23-5     | 2074   |
-| 19    | West Virginia        | Big 12     | 19-10    | 2066   |
-| 20    | Oregon St.           | Pac 12     | 20-13    | 2063   |
-| 21    | Loyola Chicago       | MVC        | 26-5     | 2044   |
-| 22    | Villanova            | Big East   | 18-7     | 2036   |
-| 23    | Texas Tech           | Big 12     | 18-11    | 2036   |
-| 24    | Creighton            | Big East   | 22-9     | 2035   |
-| 25    | Florida St.          | ACC        | 18-7     | 2033   |
-_Updated 4/10/2021, 12:00pm_
+| 1     | Iowa St.             | Big 12     | 6-0      | 3206   |
+| 2     | Florida              | SEC        | 6-0      | 2975   |
+| 3     | Purdue               | Big 10     | 7-0      | 2911   |
+| 4     | BYU                  | WCC        | 6-0      | 2875   |
+| 5     | LSU                  | SEC        | 7-0      | 2861   |
+| 6     | Arizona              | Pac 12     | 6-0      | 2855   |
+| 7     | San Francisco        | WCC        | 8-0      | 2816   |
+| 8     | Baylor               | Big 12     | 7-0      | 2816   |
+| 9     | Xavier               | Big East   | 5-1      | 2809   |
+| 10    | Colorado St.         | MWC        | 7-0      | 2808   |
+| 11    | Minnesota            | Big 10     | 6-0      | 2721   |
+| 12    | Wyoming              | MWC        | 6-0      | 2719   |
+| 13    | Arkansas             | SEC        | 6-0      | 2705   |
+| 14    | Memphis              | AAC        | 5-1      | 2700   |
+| 15    | Southern California  | Pac 12     | 6-0      | 2699   |
+| 16    | DePaul               | Big East   | 6-0      | 2626   |
+| 17    | Ohio St.             | Big 10     | 5-2      | 2608   |
+| 18    | Iowa                 | Big 10     | 7-0      | 2605   |
+| 19    | Duke                 | ACC        | 7-1      | 2557   |
+| 20    | Weber St.            | Big Sky    | 6-0      | 2555   |
+| 21    | Gonzaga              | WCC        | 7-1      | 2486   |
+| 22    | Wichita St.          | AAC        | 5-1      | 2382   |
+| 23    | UCLA                 | Pac 12     | 6-1      | 2363   |
+| 24    | Kentucky             | SEC        | 6-1      | 2321   |
+| 25    | Utah                 | Pac 12     | 5-1      | 2320   |
+_Updated 12/1/2021, 12:30pm_
 
-Script for scraping data by [Luke Benz](https://github.com/lbenz731/NCAA_Hoops).
+Script for scraping data by [Luke Benz](https://github.com/lbenz730/NCAA_Hoops).
 One potential standing issue is that, because of the way the games are scraped, every game is actually considered twice when constructing the ranking. I don't think that this can actually be considered an objectively good or bad thing, but regardless it is probably something that I should fix eventually.
