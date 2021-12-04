@@ -80,32 +80,32 @@ NFL data comes from [https://www.pro-football-reference.com](https://www.pro-foo
 ### Men's College Basketball
 | Rank  | Team                 | Conference | Record   | Rating |
 | ---:  | ---:                 | ---:       | ---:     | ---:   |
-| 1     | Iowa St.             | Big 12     | 6-0      | 3206   |
-| 2     | Florida              | SEC        | 6-0      | 2975   |
-| 3     | Purdue               | Big 10     | 7-0      | 2911   |
-| 4     | BYU                  | WCC        | 6-0      | 2875   |
-| 5     | LSU                  | SEC        | 7-0      | 2861   |
-| 6     | Arizona              | Pac 12     | 6-0      | 2855   |
-| 7     | San Francisco        | WCC        | 8-0      | 2816   |
-| 8     | Baylor               | Big 12     | 7-0      | 2816   |
-| 9     | Xavier               | Big East   | 5-1      | 2809   |
-| 10    | Colorado St.         | MWC        | 7-0      | 2808   |
-| 11    | Minnesota            | Big 10     | 6-0      | 2721   |
-| 12    | Wyoming              | MWC        | 6-0      | 2719   |
-| 13    | Arkansas             | SEC        | 6-0      | 2705   |
-| 14    | Memphis              | AAC        | 5-1      | 2700   |
-| 15    | Southern California  | Pac 12     | 6-0      | 2699   |
-| 16    | DePaul               | Big East   | 6-0      | 2626   |
-| 17    | Ohio St.             | Big 10     | 5-2      | 2608   |
-| 18    | Iowa                 | Big 10     | 7-0      | 2605   |
-| 19    | Duke                 | ACC        | 7-1      | 2557   |
-| 20    | Weber St.            | Big Sky    | 6-0      | 2555   |
-| 21    | Gonzaga              | WCC        | 7-1      | 2486   |
-| 22    | Wichita St.          | AAC        | 5-1      | 2382   |
-| 23    | UCLA                 | Pac 12     | 6-1      | 2363   |
-| 24    | Kentucky             | SEC        | 6-1      | 2321   |
-| 25    | Utah                 | Pac 12     | 5-1      | 2320   |
-_Updated 12/1/2021, 12:30pm_
+| 1     | Iowa St.             | Big 12     | 7-0      | 3103   |
+| 2     | Purdue               | Big 10     | 8-0      | 2999   |
+| 3     | LSU                  | SEC        | 8-0      | 2986   |
+| 4     | Arizona              | Pac 12     | 6-0      | 2898   |
+| 5     | Baylor               | Big 12     | 7-0      | 2832   |
+| 6     | San Francisco        | WCC        | 8-0      | 2791   |
+| 7     | Colorado St.         | MWC        | 8-0      | 2752   |
+| 8     | Xavier               | Big East   | 6-1      | 2712   |
+| 9     | Southern California  | Pac 12     | 7-0      | 2708   |
+| 10    | Wyoming              | MWC        | 7-0      | 2708   |
+| 11    | Arkansas             | SEC        | 7-0      | 2683   |
+| 12    | DePaul               | Big East   | 6-0      | 2581   |
+| 13    | Minnesota            | Big 10     | 6-0      | 2551   |
+| 14    | Weber St.            | Big Sky    | 7-0      | 2543   |
+| 15    | Wisconsin            | Big 10     | 7-1      | 2504   |
+| 16    | Wake Forest          | ACC        | 8-1      | 2497   |
+| 17    | Wichita St.          | AAC        | 6-1      | 2478   |
+| 18    | Iowa                 | Big 10     | 7-1      | 2475   |
+| 19    | Duke                 | ACC        | 7-1      | 2468   |
+| 20    | Gonzaga              | WCC        | 7-1      | 2459   |
+| 21    | Ohio St.             | Big 10     | 5-2      | 2442   |
+| 22    | Florida              | SEC        | 6-1      | 2402   |
+| 23    | Michigan St.         | Big 10     | 6-2      | 2380   |
+| 24    | Providence           | Big East   | 8-1      | 2378   |
+| 25    | UCLA                 | Pac 12     | 7-1      | 2371   |
+_Updated 12/4/2021, 6:00pm_
 
 Script for scraping data by [Luke Benz](https://github.com/lbenz730/NCAA_Hoops).
 One potential standing issue is that, because of the way the games are scraped, every game is actually considered twice when constructing the ranking. I don't think that this can actually be considered an objectively good or bad thing, but regardless it is probably something that I should fix eventually.
