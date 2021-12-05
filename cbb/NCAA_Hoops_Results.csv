@@ -37,7 +37,7 @@
 2021,11,27,"Abilene Christian","McMurry","H",89,54,FALSE,FALSE,NA,1
 2021,11,29,"Abilene Christian","Schreiner","H",88,47,FALSE,FALSE,NA,1
 2021,12,1,"Abilene Christian","Dallas","H",108,65,FALSE,FALSE,NA,1
-2021,12,4,"Abilene Christian","UIW","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Abilene Christian","UIW","H",98,65,FALSE,FALSE,NA,2
 2021,12,11,"Abilene Christian","Drexel","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,15,"Abilene Christian","CSU Bakersfield","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,19,"Abilene Christian","Howard Payne","H",NA,NA,FALSE,FALSE,NA,1
@@ -67,7 +67,7 @@
 2021,11,21,"Air Force","Bethune-Cookman","N",73,65,FALSE,FALSE,NA,2
 2021,11,24,"Air Force","Denver","H",66,65,FALSE,FALSE,NA,2
 2021,11,27,"Air Force","Idaho St.","H",59,48,FALSE,FALSE,NA,2
-2021,12,4,"Air Force","Army West Point","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Air Force","Army West Point","H",76,58,FALSE,FALSE,NA,2
 2021,12,8,"Air Force","Montana","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,19,"Air Force","Arkansas St.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,21,"Air Force","Tarleton St.","V",NA,NA,FALSE,FALSE,NA,2
@@ -96,7 +96,7 @@
 2021,11,23,"Akron","App State","N",45,57,FALSE,FALSE,NA,1
 2021,11,24,"Akron","Evansville","N",69,60,FALSE,FALSE,NA,2
 2021,12,1,"Akron","Marshall","H",88,86,FALSE,FALSE,NA,2
-2021,12,4,"Akron","Southern U.","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Akron","Southern U.","H",79,62,FALSE,FALSE,NA,2
 2021,12,12,"Akron","Florida A&M","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,15,"Akron","Wright St.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,20,"Akron","Radford","H",NA,NA,FALSE,FALSE,NA,2
@@ -127,7 +127,7 @@
 2021,11,25,"Alabama","Iona","N",68,72,FALSE,FALSE,NA,2
 2021,11,26,"Alabama","Drake","N",80,71,FALSE,FALSE,NA,2
 2021,11,28,"Alabama","Miami (FL)","N",96,64,FALSE,FALSE,NA,2
-2021,12,4,"Alabama","Gonzaga","N",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Alabama","Gonzaga","N",91,82,FALSE,FALSE,NA,2
 2021,12,11,"Alabama","Houston","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,14,"Alabama","Memphis","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Alabama","Jacksonville St.","H",NA,NA,FALSE,FALSE,NA,2
@@ -282,7 +282,7 @@
 2021,11,23,"American","UMBC","V",67,98,FALSE,FALSE,NA,2
 2021,11,28,"American","Duquesne","V",79,88,FALSE,FALSE,NA,2
 2021,12,1,"American","Stony Brook","V",57,80,FALSE,FALSE,NA,2
-2021,12,4,"American","Howard","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"American","Howard","V",56,90,FALSE,FALSE,NA,2
 2021,12,8,"American","Saint Francis (PA)","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"American","Mount St. Mary&;s","V",NA,NA,FALSE,FALSE,NA,1
 2021,12,21,"American","George Mason","V",NA,NA,FALSE,FALSE,NA,2
@@ -407,7 +407,7 @@
 2021,11,26,"Ark.-Pine Bluff","Pacific","V",50,74,FALSE,FALSE,NA,2
 2021,11,29,"Ark.-Pine Bluff","Ark. Baptist","H",75,70,FALSE,FALSE,NA,1
 2021,12,1,"Ark.-Pine Bluff","Iowa St.","V",64,83,FALSE,FALSE,NA,2
-2021,12,4,"Ark.-Pine Bluff","Baylor","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Ark.-Pine Bluff","Baylor","V",54,99,FALSE,FALSE,NA,2
 2021,12,8,"Ark.-Pine Bluff","Arkansas St.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,14,"Ark.-Pine Bluff","Texas","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Ark.-Pine Bluff","Ecclesia","H",NA,NA,FALSE,FALSE,NA,1
@@ -435,7 +435,7 @@
 2021,11,23,"Arkansas","Cincinnati","N",73,67,FALSE,FALSE,NA,2
 2021,11,28,"Arkansas","Penn","H",76,60,FALSE,FALSE,NA,2
 2021,12,1,"Arkansas","Central Ark.","H",97,60,FALSE,FALSE,NA,2
-2021,12,4,"Arkansas","Little Rock","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Arkansas","Little Rock","H",93,78,FALSE,FALSE,NA,2
 2021,12,7,"Arkansas","Charlotte","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Arkansas","Oklahoma","N",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Arkansas","Hofstra","H",NA,NA,FALSE,FALSE,NA,2
@@ -465,7 +465,7 @@
 2021,11,19,"Arkansas St.","Southeast Mo. St.","V",72,60,FALSE,FALSE,NA,2
 2021,11,26,"Arkansas St.","Morehead St.","H",51,75,FALSE,FALSE,NA,2
 2021,11,28,"Arkansas St.","Kansas City","H",66,55,FALSE,FALSE,NA,2
-2021,12,4,"Arkansas St.","Central Ark.","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Arkansas St.","Central Ark.","H",95,82,FALSE,FALSE,NA,2
 2021,12,8,"Arkansas St.","Ark.-Pine Bluff","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Arkansas St.","Mississippi Val.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,14,"Arkansas St.","Texas Tech","V",NA,NA,FALSE,FALSE,NA,2
@@ -497,7 +497,7 @@
 2021,11,24,"Army West Point","Wagner","H",NA,NA,FALSE,TRUE,NA,2
 2021,11,27,"Army West Point","Marist","H",65,61,FALSE,FALSE,NA,2
 2021,11,30,"Army West Point","Siena","H",67,83,FALSE,FALSE,NA,2
-2021,12,4,"Army West Point","Air Force","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Army West Point","Air Force","V",58,76,FALSE,FALSE,NA,2
 2021,12,7,"Army West Point","Purchase","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,10,"Army West Point","NJIT","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,19,"Army West Point","LIU","V",NA,NA,FALSE,FALSE,NA,2
@@ -618,7 +618,7 @@
 2021,11,24,"Baylor","Arizona St.","N",75,63,FALSE,FALSE,NA,2
 2021,11,25,"Baylor","VCU","N",69,61,FALSE,FALSE,NA,2
 2021,11,26,"Baylor","Michigan St.","N",75,58,FALSE,FALSE,NA,2
-2021,12,4,"Baylor","Ark.-Pine Bluff","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Baylor","Ark.-Pine Bluff","H",99,54,FALSE,FALSE,NA,2
 2021,12,12,"Baylor","Villanova","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Baylor","Oregon","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,20,"Baylor","Alcorn","H",NA,NA,FALSE,FALSE,NA,2
@@ -1015,7 +1015,7 @@
 2021,11,23,"Buffalo","SFA","N",78,79,FALSE,FALSE,NA,2
 2021,11,24,"Buffalo","Illinois St.","N",106,90,FALSE,FALSE,NA,2
 2021,11,29,"Buffalo","Point Park","H",94,49,FALSE,FALSE,NA,1
-2021,12,4,"Buffalo","St. Bonaventure","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Buffalo","St. Bonaventure","V",65,68,FALSE,FALSE,NA,2
 2021,12,8,"Buffalo","Western Ky.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Buffalo","St. John Fisher","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,18,"Buffalo","Canisius","V",NA,NA,FALSE,FALSE,NA,2
@@ -1078,7 +1078,7 @@
 2021,11,24,"BYU","Texas Southern","H",81,64,FALSE,FALSE,NA,2
 2021,11,27,"BYU","Utah","V",75,64,FALSE,FALSE,NA,2
 2021,12,1,"BYU","Utah Valley","V",65,72,FALSE,FALSE,NA,2
-2021,12,4,"BYU","Missouri St.","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"BYU","Missouri St.","V",74,68,FALSE,FALSE,NA,2
 2021,12,8,"BYU","Utah St.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"BYU","Creighton","N",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"BYU","Weber St.","V",NA,NA,FALSE,FALSE,NA,2
@@ -1139,7 +1139,7 @@
 2021,11,23,"Cal St. Fullerton","UTRGV","N",67,72,FALSE,FALSE,NA,2
 2021,11,24,"Cal St. Fullerton","Northern Ariz.","V",73,56,FALSE,FALSE,NA,2
 2021,11,29,"Cal St. Fullerton","Wyoming","H",66,79,FALSE,FALSE,NA,2
-2021,12,4,"Cal St. Fullerton","Pacific","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Cal St. Fullerton","Pacific","H",66,57,FALSE,FALSE,NA,2
 2021,12,8,"Cal St. Fullerton","San Diego St.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Cal St. Fullerton","LIFE Pacific","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,17,"Cal St. Fullerton","Redlands","H",NA,NA,FALSE,FALSE,NA,1
@@ -1232,7 +1232,7 @@
 2021,11,24,"Campbell","UMES","H",66,55,FALSE,FALSE,NA,2
 2021,11,27,"Campbell","Stetson","V",60,58,FALSE,FALSE,NA,2
 2021,11,30,"Campbell","Lancaster Bible","H",83,39,FALSE,FALSE,NA,1
-2021,12,4,"Campbell","VCU","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Campbell","VCU","V",61,65,FALSE,FALSE,NA,2
 2021,12,7,"Campbell","Columbia Int&;l","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,15,"Campbell","Ga. Southern","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,22,"Campbell","UNCW","V",NA,NA,FALSE,FALSE,NA,2
@@ -1293,7 +1293,7 @@
 2021,11,25,"Central Ark.","VMI","N",67,73,FALSE,FALSE,NA,2
 2021,11,26,"Central Ark.","Presbyterian","N",66,75,FALSE,FALSE,NA,2
 2021,12,1,"Central Ark.","Arkansas","V",60,97,FALSE,FALSE,NA,2
-2021,12,4,"Central Ark.","Arkansas St.","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Central Ark.","Arkansas St.","V",82,95,FALSE,FALSE,NA,2
 2021,12,14,"Central Ark.","Little Rock","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Central Ark.","Missouri St.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,20,"Central Ark.","Hendrix","H",NA,NA,FALSE,FALSE,NA,1
@@ -1323,7 +1323,7 @@
 2021,11,23,"Central Conn. St.","Maine","V",64,56,FALSE,FALSE,NA,2
 2021,11,28,"Central Conn. St.","Fordham","H",83,89,FALSE,FALSE,NA,2
 2021,12,1,"Central Conn. St.","Holy Cross","H",73,67,FALSE,FALSE,NA,2
-2021,12,4,"Central Conn. St.","New Hampshire","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Central Conn. St.","New Hampshire","V",45,67,FALSE,FALSE,NA,2
 2021,12,11,"Central Conn. St.","Providence","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,14,"Central Conn. St.","Stony Brook","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Central Conn. St.","Hartford","H",NA,NA,FALSE,FALSE,NA,2
@@ -1474,7 +1474,7 @@
 2021,11,22,"Chicago St.","Pacific","V",58,74,FALSE,FALSE,NA,2
 2021,11,28,"Chicago St.","Bowling Green","V",57,75,FALSE,FALSE,NA,2
 2021,12,1,"Chicago St.","Loyola Maryland","V",64,78,FALSE,FALSE,NA,2
-2021,12,4,"Chicago St.","Tennessee St.","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Chicago St.","Tennessee St.","H",59,49,FALSE,FALSE,NA,2
 2021,12,11,"Chicago St.","Illinois St.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,13,"Chicago St.","Northern Ill.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,16,"Chicago St.","IUPUI","V",NA,NA,FALSE,FALSE,NA,2
@@ -1721,7 +1721,7 @@
 2021,11,22,"Colorado St.","Northeastern","N",71,61,FALSE,FALSE,NA,2
 2021,11,27,"Colorado St.","Northern Colo.","H",88,79,FALSE,FALSE,NA,2
 2021,12,1,"Colorado St.","Little Rock","H",86,55,FALSE,FALSE,NA,2
-2021,12,4,"Colorado St.","Saint Mary&;s (CA)","H",NA,NA,FALSE,FALSE,NA,1
+2021,12,4,"Colorado St.","Saint Mary&;s (CA)","H",74,58,FALSE,FALSE,NA,1
 2021,12,11,"Colorado St.","Mississippi St.","N",NA,NA,FALSE,FALSE,NA,2
 2021,12,17,"Colorado St.","Tulsa","N",NA,NA,FALSE,FALSE,NA,2
 2021,12,20,"Colorado St.","Alabama","N",NA,NA,FALSE,FALSE,NA,2
@@ -1836,7 +1836,7 @@
 2021,11,22,"Creighton","Southern Ill.","N",66,64,FALSE,FALSE,NA,2
 2021,11,27,"Creighton","SIUE","H",70,65,FALSE,FALSE,NA,2
 2021,11,30,"Creighton","North Dakota St.","H",80,55,FALSE,FALSE,NA,2
-2021,12,4,"Creighton","Iowa St.","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Creighton","Iowa St.","H",58,64,FALSE,FALSE,NA,2
 2021,12,11,"Creighton","BYU","N",NA,NA,FALSE,FALSE,NA,2
 2021,12,14,"Creighton","Arizona St.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,17,"Creighton","Villanova","H",NA,NA,FALSE,FALSE,NA,2
@@ -1894,7 +1894,7 @@
 2021,11,20,"CSUN","Dixie St. - MBB Good Sam Empire Classic","H",79,73,FALSE,FALSE,NA,1
 2021,11,24,"CSUN","St. Katherine","H",71,62,FALSE,FALSE,NA,1
 2021,11,28,"CSUN","San Diego","V",56,52,FALSE,FALSE,NA,2
-2021,12,4,"CSUN","Fresno St.","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"CSUN","Fresno St.","V",43,61,FALSE,FALSE,NA,2
 2021,12,7,"CSUN","Boise St.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,10,"CSUN","North Dakota St.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"CSUN","Portland St.","H",NA,NA,FALSE,FALSE,NA,2
@@ -1924,7 +1924,7 @@
 2021,11,16,"Dartmouth","NVU-Lyndon","H",114,74,FALSE,FALSE,NA,1
 2021,11,28,"Dartmouth","Bryant","V",63,61,FALSE,FALSE,NA,2
 2021,12,1,"Dartmouth","Vermont","V",65,83,FALSE,FALSE,NA,2
-2021,12,4,"Dartmouth","FGCU","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Dartmouth","FGCU","V",68,78,FALSE,FALSE,NA,2
 2021,12,8,"Dartmouth","Quinnipiac","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Dartmouth","Boston U.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,16,"Dartmouth","Stanford","V",NA,NA,FALSE,FALSE,NA,2
@@ -2101,7 +2101,7 @@
 2021,11,20,"DePaul","Western Ill.","H",84,80,FALSE,FALSE,NA,2
 2021,11,26,"DePaul","Northern Ky.","H",77,68,FALSE,FALSE,NA,2
 2021,11,28,"DePaul","Eastern Mich.","H",101,63,FALSE,FALSE,NA,2
-2021,12,4,"DePaul","Loyola Chicago","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"DePaul","Loyola Chicago","H",64,68,FALSE,FALSE,NA,2
 2021,12,7,"DePaul","Duquesne","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,10,"DePaul","Louisville","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,14,"DePaul","UIC","V",NA,NA,FALSE,FALSE,NA,2
@@ -2165,7 +2165,7 @@
 2021,11,27,"Dixie St.","Weber St.","H",70,87,FALSE,FALSE,NA,2
 2021,11,30,"Dixie St.","Bethesda (CA)","H",99,61,FALSE,FALSE,NA,1
 2021,12,1,"Dixie St.","Bethesda (CA)","H",99,67,FALSE,FALSE,NA,1
-2021,12,4,"Dixie St.","St. Katherine","H",NA,NA,FALSE,FALSE,NA,1
+2021,12,4,"Dixie St.","St. Katherine","H",97,65,FALSE,FALSE,NA,1
 2021,12,11,"Dixie St.","Denver","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,15,"Dixie St.","SAGU American Indian","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,18,"Dixie St.","North Dakota","V",NA,NA,FALSE,FALSE,NA,2
@@ -2226,7 +2226,7 @@
 2021,11,23,"Drexel","Charlotte","N",67,55,FALSE,FALSE,NA,2
 2021,11,24,"Drexel","Jacksonville St.","N",64,72,FALSE,FALSE,NA,2
 2021,12,2,"Drexel","Fairleigh Dickinson","H",86,65,FALSE,FALSE,NA,2
-2021,12,4,"Drexel","Princeton","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Drexel","Princeton","V",79,81,FALSE,FALSE,NA,2
 2021,12,11,"Drexel","Abilene Christian","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,14,"Drexel","Coppin St.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Drexel","Temple","V",NA,NA,FALSE,FALSE,NA,2
@@ -2288,7 +2288,7 @@
 2021,11,22,"Duquesne","Bradley","N",78,70,FALSE,FALSE,NA,2
 2021,11,28,"Duquesne","American","H",88,79,FALSE,FALSE,NA,2
 2021,12,1,"Duquesne","Bowling Green","H",70,78,FALSE,FALSE,NA,2
-2021,12,4,"Duquesne","Marshall","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Duquesne","Marshall","V",71,72,FALSE,FALSE,NA,2
 2021,12,7,"Duquesne","DePaul","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Duquesne","New Hampshire","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,19,"Duquesne","UC Irvine","N",NA,NA,FALSE,FALSE,NA,2
@@ -2319,7 +2319,7 @@
 2021,11,21,"East Carolina","Davidson","N",67,76,FALSE,FALSE,NA,2
 2021,11,27,"East Carolina","Coppin St.","H",70,68,FALSE,FALSE,NA,2
 2021,11,30,"East Carolina","Old Dominion","H",63,62,FALSE,FALSE,NA,2
-2021,12,4,"East Carolina","Gardner-Webb","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"East Carolina","Gardner-Webb","H",62,52,FALSE,FALSE,NA,2
 2021,12,7,"East Carolina","N.C. A&T","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,17,"East Carolina","Liberty","N",NA,NA,FALSE,FALSE,NA,2
 2021,12,21,"East Carolina","Southern Miss.","H",NA,NA,FALSE,FALSE,NA,2
@@ -2380,7 +2380,7 @@
 2021,11,22,"Eastern Ky.","Eastern Ill.","H",82,43,FALSE,FALSE,NA,2
 2021,11,26,"Eastern Ky.","West Virginia","V",77,80,FALSE,FALSE,NA,2
 2021,11,28,"Eastern Ky.","Radford","V",75,88,FALSE,FALSE,NA,2
-2021,12,4,"Eastern Ky.","Western Ky.","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Eastern Ky.","Western Ky.","V",80,85,FALSE,FALSE,NA,2
 2021,12,7,"Eastern Ky.","Southern California","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Eastern Ky.","Marshall","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,15,"Eastern Ky.","Midway","H",NA,NA,FALSE,FALSE,NA,1
@@ -2473,7 +2473,7 @@
 2021,11,21,"Elon","Temple","N",58,75,FALSE,FALSE,NA,2
 2021,11,27,"Elon","Jacksonville St.","H",81,93,FALSE,FALSE,NA,2
 2021,11,30,"Elon","UNC Greensboro","V",61,74,FALSE,FALSE,NA,2
-2021,12,4,"Elon","High Point","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Elon","High Point","H",77,83,FALSE,FALSE,NA,2
 2021,12,11,"Elon","North Carolina","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,15,"Elon","Winthrop","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Elon","Shaw","H",NA,NA,FALSE,FALSE,NA,1
@@ -2504,7 +2504,7 @@
 2021,11,24,"ETSU","Kent St.","N",57,51,FALSE,FALSE,NA,2
 2021,11,27,"ETSU","Lees-McRae","H",92,74,FALSE,FALSE,NA,1
 2021,12,1,"ETSU","UAB","V",56,70,FALSE,FALSE,NA,2
-2021,12,4,"ETSU","Lenoir-Rhyne","H",NA,NA,FALSE,FALSE,NA,1
+2021,12,4,"ETSU","Lenoir-Rhyne","H",90,66,FALSE,FALSE,NA,1
 2021,12,11,"ETSU","Morehead St.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,14,"ETSU","N.C. A&T","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"ETSU","UNC Asheville","V",NA,NA,FALSE,FALSE,NA,2
@@ -2627,7 +2627,7 @@
 2021,11,27,"FGCU","Southeastern La. - MBB FGCU Invitational","H",90,71,FALSE,FALSE,NA,1
 2021,11,28,"FGCU","Purdue Fort Wayne - MBB FGCU Invitational","H",85,78,FALSE,FALSE,NA,1
 2021,12,1,"FGCU","FIU","V",61,77,FALSE,FALSE,NA,2
-2021,12,4,"FGCU","Dartmouth","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"FGCU","Dartmouth","H",78,68,FALSE,FALSE,NA,2
 2021,12,7,"FGCU","Florida A&M","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"FGCU","Robert Morris","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,19,"FGCU","Mercer","H",NA,NA,FALSE,FALSE,NA,2
@@ -2656,7 +2656,7 @@
 2021,11,24,"FIU","North Dakota","H",65,56,FALSE,FALSE,NA,2
 2021,11,28,"FIU","North Florida","H",84,69,FALSE,FALSE,NA,2
 2021,12,1,"FIU","FGCU","H",77,61,FALSE,FALSE,NA,2
-2021,12,4,"FIU","Stetson","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"FIU","Stetson","H",72,65,FALSE,FALSE,NA,2
 2021,12,11,"FIU","Eastern Mich.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,15,"FIU","Jacksonville St.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,19,"FIU","Bethune-Cookman","H",NA,NA,FALSE,FALSE,NA,2
@@ -2779,7 +2779,7 @@
 2021,11,22,"Florida St.","Missouri","N",81,58,FALSE,FALSE,NA,2
 2021,11,24,"Florida St.","Boston U.","H",81,80,FALSE,FALSE,NA,2
 2021,11,30,"Florida St.","Purdue","V",65,93,FALSE,FALSE,NA,2
-2021,12,4,"Florida St.","Syracuse","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Florida St.","Syracuse","H",60,63,FALSE,FALSE,NA,2
 2021,12,12,"Florida St.","South Carolina","N",NA,NA,FALSE,FALSE,NA,2
 2021,12,15,"Florida St.","Lipscomb","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Florida St.","UCF","N",NA,NA,FALSE,FALSE,NA,2
@@ -2841,7 +2841,7 @@
 2021,11,24,"Fresno St.","Santa Clara","N",59,52,FALSE,FALSE,NA,2
 2021,11,28,"Fresno St.","California","V",57,65,FALSE,FALSE,NA,2
 2021,12,1,"Fresno St.","San Diego","H",63,43,FALSE,FALSE,NA,2
-2021,12,4,"Fresno St.","CSUN","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Fresno St.","CSUN","H",61,43,FALSE,FALSE,NA,2
 2021,12,8,"Fresno St.","San Francisco","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Fresno St.","UC Irvine","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,17,"Fresno St.","Cal Poly","H",NA,NA,FALSE,FALSE,NA,2
@@ -2933,7 +2933,7 @@
 2021,11,24,"Gardner-Webb","Columbia Int&;l","H",90,78,FALSE,FALSE,NA,1
 2021,11,27,"Gardner-Webb","Western Caro.","H",87,59,FALSE,FALSE,NA,2
 2021,11,29,"Gardner-Webb","N.C. Central","H",83,58,FALSE,FALSE,NA,2
-2021,12,4,"Gardner-Webb","East Carolina","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Gardner-Webb","East Carolina","V",52,62,FALSE,FALSE,NA,2
 2021,12,8,"Gardner-Webb","Wofford","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Gardner-Webb","VMI","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,15,"Gardner-Webb","N.C. Central","V",NA,NA,FALSE,FALSE,NA,2
@@ -2963,7 +2963,7 @@
 2021,11,22,"George Mason","Washington","N",74,77,FALSE,FALSE,NA,2
 2021,11,23,"George Mason","Nevada","N",69,88,FALSE,FALSE,NA,2
 2021,11,24,"George Mason","South Dakota St.","N",76,80,FALSE,FALSE,NA,2
-2021,12,4,"George Mason","Old Dominion","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"George Mason","Old Dominion","H",50,60,FALSE,FALSE,NA,2
 2021,12,7,"George Mason","Navy","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"George Mason","Georgia","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,21,"George Mason","American","H",NA,NA,FALSE,FALSE,NA,2
@@ -3148,7 +3148,7 @@
 2021,11,23,"Gonzaga","UCLA","N",83,63,FALSE,FALSE,NA,2
 2021,11,26,"Gonzaga","Duke","N",81,84,FALSE,FALSE,NA,2
 2021,11,29,"Gonzaga","Tarleton St.","H",64,55,FALSE,FALSE,NA,2
-2021,12,4,"Gonzaga","Alabama","N",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Gonzaga","Alabama","N",82,91,FALSE,FALSE,NA,2
 2021,12,9,"Gonzaga","Merrimack","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,12,"Gonzaga","Washington","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Gonzaga","Texas Tech","N",NA,NA,FALSE,FALSE,NA,2
@@ -3177,7 +3177,7 @@
 2021,11,28,"Grambling","Morgan St.","N",74,59,FALSE,FALSE,NA,2
 2021,11,30,"Grambling","Norfolk St.","N",63,70,FALSE,FALSE,NA,2
 2021,12,2,"Grambling","Jarvis Christian","H",71,44,FALSE,FALSE,NA,1
-2021,12,4,"Grambling","UConn","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Grambling","UConn","V",59,88,FALSE,FALSE,NA,2
 2021,12,11,"Grambling","UIW","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,14,"Grambling","UAB","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Grambling","Tulane","V",NA,NA,FALSE,FALSE,NA,2
@@ -3208,7 +3208,7 @@
 2021,11,27,"Grand Canyon","Pepperdine","V",59,56,FALSE,FALSE,NA,2
 2021,11,29,"Grand Canyon","LMU (CA)","V",78,72,FALSE,FALSE,NA,2
 2021,12,2,"Grand Canyon","UTSA","H",74,71,FALSE,FALSE,NA,2
-2021,12,4,"Grand Canyon","Mississippi Val.","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Grand Canyon","Mississippi Val.","H",91,44,FALSE,FALSE,NA,2
 2021,12,9,"Grand Canyon","Arizona St.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Grand Canyon","Ottawa (AZ)","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,18,"Grand Canyon","San Francisco","N",NA,NA,FALSE,FALSE,NA,2
@@ -3238,7 +3238,7 @@
 2021,11,21,"Green Bay","Weber St.","N",58,68,FALSE,FALSE,NA,2
 2021,11,27,"Green Bay","Wis.-Superior","H",77,48,FALSE,FALSE,NA,1
 2021,12,2,"Green Bay","Robert Morris","H",70,58,FALSE,FALSE,NA,2
-2021,12,4,"Green Bay","Youngstown St.","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Green Bay","Youngstown St.","H",58,82,FALSE,FALSE,NA,2
 2021,12,10,"Green Bay","Kansas City","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,12,"Green Bay","Kansas St.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,22,"Green Bay","Minnesota","V",NA,NA,FALSE,FALSE,NA,2
@@ -3270,7 +3270,7 @@
 2021,11,24,"Hampton","South Fla.","V",52,58,FALSE,FALSE,NA,2
 2021,11,28,"Hampton","Norfolk St.","N",61,70,FALSE,FALSE,NA,2
 2021,11,29,"Hampton","Morgan St.","N",47,60,FALSE,FALSE,NA,2
-2021,12,4,"Hampton","Norfolk St.","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Hampton","Norfolk St.","H",58,57,FALSE,FALSE,NA,2
 2021,12,9,"Hampton","William & Mary","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,12,"Hampton","Loyola Maryland","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Hampton","N.C. Central","N",NA,NA,FALSE,FALSE,NA,2
@@ -3385,7 +3385,7 @@
 2021,11,21,"High Point","Georgia St. - MBB Roman Legends Classic Sub-Regional","H",66,74,FALSE,FALSE,NA,1
 2021,11,27,"High Point","Chowan","H",90,60,FALSE,FALSE,NA,1
 2021,11,30,"High Point","Furman","H",70,74,FALSE,FALSE,NA,2
-2021,12,4,"High Point","Elon","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"High Point","Elon","V",83,77,FALSE,FALSE,NA,2
 2021,12,7,"High Point","Guilford","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,10,"High Point","South Carolina St.","N",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"High Point","UNCW","H",NA,NA,FALSE,FALSE,NA,2
@@ -3507,7 +3507,7 @@
 2021,11,21,"Houston Baptist","Denver","V",61,74,FALSE,FALSE,NA,2
 2021,11,24,"Houston Baptist","Oklahoma","V",40,57,FALSE,FALSE,NA,2
 2021,11,29,"Houston Baptist","S&;western Adventist","H",100,62,FALSE,FALSE,NA,1
-2021,12,4,"Houston Baptist","Oral Roberts","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Houston Baptist","Oral Roberts","H",67,85,FALSE,FALSE,NA,2
 2021,12,7,"Houston Baptist","Champion Chris.","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,11,"Houston Baptist","Rice","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,21,"Houston Baptist","FIU","V",NA,NA,FALSE,FALSE,NA,2
@@ -3535,7 +3535,7 @@
 2021,11,21,"Howard","William & Mary","N",82,76,FALSE,FALSE,NA,2
 2021,11,26,"Howard","Austin Peay","H",67,69,FALSE,FALSE,NA,2
 2021,11,30,"Howard","Mount St. Mary&;s","V",70,72,FALSE,FALSE,NA,1
-2021,12,4,"Howard","American","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Howard","American","H",90,56,FALSE,FALSE,NA,2
 2021,12,15,"Howard","Georgetown","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Howard","N.C. A&T","N",NA,NA,FALSE,FALSE,NA,2
 2021,12,21,"Howard","Harvard","V",NA,NA,FALSE,FALSE,NA,2
@@ -3565,7 +3565,7 @@
 2021,11,22,"Idaho","Utah Valley","N",45,83,FALSE,FALSE,NA,2
 2021,11,24,"Idaho","Cal Poly","N",63,67,FALSE,FALSE,NA,2
 2021,11,27,"Idaho","North Dakota St.","V",73,90,FALSE,FALSE,NA,2
-2021,12,4,"Idaho","Southern Utah","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Idaho","Southern Utah","H",75,81,FALSE,FALSE,NA,2
 2021,12,8,"Idaho","South Dakota St.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Idaho","CSU Bakersfield","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Idaho","SAGU American Indian","H",NA,NA,FALSE,FALSE,NA,1
@@ -3596,7 +3596,7 @@
 2021,11,22,"Idaho St.","Kansas City","H",58,74,FALSE,FALSE,NA,2
 2021,11,27,"Idaho St.","Air Force","V",48,59,FALSE,FALSE,NA,2
 2021,12,2,"Idaho St.","Portland St.","H",55,63,FALSE,FALSE,NA,2
-2021,12,4,"Idaho St.","Northern Ariz.","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Idaho St.","Northern Ariz.","H",70,73,FALSE,FALSE,NA,2
 2021,12,8,"Idaho St.","California","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Idaho St.","Bethesda (CA)","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,22,"Idaho St.","UC Santa Barbara","V",NA,NA,FALSE,FALSE,NA,2
@@ -3657,7 +3657,7 @@
 2021,11,24,"Illinois St.","Buffalo","N",90,106,FALSE,FALSE,NA,2
 2021,11,27,"Illinois St.","Purdue Northwest","H",81,71,FALSE,FALSE,NA,1
 2021,12,1,"Illinois St.","Missouri St.","H",79,74,FALSE,FALSE,NA,2
-2021,12,4,"Illinois St.","Jackson St.","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Illinois St.","Jackson St.","H",55,61,FALSE,FALSE,NA,2
 2021,12,11,"Illinois St.","Chicago St.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,14,"Illinois St.","Quincy","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,18,"Illinois St.","Ball St.","H",NA,NA,FALSE,FALSE,NA,2
@@ -3811,7 +3811,7 @@
 2021,11,24,"Iowa St.","Xavier","N",82,70,FALSE,FALSE,NA,2
 2021,11,26,"Iowa St.","Memphis","N",78,59,FALSE,FALSE,NA,2
 2021,12,1,"Iowa St.","Ark.-Pine Bluff","H",83,64,FALSE,FALSE,NA,2
-2021,12,4,"Iowa St.","Creighton","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Iowa St.","Creighton","V",64,58,FALSE,FALSE,NA,2
 2021,12,9,"Iowa St.","Iowa","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,12,"Iowa St.","Jackson St.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,19,"Iowa St.","Southeastern La.","H",NA,NA,FALSE,FALSE,NA,2
@@ -3873,7 +3873,7 @@
 2021,11,23,"Jackson St.","Indiana","V",35,70,FALSE,FALSE,NA,2
 2021,11,27,"Jackson St.","Louisiana","V",75,70,FALSE,FALSE,NA,2
 2021,11,30,"Jackson St.","Marquette","V",54,83,FALSE,FALSE,NA,2
-2021,12,4,"Jackson St.","Illinois St.","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Jackson St.","Illinois St.","V",61,55,FALSE,FALSE,NA,2
 2021,12,12,"Jackson St.","Iowa St.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,14,"Jackson St.","UNI","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,16,"Jackson St.","Drake","V",NA,NA,FALSE,FALSE,NA,2
@@ -3933,7 +3933,7 @@
 2021,11,22,"Jacksonville St.","Valparaiso","N",70,78,FALSE,FALSE,NA,2
 2021,11,24,"Jacksonville St.","Drexel","N",72,64,FALSE,FALSE,NA,2
 2021,11,27,"Jacksonville St.","Elon","V",93,81,FALSE,FALSE,NA,2
-2021,12,4,"Jacksonville St.","South Alabama","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Jacksonville St.","South Alabama","H",64,74,FALSE,FALSE,NA,2
 2021,12,8,"Jacksonville St.","VCU","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,13,"Jacksonville St.","LaGrange","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,15,"Jacksonville St.","FIU","H",NA,NA,FALSE,FALSE,NA,2
@@ -4026,7 +4026,7 @@
 2021,11,22,"Kansas City","Idaho St.","V",74,58,FALSE,FALSE,NA,2
 2021,11,27,"Kansas City","Morehead St.","N",62,70,FALSE,FALSE,NA,2
 2021,11,28,"Kansas City","Arkansas St.","V",55,66,FALSE,FALSE,NA,2
-2021,12,4,"Kansas City","Calvary","H",NA,NA,FALSE,FALSE,NA,1
+2021,12,4,"Kansas City","Calvary","H",94,32,FALSE,FALSE,NA,1
 2021,12,10,"Kansas City","Green Bay","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,12,"Kansas City","SIUE","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,20,"Kansas City","South Dakota St.","V",NA,NA,FALSE,FALSE,NA,2
@@ -4267,7 +4267,7 @@
 2021,11,26,"Lehigh","Virginia","V",43,61,FALSE,FALSE,NA,2
 2021,11,28,"Lehigh","Saint Francis (PA)","H",68,79,FALSE,FALSE,NA,2
 2021,12,1,"Lehigh","Yale","V",72,82,FALSE,FALSE,NA,2
-2021,12,4,"Lehigh","UMES","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Lehigh","UMES","H",75,81,FALSE,FALSE,NA,2
 2021,12,18,"Lehigh","Syracuse","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,21,"Lehigh","Albany (NY)","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,29,"Lehigh","Eastern","H",NA,NA,FALSE,FALSE,NA,1
@@ -4357,7 +4357,7 @@
 2021,11,22,"Little Rock","Northern Ill.","N",67,60,FALSE,FALSE,NA,2
 2021,11,26,"Little Rock","Tulsa","V",63,77,FALSE,FALSE,NA,2
 2021,12,1,"Little Rock","Colorado St.","V",55,86,FALSE,FALSE,NA,2
-2021,12,4,"Little Rock","Arkansas","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Little Rock","Arkansas","V",78,93,FALSE,FALSE,NA,2
 2021,12,8,"Little Rock","Missouri St.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Little Rock","Philander Smith","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,14,"Little Rock","Central Ark.","V",NA,NA,FALSE,FALSE,NA,2
@@ -4416,7 +4416,7 @@
 2021,11,22,"LMU (CA)","SMU","N",76,70,FALSE,FALSE,NA,2
 2021,11,27,"LMU (CA)","Prairie View","H",83,80,FALSE,FALSE,NA,2
 2021,11,29,"LMU (CA)","Grand Canyon","H",72,78,FALSE,FALSE,NA,2
-2021,12,4,"LMU (CA)","Long Beach St.","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"LMU (CA)","Long Beach St.","V",77,74,FALSE,FALSE,NA,2
 2021,12,7,"LMU (CA)","Tulsa","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"LMU (CA)","New Mexico St.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"LMU (CA)","Nevada","V",NA,NA,FALSE,FALSE,NA,2
@@ -4444,7 +4444,7 @@
 2021,11,23,"Long Beach St.","Murray St.","N",43,80,FALSE,FALSE,NA,2
 2021,11,24,"Long Beach St.","Wright St.","N",85,76,FALSE,FALSE,NA,2
 2021,11,30,"Long Beach St.","San Diego St.","V",47,72,FALSE,FALSE,NA,2
-2021,12,4,"Long Beach St.","LMU (CA)","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Long Beach St.","LMU (CA)","H",74,77,FALSE,FALSE,NA,2
 2021,12,8,"Long Beach St.","Bethesda (CA)","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,12,"Long Beach St.","Southern California","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Long Beach St.","La Sierra","H",NA,NA,FALSE,FALSE,NA,1
@@ -4535,7 +4535,7 @@
 2021,11,24,"Louisiana Tech","ULM","H",96,74,FALSE,FALSE,NA,2
 2021,11,27,"Louisiana Tech","NC State","V",81,90,FALSE,FALSE,NA,2
 2021,12,1,"Louisiana Tech","Texas Southern","H",87,60,FALSE,FALSE,NA,2
-2021,12,4,"Louisiana Tech","Santa Clara","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Louisiana Tech","Santa Clara","V",78,75,FALSE,FALSE,NA,2
 2021,12,11,"Louisiana Tech","Louisiana","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Louisiana Tech","LSU","N",NA,NA,FALSE,FALSE,NA,2
 2021,12,22,"Louisiana Tech","Crowley&;s Ridge","H",NA,NA,FALSE,FALSE,NA,1
@@ -4596,7 +4596,7 @@
 2021,11,25,"Loyola Chicago","Auburn","N",53,62,FALSE,FALSE,NA,2
 2021,11,26,"Loyola Chicago","Arizona St.","N",77,59,FALSE,FALSE,NA,2
 2021,12,1,"Loyola Chicago","Indiana St.","H",88,76,FALSE,FALSE,NA,2
-2021,12,4,"Loyola Chicago","DePaul","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Loyola Chicago","DePaul","V",68,64,FALSE,FALSE,NA,2
 2021,12,7,"Loyola Chicago","Roosevelt","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,10,"Loyola Chicago","Vanderbilt","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,19,"Loyola Chicago","Norfolk St.","H",NA,NA,FALSE,FALSE,NA,2
@@ -4805,7 +4805,7 @@
 2021,11,23,"Marshall","Louisiana","H",93,79,FALSE,FALSE,NA,2
 2021,11,27,"Marshall","Indiana","V",79,90,FALSE,FALSE,NA,2
 2021,12,1,"Marshall","Akron","V",86,88,FALSE,FALSE,NA,2
-2021,12,4,"Marshall","Duquesne","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Marshall","Duquesne","H",72,71,FALSE,FALSE,NA,2
 2021,12,8,"Marshall","Bluefield Col.","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,11,"Marshall","Eastern Ky.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,15,"Marshall","Ohio","V",NA,NA,FALSE,FALSE,NA,2
@@ -4899,7 +4899,7 @@
 2021,11,26,"McNeese","St. Francis Brooklyn","N",71,59,FALSE,FALSE,NA,2
 2021,11,27,"McNeese","Samford","N",75,83,FALSE,FALSE,NA,2
 2021,12,1,"McNeese","Seattle U","V",62,78,FALSE,FALSE,NA,2
-2021,12,4,"McNeese","Wyoming","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"McNeese","Wyoming","V",58,79,FALSE,FALSE,NA,2
 2021,12,8,"McNeese","Louisiana","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,16,"McNeese","UTEP","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"McNeese","Dallas Christian","H",NA,NA,FALSE,FALSE,NA,1
@@ -4992,7 +4992,7 @@
 2021,11,21,"Merrimack","Virginia Tech","V",43,72,FALSE,FALSE,NA,2
 2021,11,23,"Merrimack","Hartford","H",75,60,FALSE,FALSE,NA,2
 2021,11,28,"Merrimack","Boston U.","V",60,61,FALSE,FALSE,NA,2
-2021,12,4,"Merrimack","UMass Lowell","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Merrimack","UMass Lowell","H",57,61,FALSE,FALSE,NA,2
 2021,12,7,"Merrimack","Brown","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,9,"Merrimack","Gonzaga","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,12,"Merrimack","Indiana","V",NA,NA,FALSE,FALSE,NA,2
@@ -5116,7 +5116,7 @@
 2021,11,25,"Michigan St.","UConn","N",64,60,FALSE,FALSE,NA,2
 2021,11,26,"Michigan St.","Baylor","N",58,75,FALSE,FALSE,NA,2
 2021,12,1,"Michigan St.","Louisville","H",73,64,FALSE,FALSE,NA,2
-2021,12,4,"Michigan St.","Toledo","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Michigan St.","Toledo","H",81,68,FALSE,FALSE,NA,2
 2021,12,8,"Michigan St.","Minnesota","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Michigan St.","Penn St.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,21,"Michigan St.","Oakland","N",NA,NA,FALSE,FALSE,NA,2
@@ -5147,7 +5147,7 @@
 2021,11,24,"Middle Tenn.","Mercer","N",82,58,FALSE,FALSE,NA,2
 2021,11,27,"Middle Tenn.","Bryan","H",96,48,FALSE,FALSE,NA,1
 2021,12,1,"Middle Tenn.","UT Martin","H",73,61,FALSE,FALSE,NA,2
-2021,12,4,"Middle Tenn.","Murray St.","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Middle Tenn.","Murray St.","V",87,93,FALSE,FALSE,NA,2
 2021,12,11,"Middle Tenn.","UT Martin","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,15,"Middle Tenn.","Ole Miss","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,19,"Middle Tenn.","Coastal Carolina","H",NA,NA,FALSE,FALSE,NA,2
@@ -5267,7 +5267,7 @@
 2021,11,26,"Mississippi Val.","Ole Miss","V",58,73,FALSE,FALSE,NA,2
 2021,11,29,"Mississippi Val.","Vanderbilt","V",36,75,FALSE,FALSE,NA,2
 2021,12,1,"Mississippi Val.","North Ala.","V",58,72,FALSE,FALSE,NA,2
-2021,12,4,"Mississippi Val.","Grand Canyon","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Mississippi Val.","Grand Canyon","V",44,91,FALSE,FALSE,NA,2
 2021,12,9,"Mississippi Val.","Nicholls","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,11,"Mississippi Val.","Arkansas St.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Mississippi Val.","Nicholls","V",NA,NA,FALSE,FALSE,NA,1
@@ -5329,7 +5329,7 @@
 2021,11,23,"Missouri St.","ETSU","N",76,77,FALSE,FALSE,NA,2
 2021,11,24,"Missouri St.","George Washington","N",72,54,FALSE,FALSE,NA,2
 2021,12,1,"Missouri St.","Illinois St.","V",74,79,FALSE,FALSE,NA,2
-2021,12,4,"Missouri St.","BYU","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Missouri St.","BYU","H",68,74,FALSE,FALSE,NA,2
 2021,12,8,"Missouri St.","Little Rock","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Missouri St.","Oral Roberts","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,15,"Missouri St.","South Dakota St.","H",NA,NA,FALSE,FALSE,NA,2
@@ -5393,7 +5393,7 @@
 2021,11,26,"Montana","Southern Miss. - MBB Zootown Classic","H",74,62,FALSE,FALSE,NA,1
 2021,11,29,"Montana","Oregon","V",47,87,FALSE,FALSE,NA,2
 2021,12,2,"Montana","Sacramento St.","V",65,58,FALSE,FALSE,NA,2
-2021,12,4,"Montana","Northern Colo.","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Montana","Northern Colo.","V",75,78,FALSE,FALSE,NA,2
 2021,12,8,"Montana","Air Force","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,10,"Montana","Yellowstone Chris.","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,19,"Montana","Santa Clara","V",NA,NA,FALSE,FALSE,NA,2
@@ -5423,7 +5423,7 @@
 2021,11,27,"Montana St.","UIW - MBB UIW MTE","V",83,64,FALSE,FALSE,NA,1
 2021,11,28,"Montana St.","Southeast Mo. St.","N",75,68,FALSE,FALSE,NA,2
 2021,12,2,"Montana St.","Northern Colo.","V",75,77,FALSE,FALSE,NA,2
-2021,12,4,"Montana St.","Sacramento St.","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Montana St.","Sacramento St.","V",68,66,FALSE,FALSE,NA,2
 2021,12,7,"Montana St.","North Dakota St.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Montana St.","St. Thomas (MN)","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,19,"Montana St.","Portland","H",NA,NA,FALSE,FALSE,NA,2
@@ -5544,7 +5544,7 @@
 2021,11,23,"Murray St.","Long Beach St.","N",80,43,FALSE,FALSE,NA,2
 2021,11,24,"Murray St.","James Madison","N",74,62,FALSE,FALSE,NA,2
 2021,11,29,"Murray St.","Campbellsville","H",98,61,FALSE,FALSE,NA,1
-2021,12,4,"Murray St.","Middle Tenn.","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Murray St.","Middle Tenn.","H",93,87,FALSE,FALSE,NA,2
 2021,12,10,"Murray St.","Memphis","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,14,"Murray St.","Tenn. Wesleyan","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,18,"Murray St.","Chattanooga","H",NA,NA,FALSE,FALSE,NA,2
@@ -5727,7 +5727,7 @@
 2021,11,24,"Nevada","Washington","N",81,62,FALSE,FALSE,NA,2
 2021,11,30,"Nevada","Pepperdine","H",79,66,FALSE,FALSE,NA,2
 2021,12,4,"Nevada","North Texas","V",NA,NA,TRUE,FALSE,NA,2
-2021,12,7,"Nevada","UT Arlington","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,7,"Nevada","UT Arlington","V",NA,NA,TRUE,FALSE,NA,2
 2021,12,15,"Nevada","Minn. Duluth","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,18,"Nevada","LMU (CA)","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,21,"Nevada","Grand Canyon","H",NA,NA,FALSE,FALSE,NA,2
@@ -5754,7 +5754,7 @@
 2021,11,18,"New Hampshire","Providence","V",58,69,FALSE,FALSE,NA,2
 2021,11,23,"New Hampshire","Quinnipiac","H",84,69,FALSE,FALSE,NA,2
 2021,11,27,"New Hampshire","Holy Cross","V",70,55,FALSE,FALSE,NA,2
-2021,12,4,"New Hampshire","Central Conn. St.","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"New Hampshire","Central Conn. St.","H",67,45,FALSE,FALSE,NA,2
 2021,12,8,"New Hampshire","Bryant","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"New Hampshire","Duquesne","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,13,"New Hampshire","Keene St.","H",NA,NA,FALSE,FALSE,NA,1
@@ -5971,7 +5971,7 @@
 2021,11,28,"Norfolk St.","Hampton","N",70,61,FALSE,FALSE,NA,2
 2021,11,30,"Norfolk St.","Grambling","N",70,63,FALSE,FALSE,NA,2
 2021,12,1,"Norfolk St.","UNCW","V",74,69,FALSE,FALSE,NA,2
-2021,12,4,"Norfolk St.","Hampton","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Norfolk St.","Hampton","V",57,58,FALSE,FALSE,NA,2
 2021,12,11,"Norfolk St.","Wichita St.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,19,"Norfolk St.","Loyola Chicago","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,21,"Norfolk St.","New Mexico","V",NA,NA,FALSE,FALSE,NA,2
@@ -6211,7 +6211,7 @@
 2021,11,22,"Northern Ariz.","UTRGV","H",80,82,FALSE,FALSE,NA,2
 2021,11,24,"Northern Ariz.","Cal St. Fullerton","H",56,73,FALSE,FALSE,NA,2
 2021,12,2,"Northern Ariz.","Weber St.","V",44,67,FALSE,FALSE,NA,2
-2021,12,4,"Northern Ariz.","Idaho St.","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Northern Ariz.","Idaho St.","V",73,70,FALSE,FALSE,NA,2
 2021,12,11,"Northern Ariz.","South Dakota","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Northern Ariz.","San Diego","N",NA,NA,FALSE,FALSE,NA,2
 2021,12,20,"Northern Ariz.","Gonzaga","V",NA,NA,FALSE,FALSE,NA,2
@@ -6243,7 +6243,7 @@
 2021,11,23,"Northern Colo.","San Jose St.","V",74,75,FALSE,FALSE,NA,2
 2021,11,27,"Northern Colo.","Colorado St.","V",79,88,FALSE,FALSE,NA,2
 2021,12,2,"Northern Colo.","Montana St.","H",77,75,FALSE,FALSE,NA,2
-2021,12,4,"Northern Colo.","Montana","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Northern Colo.","Montana","H",78,75,FALSE,FALSE,NA,2
 2021,12,7,"Northern Colo.","South Dakota","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,15,"Northern Colo.","Arizona","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Northern Colo.","Washington St.","V",NA,NA,FALSE,FALSE,NA,2
@@ -6459,7 +6459,7 @@
 2021,11,22,"Ohio","Mount St. Mary&;s","H",73,59,FALSE,FALSE,NA,1
 2021,11,26,"Ohio","Concordia (MI)","H",88,68,FALSE,FALSE,NA,1
 2021,12,1,"Ohio","LSU","V",51,66,FALSE,FALSE,NA,2
-2021,12,4,"Ohio","Saint Francis (PA)","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Ohio","Saint Francis (PA)","H",78,75,FALSE,FALSE,NA,2
 2021,12,11,"Ohio","Stetson","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,15,"Ohio","Marshall","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,21,"Ohio","USC Upstate","H",NA,NA,FALSE,FALSE,NA,2
@@ -6584,7 +6584,7 @@
 2021,11,21,"Old Dominion","Penn","N",63,71,FALSE,FALSE,NA,2
 2021,11,26,"Old Dominion","Longwood","H",62,61,FALSE,FALSE,NA,2
 2021,11,30,"Old Dominion","East Carolina","V",62,63,FALSE,FALSE,NA,2
-2021,12,4,"Old Dominion","George Mason","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Old Dominion","George Mason","V",60,50,FALSE,FALSE,NA,2
 2021,12,7,"Old Dominion","William & Mary","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Old Dominion","VCU","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,19,"Old Dominion","Richmond","V",NA,NA,FALSE,FALSE,NA,2
@@ -6675,7 +6675,7 @@
 2021,11,26,"Oral Roberts","Oklahoma St.","H",77,78,FALSE,FALSE,NA,2
 2021,11,29,"Oral Roberts","Tulsa","H",87,80,FALSE,FALSE,NA,2
 2021,12,2,"Oral Roberts","TCU","V",63,71,FALSE,FALSE,NA,2
-2021,12,4,"Oral Roberts","Houston Baptist","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Oral Roberts","Houston Baptist","V",85,67,FALSE,FALSE,NA,2
 2021,12,11,"Oral Roberts","Missouri St.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,16,"Oral Roberts","UT Arlington","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,20,"Oral Roberts","South Dakota","V",NA,NA,FALSE,FALSE,NA,2
@@ -6766,7 +6766,7 @@
 2021,11,22,"Pacific","Chicago St.","H",74,58,FALSE,FALSE,NA,2
 2021,11,26,"Pacific","Ark.-Pine Bluff","H",74,50,FALSE,FALSE,NA,2
 2021,12,1,"Pacific","UC Davis","V",57,63,FALSE,FALSE,NA,2
-2021,12,4,"Pacific","Cal St. Fullerton","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Pacific","Cal St. Fullerton","V",57,66,FALSE,FALSE,NA,2
 2021,12,11,"Pacific","San Jose St.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,14,"Pacific","UC Santa Barbara","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,17,"Pacific","North Dakota St.","H",NA,NA,FALSE,FALSE,NA,2
@@ -6799,7 +6799,7 @@
 2021,11,23,"Penn","Towson","V",61,76,FALSE,FALSE,NA,2
 2021,11,28,"Penn","Arkansas","V",60,76,FALSE,FALSE,NA,2
 2021,12,1,"Penn","Villanova","H",56,71,FALSE,FALSE,NA,2
-2021,12,4,"Penn","Temple","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Penn","Temple","V",72,81,FALSE,FALSE,NA,2
 2021,12,8,"Penn","Saint Joseph&;s","V",NA,NA,FALSE,FALSE,NA,1
 2021,12,11,"Penn","La Salle","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,28,"Penn","James Madison","H",NA,NA,FALSE,FALSE,NA,2
@@ -6948,7 +6948,7 @@
 2021,11,23,"Portland St.","Portland","H",54,69,FALSE,FALSE,NA,2
 2021,11,26,"Portland St.","Iowa","V",51,85,FALSE,FALSE,NA,2
 2021,12,2,"Portland St.","Idaho St.","V",63,55,FALSE,FALSE,NA,2
-2021,12,4,"Portland St.","Weber St.","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Portland St.","Weber St.","V",69,80,FALSE,FALSE,NA,2
 2021,12,11,"Portland St.","Cal Poly","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Portland St.","CSUN","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,21,"Portland St.","Utah St.","V",NA,NA,FALSE,FALSE,NA,2
@@ -7040,7 +7040,7 @@
 2021,11,24,"Princeton","Monmouth","V",64,76,FALSE,FALSE,NA,2
 2021,11,28,"Princeton","Fairleigh Dickinson","H",89,79,FALSE,FALSE,NA,2
 2021,12,1,"Princeton","Hofstra","V",77,81,FALSE,FALSE,NA,2
-2021,12,4,"Princeton","Drexel","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Princeton","Drexel","H",81,79,FALSE,FALSE,NA,2
 2021,12,7,"Princeton","Bucknell","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Princeton","Lafayette","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,13,"Princeton","UMBC","H",NA,NA,FALSE,FALSE,NA,2
@@ -7189,7 +7189,7 @@
 2021,11,24,"Radford","William & Mary","H",67,54,FALSE,FALSE,NA,2
 2021,11,28,"Radford","Eastern Ky.","H",88,75,FALSE,FALSE,NA,2
 2021,11,30,"Radford","Ky. Christian","H",79,70,FALSE,FALSE,NA,1
-2021,12,4,"Radford","West Virginia","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Radford","West Virginia","V",51,67,FALSE,FALSE,NA,2
 2021,12,11,"Radford","James Madison","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,13,"Radford","George Washington","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Radford","Davidson","V",NA,NA,FALSE,FALSE,NA,2
@@ -7404,7 +7404,7 @@
 2021,11,23,"Sacramento St.","UC Davis","N",75,63,FALSE,FALSE,NA,2
 2021,11,27,"Sacramento St.","Arizona","V",59,105,FALSE,FALSE,NA,2
 2021,12,2,"Sacramento St.","Montana","H",58,65,FALSE,FALSE,NA,2
-2021,12,4,"Sacramento St.","Montana St.","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Sacramento St.","Montana St.","H",66,68,FALSE,FALSE,NA,2
 2021,12,11,"Sacramento St.","Oregon St.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,19,"Sacramento St.","UC Riverside","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,28,"Sacramento St.","Menlo","H",NA,NA,FALSE,FALSE,NA,1
@@ -7463,7 +7463,7 @@
 2021,11,24,"Saint Francis (PA)","Cornell","V",80,93,FALSE,FALSE,NA,2
 2021,11,28,"Saint Francis (PA)","Lehigh","V",79,68,FALSE,FALSE,NA,2
 2021,12,1,"Saint Francis (PA)","Bucknell","H",93,67,FALSE,FALSE,NA,2
-2021,12,4,"Saint Francis (PA)","Ohio","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Saint Francis (PA)","Ohio","V",75,78,FALSE,FALSE,NA,2
 2021,12,8,"Saint Francis (PA)","American","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,14,"Saint Francis (PA)","Hartford","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Saint Francis (PA)","Illinois","V",NA,NA,FALSE,FALSE,NA,2
@@ -7524,7 +7524,7 @@
 2021,11,23,"Saint Louis","Illinois St.","N",82,76,FALSE,FALSE,NA,2
 2021,11,24,"Saint Louis","SFA","N",79,68,FALSE,FALSE,NA,2
 2021,11,30,"Saint Louis","Boise St.","V",86,82,FALSE,FALSE,NA,2
-2021,12,4,"Saint Louis","UAB","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Saint Louis","UAB","H",72,77,FALSE,FALSE,NA,2
 2021,12,7,"Saint Louis","Belmont","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Saint Louis","Boston College","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Saint Louis","Auburn","H",NA,NA,FALSE,FALSE,NA,2
@@ -7556,7 +7556,7 @@
 2021,11,24,"Saint Mary's (CA)","Wisconsin","N",55,61,FALSE,FALSE,NA,2
 2021,11,29,"Saint Mary's (CA)","UC Riverside","H",67,50,FALSE,FALSE,NA,2
 2021,12,2,"Saint Mary's (CA)","Utah St.","V",60,58,FALSE,FALSE,NA,2
-2021,12,4,"Saint Mary's (CA)","Colorado St.","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Saint Mary's (CA)","Colorado St.","V",58,74,FALSE,FALSE,NA,2
 2021,12,11,"Saint Mary's (CA)","UC Santa Barbara","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,17,"Saint Mary's (CA)","San Diego St.","N",NA,NA,FALSE,FALSE,NA,2
 2021,12,22,"Saint Mary's (CA)","Missouri St.","H",NA,NA,FALSE,FALSE,NA,2
@@ -7734,7 +7734,7 @@
 2021,11,22,"San Francisco","Morgan St.","H",83,67,FALSE,FALSE,NA,2
 2021,11,25,"San Francisco","Towson","N",71,61,FALSE,FALSE,NA,2
 2021,11,26,"San Francisco","UAB","N",63,61,FALSE,FALSE,NA,2
-2021,12,4,"San Francisco","UNLV","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"San Francisco","UNLV","H",83,62,FALSE,FALSE,NA,2
 2021,12,8,"San Francisco","Fresno St.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"San Francisco","Grand Canyon","N",NA,NA,FALSE,FALSE,NA,2
 2021,12,19,"San Francisco","Arizona St.","V",NA,NA,FALSE,FALSE,NA,2
@@ -7793,7 +7793,7 @@
 2021,11,24,"Santa Clara","Fresno St.","N",52,59,FALSE,FALSE,NA,2
 2021,11,27,"Santa Clara","UC Irvine","H",64,69,FALSE,FALSE,NA,2
 2021,11,30,"Santa Clara","Hawaii","H",70,58,FALSE,FALSE,NA,2
-2021,12,4,"Santa Clara","Louisiana Tech","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Santa Clara","Louisiana Tech","H",75,78,FALSE,FALSE,NA,2
 2021,12,7,"Santa Clara","Mount St. Mary&;s","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,11,"Santa Clara","California","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,14,"Santa Clara","Boise St.","V",NA,NA,FALSE,FALSE,NA,2
@@ -7886,7 +7886,7 @@
 2021,11,24,"SFA","Saint Louis","N",68,79,FALSE,FALSE,NA,2
 2021,11,28,"SFA","Northwestern St.","V",72,68,FALSE,FALSE,NA,2
 2021,12,1,"SFA","Lincoln (CA)","H",90,54,FALSE,FALSE,NA,1
-2021,12,4,"SFA","Wiley","H",NA,NA,FALSE,FALSE,NA,1
+2021,12,4,"SFA","Wiley","H",100,76,FALSE,FALSE,NA,1
 2021,12,11,"SFA","Liberty","N",NA,NA,FALSE,FALSE,NA,2
 2021,12,14,"SFA","ULM","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"SFA","Kansas","V",NA,NA,FALSE,FALSE,NA,2
@@ -7978,7 +7978,7 @@
 2021,11,24,"SMU","Sam Houston","H",75,66,FALSE,FALSE,NA,1
 2021,11,28,"SMU","ULM","H",74,67,FALSE,FALSE,NA,2
 2021,12,1,"SMU","UNLV","H",83,64,FALSE,FALSE,NA,2
-2021,12,4,"SMU","Vanderbilt","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"SMU","Vanderbilt","H",84,72,FALSE,FALSE,NA,2
 2021,12,8,"SMU","Dayton","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,19,"SMU","New Mexico","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,21,"SMU","Evansville","H",NA,NA,FALSE,FALSE,NA,2
@@ -8009,7 +8009,7 @@
 2021,11,26,"South Alabama","Hawaii","N",72,69,FALSE,FALSE,NA,2
 2021,11,29,"South Alabama","Tex. A&M-Commerce","H",69,66,FALSE,FALSE,NA,1
 2021,12,1,"South Alabama","Southern Miss.","H",85,55,FALSE,FALSE,NA,2
-2021,12,4,"South Alabama","Jacksonville St.","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"South Alabama","Jacksonville St.","V",74,64,FALSE,FALSE,NA,2
 2021,12,14,"South Alabama","Tarleton St.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,17,"South Alabama","Tarleton St.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,21,"South Alabama","SIUE","H",NA,NA,FALSE,FALSE,NA,2
@@ -8250,7 +8250,7 @@
 2021,11,25,"Southern California","Saint Joseph&;s","N",70,55,FALSE,FALSE,NA,1
 2021,11,26,"Southern California","San Diego St.","N",58,43,FALSE,FALSE,NA,2
 2021,12,1,"Southern California","Utah","H",93,73,FALSE,FALSE,NA,2
-2021,12,4,"Southern California","Washington St.","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Southern California","Washington St.","V",63,61,FALSE,FALSE,NA,2
 2021,12,7,"Southern California","Eastern Ky.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,12,"Southern California","Long Beach St.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,15,"Southern California","UC Irvine","H",NA,NA,FALSE,FALSE,NA,2
@@ -8281,7 +8281,7 @@
 2021,11,22,"Southern Ill.","Creighton","N",64,66,FALSE,FALSE,NA,2
 2021,11,26,"Southern Ill.","Alcorn","H",62,59,FALSE,FALSE,NA,2
 2021,12,1,"Southern Ill.","Evansville","V",54,52,FALSE,FALSE,NA,2
-2021,12,4,"Southern Ill.","Southern Miss.","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Southern Ill.","Southern Miss.","H",66,41,FALSE,FALSE,NA,2
 2021,12,11,"Southern Ill.","Tulsa","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,15,"Southern Ill.","Southeast Mo. St.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Southern Ill.","Maryville (MO)","H",NA,NA,FALSE,FALSE,NA,1
@@ -8312,7 +8312,7 @@
 2021,11,25,"Southern Miss.","UC San Diego","N",56,55,FALSE,FALSE,NA,2
 2021,11,26,"Southern Miss.","Montana - MBB Zootown Classic","V",62,74,FALSE,FALSE,NA,1
 2021,12,1,"Southern Miss.","South Alabama","V",55,85,FALSE,FALSE,NA,2
-2021,12,4,"Southern Miss.","Southern Ill.","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Southern Miss.","Southern Ill.","V",41,66,FALSE,FALSE,NA,2
 2021,12,11,"Southern Miss.","Loyola (LA)","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,14,"Southern Miss.","Jacksonville","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Southern Miss.","ULM","V",NA,NA,FALSE,FALSE,NA,2
@@ -8342,7 +8342,7 @@
 2021,11,21,"Southern U.","Nebraska","V",59,82,FALSE,FALSE,NA,2
 2021,11,23,"Southern U.","Ecclesia","H",109,53,FALSE,FALSE,NA,1
 2021,11,28,"Southern U.","Tennessee St.","V",82,80,FALSE,FALSE,NA,2
-2021,12,4,"Southern U.","Akron","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Southern U.","Akron","V",62,79,FALSE,FALSE,NA,2
 2021,12,7,"Southern U.","Kentucky","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,9,"Southern U.","Lindsey Wilson","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,11,"Southern U.","Southeastern La.","H",NA,NA,FALSE,FALSE,NA,2
@@ -8373,7 +8373,7 @@
 2021,11,23,"Southern Utah","Yale","N",88,85,FALSE,FALSE,NA,2
 2021,11,24,"Southern Utah","Bowling Green","N",87,73,FALSE,FALSE,NA,2
 2021,12,2,"Southern Utah","Eastern Wash.","V",89,76,FALSE,FALSE,NA,2
-2021,12,4,"Southern Utah","Idaho","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Southern Utah","Idaho","V",81,75,FALSE,FALSE,NA,2
 2021,12,8,"Southern Utah","Utah Valley","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Southern Utah","St. Katherine","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,18,"Southern Utah","Michigan","V",NA,NA,FALSE,FALSE,NA,2
@@ -8403,7 +8403,7 @@
 2021,11,21,"St. Bonaventure","Marquette","N",70,54,FALSE,FALSE,NA,2
 2021,11,27,"St. Bonaventure","UNI","H",80,90,FALSE,FALSE,NA,2
 2021,12,1,"St. Bonaventure","Coppin St.","H",93,81,FALSE,FALSE,NA,2
-2021,12,4,"St. Bonaventure","Buffalo","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"St. Bonaventure","Buffalo","H",68,65,FALSE,FALSE,NA,2
 2021,12,8,"St. Bonaventure","Loyola Maryland","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"St. Bonaventure","UConn","N",NA,NA,FALSE,FALSE,NA,2
 2021,12,17,"St. Bonaventure","Virginia Tech","N",NA,NA,FALSE,FALSE,NA,2
@@ -8553,7 +8553,7 @@
 2021,11,19,"Stetson","Lamar University","V",60,59,FALSE,FALSE,NA,2
 2021,11,27,"Stetson","Campbell","H",58,60,FALSE,FALSE,NA,2
 2021,12,1,"Stetson","Fla. Atlantic","V",73,83,FALSE,FALSE,NA,2
-2021,12,4,"Stetson","FIU","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Stetson","FIU","V",65,72,FALSE,FALSE,NA,2
 2021,12,11,"Stetson","Ohio","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,13,"Stetson","Johnson (FL)","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,16,"Stetson","Col. of Charleston","H",NA,NA,FALSE,FALSE,NA,2
@@ -8582,7 +8582,7 @@
 2021,11,24,"Stony Brook","Fairfield","V",78,83,FALSE,FALSE,NA,2
 2021,11,28,"Stony Brook","Yale","V",85,81,FALSE,FALSE,NA,2
 2021,12,1,"Stony Brook","American","H",80,57,FALSE,FALSE,NA,2
-2021,12,4,"Stony Brook","Wagner","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Stony Brook","Wagner","H",49,78,FALSE,FALSE,NA,2
 2021,12,8,"Stony Brook","Hofstra","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Stony Brook","Bryant","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,14,"Stony Brook","Central Conn. St.","H",NA,NA,FALSE,FALSE,NA,2
@@ -8614,7 +8614,7 @@
 2021,11,25,"Syracuse","Arizona St.","N",92,84,FALSE,FALSE,NA,2
 2021,11,26,"Syracuse","Auburn","N",68,89,FALSE,FALSE,NA,2
 2021,11,30,"Syracuse","Indiana","H",112,110,FALSE,FALSE,NA,2
-2021,12,4,"Syracuse","Florida St.","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Syracuse","Florida St.","V",63,60,FALSE,FALSE,NA,2
 2021,12,7,"Syracuse","Villanova","N",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Syracuse","Georgetown","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Syracuse","Lehigh","H",NA,NA,FALSE,FALSE,NA,2
@@ -8707,7 +8707,7 @@
 2021,11,21,"Temple","Elon","N",75,58,FALSE,FALSE,NA,2
 2021,11,27,"Temple","Delaware","H",75,74,FALSE,FALSE,NA,2
 2021,12,1,"Temple","La Salle","H",73,57,FALSE,FALSE,NA,2
-2021,12,4,"Temple","Penn","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Temple","Penn","H",81,72,FALSE,FALSE,NA,2
 2021,12,7,"Temple","Vanderbilt","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Temple","Saint Joseph&;s","V",NA,NA,FALSE,FALSE,NA,1
 2021,12,15,"Temple","UCF","H",NA,NA,FALSE,FALSE,NA,2
@@ -8769,7 +8769,7 @@
 2021,11,23,"Tennessee St.","Nebraska","V",73,79,FALSE,FALSE,NA,2
 2021,11,28,"Tennessee St.","Southern U.","H",80,82,FALSE,FALSE,NA,2
 2021,12,1,"Tennessee St.","Georgia St.","V",NA,NA,TRUE,FALSE,NA,2
-2021,12,4,"Tennessee St.","Chicago St.","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Tennessee St.","Chicago St.","V",49,59,FALSE,FALSE,NA,2
 2021,12,10,"Tennessee St.","IUPUI","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,12,"Tennessee St.","Lipscomb","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,16,"Tennessee St.","Charleston So.","V",NA,NA,FALSE,FALSE,NA,2
@@ -9011,7 +9011,7 @@
 2021,11,23,"Toledo","Tulane","N",68,67,FALSE,FALSE,NA,2
 2021,11,24,"Toledo","Coastal Carolina","N",79,70,FALSE,FALSE,NA,2
 2021,11,29,"Toledo","Northwestern Ohio","H",106,36,FALSE,FALSE,NA,1
-2021,12,4,"Toledo","Michigan St.","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Toledo","Michigan St.","V",68,81,FALSE,FALSE,NA,2
 2021,12,7,"Toledo","Bradley","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Toledo","Richmond","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,21,"Toledo","Marshall","H",NA,NA,FALSE,FALSE,NA,2
@@ -9166,7 +9166,7 @@
 2021,11,25,"UAB","New Mexico","N",86,73,FALSE,FALSE,NA,2
 2021,11,26,"UAB","San Francisco","N",61,63,FALSE,FALSE,NA,2
 2021,12,1,"UAB","ETSU","H",70,56,FALSE,FALSE,NA,2
-2021,12,4,"UAB","Saint Louis","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"UAB","Saint Louis","V",77,72,FALSE,FALSE,NA,2
 2021,12,12,"UAB","Millsaps","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,14,"UAB","Grambling","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"UAB","West Virginia","H",NA,NA,FALSE,FALSE,NA,2
@@ -9195,7 +9195,7 @@
 2021,11,23,"UC Davis","Sacramento St.","N",63,75,FALSE,FALSE,NA,2
 2021,11,28,"UC Davis","Academy of Art","H",60,79,FALSE,FALSE,NA,1
 2021,12,1,"UC Davis","Pacific","H",63,57,FALSE,FALSE,NA,2
-2021,12,4,"UC Davis","UC Merced","H",NA,NA,FALSE,FALSE,NA,1
+2021,12,4,"UC Davis","UC Merced","H",81,40,FALSE,FALSE,NA,1
 2021,12,14,"UC Davis","Oregon St.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,19,"UC Davis","Pacific","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,22,"UC Davis","Portland","H",NA,NA,FALSE,FALSE,NA,2
@@ -9412,7 +9412,7 @@
 2021,11,25,"UConn","Michigan St.","N",60,64,FALSE,FALSE,NA,2
 2021,11,26,"UConn","VCU","N",70,63,FALSE,FALSE,NA,2
 2021,11,30,"UConn","UMES","H",72,63,FALSE,FALSE,NA,2
-2021,12,4,"UConn","Grambling","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"UConn","Grambling","H",88,59,FALSE,FALSE,NA,2
 2021,12,8,"UConn","West Virginia","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"UConn","St. Bonaventure","N",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"UConn","Providence","H",NA,NA,FALSE,FALSE,NA,2
@@ -9474,7 +9474,7 @@
 2021,11,27,"UIW","Montana St. - MBB UIW MTE","H",64,83,FALSE,FALSE,NA,1
 2021,11,28,"UIW","Portland - MBB UIW MTE","H",68,77,FALSE,FALSE,NA,1
 2021,12,1,"UIW","Our Lady of the Lake","H",93,66,FALSE,FALSE,NA,1
-2021,12,4,"UIW","Abilene Christian","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"UIW","Abilene Christian","V",65,98,FALSE,FALSE,NA,2
 2021,12,11,"UIW","Grambling","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,16,"UIW","Rice","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,20,"UIW","Purdue","V",NA,NA,FALSE,FALSE,NA,2
@@ -9532,7 +9532,7 @@
 2021,11,24,"UMass Lowell","Massachusetts","V",81,92,FALSE,FALSE,NA,2
 2021,11,27,"UMass Lowell","Fisher","H",101,38,FALSE,FALSE,NA,1
 2021,12,1,"UMass Lowell","Brown","H",63,73,FALSE,FALSE,NA,2
-2021,12,4,"UMass Lowell","Merrimack","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"UMass Lowell","Merrimack","V",61,57,FALSE,FALSE,NA,2
 2021,12,8,"UMass Lowell","Boston U.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,19,"UMass Lowell","Sacred Heart","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,21,"UMass Lowell","LIU","V",NA,NA,FALSE,FALSE,NA,2
@@ -9594,7 +9594,7 @@
 2021,11,24,"UMES","Campbell","V",55,66,FALSE,FALSE,NA,2
 2021,11,27,"UMES","Liberty","V",61,73,FALSE,FALSE,NA,2
 2021,11,30,"UMES","UConn","V",63,72,FALSE,FALSE,NA,2
-2021,12,4,"UMES","Lehigh","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"UMES","Lehigh","V",81,75,FALSE,FALSE,NA,2
 2021,12,8,"UMES","Clarks Summit","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,11,"UMES","St. Mary&;s (MD)","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,20,"UMES","Charlotte","V",NA,NA,FALSE,FALSE,NA,2
@@ -9743,7 +9743,7 @@
 2021,11,24,"UNLV","Whittier","H",101,45,FALSE,FALSE,NA,1
 2021,11,27,"UNLV","UCLA","H",51,73,FALSE,FALSE,NA,2
 2021,12,1,"UNLV","SMU","V",64,83,FALSE,FALSE,NA,2
-2021,12,4,"UNLV","San Francisco","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"UNLV","San Francisco","V",62,83,FALSE,FALSE,NA,2
 2021,12,8,"UNLV","Seattle U","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"UNLV","Hartford","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,15,"UNLV","Omaha","H",NA,NA,FALSE,FALSE,NA,2
@@ -9773,7 +9773,7 @@
 2021,11,23,"USC Upstate","South Carolina St.","V",82,78,FALSE,FALSE,NA,2
 2021,11,27,"USC Upstate","Furman","H",77,87,FALSE,FALSE,NA,2
 2021,12,1,"USC Upstate","N.C. Central","H",65,67,FALSE,FALSE,NA,2
-2021,12,4,"USC Upstate","Western Caro.","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"USC Upstate","Western Caro.","H",73,78,FALSE,FALSE,NA,2
 2021,12,11,"USC Upstate","Wake Forest","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,14,"USC Upstate","Tennessee","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"USC Upstate","Brevard","H",NA,NA,FALSE,FALSE,NA,1
@@ -9802,7 +9802,7 @@
 2021,11,20,"UT Arlington","San Diego St.","V",62,68,FALSE,FALSE,NA,2
 2021,11,27,"UT Arlington","Utah St.","V",61,80,FALSE,FALSE,NA,2
 2021,11,29,"UT Arlington","UC Santa Barbara","V",70,62,FALSE,FALSE,NA,2
-2021,12,7,"UT Arlington","Nevada","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,7,"UT Arlington","Nevada","H",NA,NA,TRUE,FALSE,NA,2
 2021,12,11,"UT Arlington","Lamar University","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,16,"UT Arlington","Oral Roberts","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,19,"UT Arlington","Oklahoma","V",NA,NA,FALSE,FALSE,NA,2
@@ -10077,7 +10077,7 @@
 2021,11,20,"Vanderbilt","Winthrop","H",77,63,FALSE,FALSE,NA,2
 2021,11,24,"Vanderbilt","Pittsburgh","V",68,52,FALSE,FALSE,NA,2
 2021,11,29,"Vanderbilt","Mississippi Val.","H",75,36,FALSE,FALSE,NA,2
-2021,12,4,"Vanderbilt","SMU","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Vanderbilt","SMU","V",72,84,FALSE,FALSE,NA,2
 2021,12,7,"Vanderbilt","Temple","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,10,"Vanderbilt","Loyola Chicago","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Vanderbilt","Austin Peay","H",NA,NA,FALSE,FALSE,NA,2
@@ -10107,7 +10107,7 @@
 2021,11,24,"VCU","Syracuse","N",67,55,FALSE,FALSE,NA,2
 2021,11,25,"VCU","Baylor","N",61,69,FALSE,FALSE,NA,2
 2021,11,26,"VCU","UConn","N",63,70,FALSE,FALSE,NA,2
-2021,12,4,"VCU","Campbell","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"VCU","Campbell","H",65,61,FALSE,FALSE,NA,2
 2021,12,8,"VCU","Jacksonville St.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"VCU","Old Dominion","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,15,"VCU","Fla. Atlantic","H",NA,NA,FALSE,FALSE,NA,2
@@ -10291,7 +10291,7 @@
 2021,11,20,"Wagner","NJIT","H",NA,NA,FALSE,TRUE,NA,2
 2021,11,24,"Wagner","Army West Point","V",NA,NA,FALSE,TRUE,NA,2
 2021,12,1,"Wagner","Seton Hall","V",63,85,FALSE,FALSE,NA,2
-2021,12,4,"Wagner","Stony Brook","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Wagner","Stony Brook","V",78,49,FALSE,FALSE,NA,2
 2021,12,8,"Wagner","Penn St.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,16,"Wagner","Immaculata","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,20,"Wagner","Delaware St.","H",NA,NA,FALSE,FALSE,NA,2
@@ -10383,7 +10383,7 @@
 2021,11,22,"Washington St.","Winthrop","H",92,86,FALSE,FALSE,NA,2
 2021,11,27,"Washington St.","Eastern Wash.","H",71,76,FALSE,FALSE,NA,2
 2021,12,1,"Washington St.","Arizona St.","V",51,29,FALSE,FALSE,NA,2
-2021,12,4,"Washington St.","Southern California","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Washington St.","Southern California","H",61,63,FALSE,FALSE,NA,2
 2021,12,8,"Washington St.","Weber St.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Washington St.","South Dakota St.","N",NA,NA,FALSE,FALSE,NA,2
 2021,12,15,"Washington St.","New Mexico St.","H",NA,NA,FALSE,FALSE,NA,2
@@ -10414,7 +10414,7 @@
 2021,11,21,"Weber St.","Green Bay","N",68,58,FALSE,FALSE,NA,2
 2021,11,27,"Weber St.","Dixie St.","V",87,70,FALSE,FALSE,NA,2
 2021,12,2,"Weber St.","Northern Ariz.","H",67,44,FALSE,FALSE,NA,2
-2021,12,4,"Weber St.","Portland St.","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Weber St.","Portland St.","H",80,69,FALSE,FALSE,NA,2
 2021,12,8,"Weber St.","Washington St.","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Weber St.","Me.-Fort Kent","H",NA,NA,FALSE,FALSE,NA,1
 2021,12,15,"Weber St.","Utah St.","H",NA,NA,FALSE,FALSE,NA,2
@@ -10445,7 +10445,7 @@
 2021,11,21,"West Virginia","Clemson","N",66,59,FALSE,FALSE,NA,2
 2021,11,26,"West Virginia","Eastern Ky.","H",80,77,FALSE,FALSE,NA,2
 2021,11,30,"West Virginia","Bellarmine","H",74,55,FALSE,FALSE,NA,2
-2021,12,4,"West Virginia","Radford","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"West Virginia","Radford","H",67,51,FALSE,FALSE,NA,2
 2021,12,8,"West Virginia","UConn","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,12,"West Virginia","Kent St.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"West Virginia","UAB","V",NA,NA,FALSE,FALSE,NA,2
@@ -10477,7 +10477,7 @@
 2021,11,21,"Western Caro.","Longwood","V",64,53,FALSE,FALSE,NA,2
 2021,11,27,"Western Caro.","Gardner-Webb","V",59,87,FALSE,FALSE,NA,2
 2021,12,1,"Western Caro.","Warren Wilson","H",102,47,FALSE,FALSE,NA,1
-2021,12,4,"Western Caro.","USC Upstate","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Western Caro.","USC Upstate","V",78,73,FALSE,FALSE,NA,2
 2021,12,8,"Western Caro.","Tennessee Tech","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Western Caro.","UNC Asheville","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,20,"Western Caro.","Georgia","V",NA,NA,FALSE,FALSE,NA,2
@@ -10537,7 +10537,7 @@
 2021,11,24,"Western Ky.","Alabama A&M","H",88,62,FALSE,FALSE,NA,2
 2021,11,27,"Western Ky.","UT Martin","H",81,66,FALSE,FALSE,NA,2
 2021,11,30,"Western Ky.","Rhodes","H",105,35,FALSE,FALSE,NA,1
-2021,12,4,"Western Ky.","Eastern Ky.","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Western Ky.","Eastern Ky.","H",85,80,FALSE,FALSE,NA,2
 2021,12,8,"Western Ky.","Buffalo","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Western Ky.","Ole Miss","N",NA,NA,FALSE,FALSE,NA,2
 2021,12,14,"Western Ky.","Centre","H",NA,NA,FALSE,FALSE,NA,1
@@ -10782,7 +10782,7 @@
 2021,11,26,"Wyoming","Hastings","H",108,59,FALSE,FALSE,NA,1
 2021,11,29,"Wyoming","Cal St. Fullerton","V",79,66,FALSE,FALSE,NA,2
 2021,12,2,"Wyoming","Denver","H",77,64,FALSE,FALSE,NA,2
-2021,12,4,"Wyoming","McNeese","H",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Wyoming","McNeese","H",79,58,FALSE,FALSE,NA,2
 2021,12,8,"Wyoming","Arizona","V",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Wyoming","Utah Valley","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,22,"Wyoming","Stanford","N",NA,NA,FALSE,FALSE,NA,2
@@ -10870,7 +10870,7 @@
 2021,11,20,"Youngstown St.","SIUE - MBB Penguin Classic","H",66,69,FALSE,FALSE,NA,1
 2021,11,21,"Youngstown St.","Niagara - MBB Penguin Classic","H",53,58,FALSE,FALSE,NA,1
 2021,12,2,"Youngstown St.","Milwaukee","V",70,68,FALSE,FALSE,NA,2
-2021,12,4,"Youngstown St.","Green Bay","V",NA,NA,FALSE,FALSE,NA,2
+2021,12,4,"Youngstown St.","Green Bay","V",82,58,FALSE,FALSE,NA,2
 2021,12,8,"Youngstown St.","Central Mich.","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,11,"Youngstown St.","Canisius","H",NA,NA,FALSE,FALSE,NA,2
 2021,12,18,"Youngstown St.","Westminster (PA)","H",NA,NA,FALSE,FALSE,NA,1
