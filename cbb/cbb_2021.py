@@ -8,7 +8,7 @@ from datetime import datetime, timezone
 import subprocess
 today = datetime.now(timezone.utc).strftime("%Y-%m-%d")+'T00:00:00.000Z'
 
-subprocess.call ("./ncaa_hoops_scraper.R")
+#subprocess.call ("./ncaa_hoops_scraper.R")
 sched = pd.read_csv ('NCAA_Hoops_Results.csv')
 sched = sched[(sched.teamscore.notna()) & (sched.opponent.notna())]
 sched.loc[sched.year.isna(), 'year'] = 2021
@@ -32,6 +32,11 @@ for j in range(51):
     for i in s_ind:
         id1 = sched.loc[i, 'team']
         id2 = sched.loc[i, 'opponent']
+        try:
+            _ = df[df.team == id1].values[0]
+        except IndexError:
+            df3 = pd.DataFrame ([[id1, 'removethis', 800, 600, 0.06]], columns=['team', 'conference', 'rating', 'rd', 'volatility'])
+            df = df.append(df3).reset_index(drop=True)
         try:
             _ = df[df.team == id2].values[0]
         except IndexError:
