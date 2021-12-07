@@ -42,38 +42,38 @@ Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for
 | Rank  | Team                       | Record   | Rating |
 | ---:  | ---:                       | :---     | ---:   |
 | 1     | Arizona Cardinals          | 10-2     | 1787   |
-| 2     | Green Bay Packers          | 9-3      | 1747   |
-| 3     | Kansas City Chiefs         | 8-4      | 1731   |
-| 4     | Tampa Bay Buccaneers       | 9-3      | 1711   |
-| 5     | New England Patriots       | 8-4      | 1659   |
-| 6     | Dallas Cowboys             | 8-4      | 1658   |
+| 2     | Green Bay Packers          | 9-3      | 1746   |
+| 3     | Kansas City Chiefs         | 8-4      | 1729   |
+| 4     | Tampa Bay Buccaneers       | 9-3      | 1714   |
+| 5     | New England Patriots       | 9-4      | 1690   |
+| 6     | Dallas Cowboys             | 8-4      | 1662   |
 | 7     | Tennessee Titans           | 8-4      | 1653   |
 | 8     | Baltimore Ravens           | 8-4      | 1638   |
-| 9     | Los Angeles Chargers       | 7-5      | 1628   |
+| 9     | Los Angeles Chargers       | 7-5      | 1631   |
 | 10    | Los Angeles Rams           | 8-4      | 1622   |
-| 11    | Buffalo Bills              | 7-4      | 1578   |
-| 12    | Pittsburgh Steelers        | 6-5-1    | 1566   |
-| 13    | Washington Football Team   | 6-6      | 1563   |
-| 14    | Cincinnati Bengals         | 7-5      | 1554   |
+| 11    | Pittsburgh Steelers        | 6-5-1    | 1564   |
+| 12    | Washington Football Team   | 6-6      | 1561   |
+| 13    | Cincinnati Bengals         | 7-5      | 1554   |
+| 14    | Buffalo Bills              | 7-5      | 1548   |
 | 15    | Las Vegas Raiders          | 6-6      | 1537   |
-| 16    | Cleveland Browns           | 6-6      | 1531   |
-| 17    | Indianapolis Colts         | 7-6      | 1530   |
+| 16    | Cleveland Browns           | 6-6      | 1534   |
+| 17    | Indianapolis Colts         | 7-6      | 1527   |
 | 18    | Denver Broncos             | 6-6      | 1525   |
-| 19    | San Francisco 49ers        | 6-6      | 1510   |
-| 20    | Philadelphia Eagles        | 6-7      | 1483   |
+| 19    | San Francisco 49ers        | 6-6      | 1509   |
+| 20    | Philadelphia Eagles        | 6-7      | 1484   |
 | 21    | New Orleans Saints         | 5-7      | 1475   |
-| 22    | Miami Dolphins             | 6-7      | 1468   |
-| 23    | Minnesota Vikings          | 5-7      | 1458   |
-| 24    | Atlanta Falcons            | 5-7      | 1437   |
-| 25    | New York Giants            | 4-8      | 1429   |
-| 26    | Seattle Seahawks           | 4-8      | 1417   |
-| 27    | Carolina Panthers          | 5-7      | 1407   |
+| 22    | Miami Dolphins             | 6-7      | 1466   |
+| 23    | Minnesota Vikings          | 5-7      | 1459   |
+| 24    | Atlanta Falcons            | 5-7      | 1440   |
+| 25    | New York Giants            | 4-8      | 1430   |
+| 26    | Seattle Seahawks           | 4-8      | 1416   |
+| 27    | Carolina Panthers          | 5-7      | 1409   |
 | 28    | Chicago Bears              | 4-8      | 1400   |
-| 29    | New York Jets              | 3-9      | 1293   |
-| 30    | Jacksonville Jaguars       | 2-10     | 1207   |
-| 31    | Houston Texans             | 2-10     | 1188   |
+| 29    | New York Jets              | 3-9      | 1294   |
+| 30    | Jacksonville Jaguars       | 2-10     | 1206   |
+| 31    | Houston Texans             | 2-10     | 1187   |
 | 32    | Detroit Lions              | 1-10-1   | 1185   |
-_Updated 12/6/2021, 1:30pm_
+_Updated 12/7/2021, 8:40pm_
 
 NFL data comes from [https://www.pro-football-reference.com](https://www.pro-football-reference.com).
 
