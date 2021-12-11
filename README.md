@@ -41,39 +41,39 @@ Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for
 ### NFL
 | Rank  | Team                       | Record   | Rating |
 | ---:  | ---:                       | :---     | ---:   |
-| 1     | Arizona Cardinals          | 10-2     | 1787   |
-| 2     | Green Bay Packers          | 9-3      | 1746   |
-| 3     | Kansas City Chiefs         | 8-4      | 1729   |
+| 1     | Arizona Cardinals          | 10-2     | 1792   |
+| 2     | Green Bay Packers          | 9-3      | 1747   |
+| 3     | Kansas City Chiefs         | 8-4      | 1728   |
 | 4     | Tampa Bay Buccaneers       | 9-3      | 1714   |
 | 5     | New England Patriots       | 9-4      | 1690   |
-| 6     | Dallas Cowboys             | 8-4      | 1662   |
+| 6     | Dallas Cowboys             | 8-4      | 1664   |
 | 7     | Tennessee Titans           | 8-4      | 1653   |
-| 8     | Baltimore Ravens           | 8-4      | 1638   |
-| 9     | Los Angeles Chargers       | 7-5      | 1631   |
-| 10    | Los Angeles Rams           | 8-4      | 1622   |
-| 11    | Pittsburgh Steelers        | 6-5-1    | 1564   |
-| 12    | Washington Football Team   | 6-6      | 1561   |
-| 13    | Cincinnati Bengals         | 7-5      | 1554   |
-| 14    | Buffalo Bills              | 7-5      | 1548   |
-| 15    | Las Vegas Raiders          | 6-6      | 1537   |
-| 16    | Cleveland Browns           | 6-6      | 1534   |
-| 17    | Indianapolis Colts         | 7-6      | 1527   |
-| 18    | Denver Broncos             | 6-6      | 1525   |
-| 19    | San Francisco 49ers        | 6-6      | 1509   |
-| 20    | Philadelphia Eagles        | 6-7      | 1484   |
-| 21    | New Orleans Saints         | 5-7      | 1475   |
-| 22    | Miami Dolphins             | 6-7      | 1466   |
-| 23    | Minnesota Vikings          | 5-7      | 1459   |
+| 8     | Baltimore Ravens           | 8-4      | 1636   |
+| 9     | Los Angeles Chargers       | 7-5      | 1630   |
+| 10    | Los Angeles Rams           | 8-4      | 1623   |
+| 11    | Washington Football Team   | 6-6      | 1560   |
+| 12    | Cincinnati Bengals         | 7-5      | 1550   |
+| 13    | Buffalo Bills              | 7-5      | 1544   |
+| 14    | Cleveland Browns           | 6-6      | 1533   |
+| 15    | Las Vegas Raiders          | 6-6      | 1532   |
+| 16    | Indianapolis Colts         | 7-6      | 1527   |
+| 17    | Denver Broncos             | 6-6      | 1521   |
+| 18    | Pittsburgh Steelers        | 6-6-1    | 1520   |
+| 19    | San Francisco 49ers        | 6-6      | 1515   |
+| 20    | Minnesota Vikings          | 6-7      | 1509   |
+| 21    | Philadelphia Eagles        | 6-7      | 1484   |
+| 22    | New Orleans Saints         | 5-7      | 1475   |
+| 23    | Miami Dolphins             | 6-7      | 1465   |
 | 24    | Atlanta Falcons            | 5-7      | 1440   |
 | 25    | New York Giants            | 4-8      | 1430   |
-| 26    | Seattle Seahawks           | 4-8      | 1416   |
-| 27    | Carolina Panthers          | 5-7      | 1409   |
-| 28    | Chicago Bears              | 4-8      | 1400   |
-| 29    | New York Jets              | 3-9      | 1294   |
+| 26    | Seattle Seahawks           | 4-8      | 1419   |
+| 27    | Carolina Panthers          | 5-7      | 1413   |
+| 28    | Chicago Bears              | 4-8      | 1397   |
+| 29    | New York Jets              | 3-9      | 1293   |
 | 30    | Jacksonville Jaguars       | 2-10     | 1206   |
-| 31    | Houston Texans             | 2-10     | 1187   |
-| 32    | Detroit Lions              | 1-10-1   | 1185   |
-_Updated 12/7/2021, 8:40pm_
+| 31    | Detroit Lions              | 1-10-1   | 1191   |
+| 32    | Houston Texans             | 2-10     | 1187   |
+_Updated 12/10/2021, 11:00pm__
 
 NFL data comes from [https://www.pro-football-reference.com](https://www.pro-football-reference.com).
 
