@@ -80,32 +80,32 @@ NFL data comes from [https://www.pro-football-reference.com](https://www.pro-foo
 ### Men's College Basketball
 | Rank  | Team                 | Conference | Record   | Rating |
 | ---:  | ---:                 | ---:       | ---:     | ---:   |
-| 1     | Iowa St.             | Big 12     | 9-0      | 3150   |
-| 2     | LSU                  | SEC        | 8-0      | 3023   |
-| 3     | Baylor               | Big 12     | 8-0      | 2958   |
-| 4     | Arizona              | Pac 12     | 8-0      | 2899   |
-| 5     | San Francisco        | WCC        | 10-0     | 2858   |
-| 6     | Arkansas             | SEC        | 9-0      | 2815   |
-| 7     | Southern California  | Pac 12     | 9-0      | 2809   |
-| 8     | Colorado St.         | MWC        | 9-0      | 2807   |
-| 9     | Xavier               | Big East   | 8-1      | 2696   |
-| 10    | Wisconsin            | Big 10     | 8-1      | 2597   |
-| 11    | Wake Forest          | ACC        | 8-1      | 2531   |
-| 12    | Michigan St.         | Big 10     | 8-2      | 2510   |
-| 13    | Providence           | Big East   | 9-1      | 2481   |
-| 14    | Duke                 | ACC        | 7-1      | 2410   |
-| 15    | West Virginia        | Big 12     | 8-1      | 2385   |
-| 16    | Texas A&M            | SEC        | 7-1      | 2379   |
-| 17    | Marquette            | Big East   | 8-2      | 2377   |
-| 18    | Ohio St.             | Big 10     | 7-2      | 2359   |
-| 19    | Alabama              | SEC        | 7-1      | 2357   |
-| 20    | Houston              | AAC        | 8-1      | 2347   |
-| 21    | Kansas               | Big 12     | 7-1      | 2329   |
-| 22    | Auburn               | SEC        | 7-1      | 2327   |
-| 23    | Seton Hall           | Big East   | 8-1      | 2324   |
-| 24    | Wyoming              | MWC        | 8-1      | 2307   |
-| 25    | Kentucky             | SEC        | 7-1      | 2300   |
-_Updated 12/10/2021, 10:00pm__
+| 1     | Iowa St.             | Big 12     | 9-0      | 3195   |
+| 2     | Baylor               | Big 12     | 8-0      | 2997   |
+| 3     | Arizona              | Pac 12     | 9-0      | 2966   |
+| 4     | LSU                  | SEC        | 9-0      | 2965   |
+| 5     | Colorado St.         | MWC        | 10-0     | 2959   |
+| 6     | San Francisco        | WCC        | 10-0     | 2864   |
+| 7     | Xavier               | Big East   | 9-1      | 2772   |
+| 8     | Southern California  | Pac 12     | 9-0      | 2762   |
+| 9     | Michigan St.         | Big 10     | 9-2      | 2550   |
+| 10    | Wake Forest          | ACC        | 9-1      | 2478   |
+| 11    | Ohio St.             | Big 10     | 8-2      | 2474   |
+| 12    | Creighton            | Big East   | 8-2      | 2460   |
+| 13    | Alabama              | SEC        | 8-1      | 2429   |
+| 14    | Wyoming              | MWC        | 9-1      | 2390   |
+| 15    | Seton Hall           | Big East   | 8-1      | 2382   |
+| 16    | Duke                 | ACC        | 7-1      | 2381   |
+| 17    | Minnesota            | Big 10     | 8-1      | 2371   |
+| 18    | UCLA                 | Pac 12     | 8-1      | 2367   |
+| 19    | Kansas               | Big 12     | 8-1      | 2360   |
+| 20    | Providence           | Big East   | 10-1     | 2359   |
+| 21    | Auburn               | SEC        | 8-1      | 2355   |
+| 22    | Wisconsin            | Big 10     | 8-2      | 2353   |
+| 23    | West Virginia        | Big 12     | 8-1      | 2335   |
+| 24    | UConn                | Big East   | 9-2      | 2327   |
+| 25    | Gonzaga              | WCC        | 8-2      | 2304   |
+_Updated 12/12/2021, 12:00pm__
 
 Script for scraping data by [Luke Benz](https://github.com/lbenz730/NCAA_Hoops).
 One potential standing issue is that, because of the way the games are scraped, every game is actually considered twice when constructing the ranking. I don't think that this can actually be considered an objectively good or bad thing, but regardless it is probably something that I should fix eventually.
