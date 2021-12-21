@@ -41,39 +41,39 @@ Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for
 ### NFL
 | Rank  | Team                       | Record   | Rating |
 | ---:  | ---:                       | :---     | ---:   |
-| 1     | Green Bay Packers          | 10-3     | 1760   |
-| 2     | Tampa Bay Buccaneers       | 10-3     | 1749   |
-| 3     | Kansas City Chiefs         | 9-4      | 1746   |
-| 4     | Arizona Cardinals          | 10-3     | 1738   |
-| 5     | New England Patriots       | 9-4      | 1698   |
-| 6     | Dallas Cowboys             | 9-4      | 1696   |
-| 7     | Los Angeles Rams           | 9-4      | 1687   |
-| 8     | Tennessee Titans           | 9-4      | 1663   |
-| 9     | Los Angeles Chargers       | 8-5      | 1643   |
-| 10    | Baltimore Ravens           | 8-5      | 1588   |
-| 11    | Cleveland Browns           | 7-6      | 1567   |
-| 12    | San Francisco 49ers        | 7-6      | 1556   |
-| 13    | Washington Football Team   | 6-7      | 1541   |
-| 14    | Indianapolis Colts         | 7-6      | 1529   |
-| 15    | Denver Broncos             | 7-6      | 1527   |
-| 16    | Buffalo Bills              | 7-6      | 1522   |
-| 17    | Pittsburgh Steelers        | 6-6-1    | 1511   |
-| 18    | Las Vegas Raiders          | 6-7      | 1509   |
-| 19    | Minnesota Vikings          | 6-7      | 1505   |
-| 20    | Cincinnati Bengals         | 7-6      | 1505   |
-| 21    | New Orleans Saints         | 6-7      | 1496   |
-| 22    | Philadelphia Eagles        | 6-7      | 1489   |
-| 23    | Atlanta Falcons            | 6-7      | 1472   |
-| 24    | Miami Dolphins             | 6-7      | 1454   |
-| 25    | Seattle Seahawks           | 5-8      | 1441   |
-| 26    | New York Giants            | 4-9      | 1416   |
-| 27    | Chicago Bears              | 4-9      | 1384   |
-| 28    | Carolina Panthers          | 5-8      | 1378   |
-| 29    | New York Jets              | 3-10     | 1263   |
-| 30    | Jacksonville Jaguars       | 2-11     | 1196   |
-| 31    | Detroit Lions              | 1-11-1   | 1170   |
-| 32    | Houston Texans             | 2-11     | 1154   |
-_Updated 12/14/2021, 12:00pm__
+| 1     | Green Bay Packers          | 11-3     | 1793   |
+| 2     | Kansas City Chiefs         | 10-4     | 1771   |
+| 3     | Dallas Cowboys             | 10-4     | 1699   |
+| 4     | Tampa Bay Buccaneers       | 10-4     | 1679   |
+| 5     | Los Angeles Rams           | 9-4      | 1669   |
+| 6     | Arizona Cardinals          | 10-4     | 1654   |
+| 7     | New England Patriots       | 9-5      | 1630   |
+| 8     | Los Angeles Chargers       | 8-6      | 1625   |
+| 9     | Tennessee Titans           | 9-5      | 1606   |
+| 10    | Baltimore Ravens           | 8-6      | 1585   |
+| 11    | San Francisco 49ers        | 8-6      | 1584   |
+| 12    | Pittsburgh Steelers        | 7-6-1    | 1569   |
+| 13    | Indianapolis Colts         | 8-6      | 1569   |
+| 14    | Cincinnati Bengals         | 8-6      | 1556   |
+| 15    | Las Vegas Raiders          | 7-7      | 1551   |
+| 16    | Minnesota Vikings          | 7-7      | 1541   |
+| 17    | Buffalo Bills              | 8-6      | 1538   |
+| 18    | Washington Football Team   | 6-7      | 1538   |
+| 19    | Cleveland Browns           | 7-7      | 1535   |
+| 20    | New Orleans Saints         | 7-7      | 1534   |
+| 21    | Denver Broncos             | 7-7      | 1499   |
+| 22    | Philadelphia Eagles        | 6-7      | 1488   |
+| 23    | Miami Dolphins             | 7-7      | 1462   |
+| 24    | Seattle Seahawks           | 5-8      | 1450   |
+| 25    | Atlanta Falcons            | 6-8      | 1428   |
+| 26    | New York Giants            | 4-10     | 1397   |
+| 27    | Chicago Bears              | 4-10     | 1383   |
+| 28    | Carolina Panthers          | 5-9      | 1347   |
+| 29    | Detroit Lions              | 2-11-1   | 1292   |
+| 30    | New York Jets              | 3-11     | 1237   |
+| 31    | Houston Texans             | 3-11     | 1193   |
+| 32    | Jacksonville Jaguars       | 2-12     | 1134   |
+_Updated 12/21/2021, 11:30am__
 
 NFL data comes from [https://www.pro-football-reference.com](https://www.pro-football-reference.com).
 
@@ -105,7 +105,7 @@ NFL data comes from [https://www.pro-football-reference.com](https://www.pro-foo
 | 23    | San Francisco        | WCC        | 11-1     | 2270   |
 | 24    | Loyola Chicago       | MVC        | 9-2      | 2263   |
 | 25    | UConn                | Big East   | 9-3      | 2254   |
-_Updated 12/21/2021, 11:00pm__
+_Updated 12/21/2021, 11:00am__
 
 Script for scraping data by [Luke Benz](https://github.com/lbenz730/NCAA_Hoops).
 One potential standing issue is that, because of the way the games are scraped, every game is actually considered twice when constructing the ranking. I don't think that this can actually be considered an objectively good or bad thing, but regardless it is probably something that I should fix eventually.
