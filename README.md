@@ -30,7 +30,7 @@ This poll is based on the Glicko-2 rating system [\(Glickman 2013\)](http://glic
 | 23    | Iowa State           | Big 12               | 7-5      | 1735   |
 | 24    | Penn State           | Big Ten              | 7-5      | 1731   |
 | 25    | Oregon               | Pac-12               | 10-3     | 1716   |
-_Updated 12/21/2021, 11:30pm_
+_Updated 12/29/2021, 4:00pm_
 
 1. All P5 teams start with a rating of 1500 and all G5 teams start with a rating of 1200. Other, non-FBS teams, if encountered in the schedule, are added to the table starting with a rating of 800. All teams start with a rating deviation of 600 and a volatility of 0.6.
 2. The 2020 schedule is run through 1 time to give initial ratings. Note that, after this run, the RD remains high and so the ratings are still quite fluid.
@@ -41,39 +41,39 @@ Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for
 ### NFL
 | Rank  | Team                       | Record   | Rating |
 | ---:  | ---:                       | :---     | ---:   |
-| 1     | Green Bay Packers          | 11-3     | 1793   |
-| 2     | Kansas City Chiefs         | 10-4     | 1771   |
-| 3     | Dallas Cowboys             | 10-4     | 1699   |
-| 4     | Tampa Bay Buccaneers       | 10-4     | 1679   |
-| 5     | Los Angeles Rams           | 9-4      | 1669   |
-| 6     | Arizona Cardinals          | 10-4     | 1654   |
-| 7     | New England Patriots       | 9-5      | 1630   |
-| 8     | Los Angeles Chargers       | 8-6      | 1625   |
-| 9     | Tennessee Titans           | 9-5      | 1606   |
-| 10    | Baltimore Ravens           | 8-6      | 1585   |
-| 11    | San Francisco 49ers        | 8-6      | 1584   |
-| 12    | Pittsburgh Steelers        | 7-6-1    | 1569   |
-| 13    | Indianapolis Colts         | 8-6      | 1569   |
-| 14    | Cincinnati Bengals         | 8-6      | 1556   |
-| 15    | Las Vegas Raiders          | 7-7      | 1551   |
-| 16    | Minnesota Vikings          | 7-7      | 1541   |
-| 17    | Buffalo Bills              | 8-6      | 1538   |
-| 18    | Washington Football Team   | 6-7      | 1538   |
-| 19    | Cleveland Browns           | 7-7      | 1535   |
-| 20    | New Orleans Saints         | 7-7      | 1534   |
-| 21    | Denver Broncos             | 7-7      | 1499   |
-| 22    | Philadelphia Eagles        | 6-7      | 1488   |
-| 23    | Miami Dolphins             | 7-7      | 1462   |
-| 24    | Seattle Seahawks           | 5-8      | 1450   |
-| 25    | Atlanta Falcons            | 6-8      | 1428   |
-| 26    | New York Giants            | 4-10     | 1397   |
-| 27    | Chicago Bears              | 4-10     | 1383   |
-| 28    | Carolina Panthers          | 5-9      | 1347   |
-| 29    | Detroit Lions              | 2-11-1   | 1292   |
-| 30    | New York Jets              | 3-11     | 1237   |
-| 31    | Houston Texans             | 3-11     | 1193   |
-| 32    | Jacksonville Jaguars       | 2-12     | 1134   |
-_Updated 12/21/2021, 11:30am__
+| 1     | Green Bay Packers          | 12-3     | 1796   |
+| 2     | Kansas City Chiefs         | 11-4     | 1782   |
+| 3     | Dallas Cowboys             | 11-4     | 1707   |
+| 4     | Los Angeles Rams           | 11-4     | 1705   |
+| 5     | Tampa Bay Buccaneers       | 11-4     | 1701   |
+| 6     | Tennessee Titans           | 10-5     | 1644   |
+| 7     | Indianapolis Colts         | 9-6      | 1624   |
+| 8     | Arizona Cardinals          | 10-5     | 1611   |
+| 9     | New England Patriots       | 9-6      | 1607   |
+| 10    | Buffalo Bills              | 9-6      | 1592   |
+| 11    | Cincinnati Bengals         | 9-6      | 1574   |
+| 12    | Las Vegas Raiders          | 8-7      | 1569   |
+| 13    | Los Angeles Chargers       | 8-7      | 1560   |
+| 14    | San Francisco 49ers        | 8-7      | 1552   |
+| 15    | Baltimore Ravens           | 8-7      | 1548   |
+| 16    | Pittsburgh Steelers        | 7-7-1    | 1547   |
+| 17    | Philadelphia Eagles        | 8-7      | 1538   |
+| 18    | Miami Dolphins             | 8-7      | 1520   |
+| 19    | Cleveland Browns           | 7-8      | 1511   |
+| 20    | New Orleans Saints         | 7-8      | 1506   |
+| 21    | Minnesota Vikings          | 7-8      | 1505   |
+| 22    | Washington Football Team   | 6-9      | 1481   |
+| 23    | Denver Broncos             | 7-8      | 1463   |
+| 24    | Atlanta Falcons            | 7-8      | 1450   |
+| 25    | Chicago Bears              | 5-10     | 1411   |
+| 26    | Seattle Seahawks           | 5-10     | 1390   |
+| 27    | New York Giants            | 4-11     | 1375   |
+| 28    | Carolina Panthers          | 5-10     | 1350   |
+| 29    | New York Jets              | 4-11     | 1288   |
+| 30    | Houston Texans             | 4-11     | 1288   |
+| 31    | Detroit Lions              | 2-12-1   | 1259   |
+| 32    | Jacksonville Jaguars       | 2-13     | 1125   |
+_Updated 12/29/2021, 4:00pm__
 
 NFL data comes from [https://www.pro-football-reference.com](https://www.pro-football-reference.com).
 
