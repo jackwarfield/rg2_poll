@@ -41,39 +41,39 @@ Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for
 ### NFL
 | Rank  | Team                       | Record   | Rating |
 | ---:  | ---:                       | :---     | ---:   |
-| 1     | Green Bay Packers          | 13-4     | 1746   |
-| 2     | Kansas City Chiefs         | 12-5     | 1739   |
-| 3     | Tampa Bay Buccaneers       | 13-4     | 1700   |
-| 4     | Los Angeles Rams           | 12-5     | 1686   |
-| 5     | Dallas Cowboys             | 12-5     | 1675   |
-| 6     | Tennessee Titans           | 12-5     | 1673   |
-| 7     | Las Vegas Raiders          | 10-7     | 1616   |
-| 8     | San Francisco 49ers        | 10-7     | 1612   |
-| 9     | Arizona Cardinals          | 11-6     | 1610   |
-| 10    | Buffalo Bills              | 11-6     | 1610   |
-| 11    | Pittsburgh Steelers        | 9-7-1    | 1606   |
-| 12    | Cincinnati Bengals         | 10-7     | 1592   |
-| 13    | New England Patriots       | 10-7     | 1565   |
-| 14    | Los Angeles Chargers       | 9-8      | 1548   |
-| 15    | Indianapolis Colts         | 9-8      | 1539   |
-| 16    | New Orleans Saints         | 9-8      | 1534   |
-| 17    | Philadelphia Eagles        | 9-8      | 1533   |
-| 18    | Minnesota Vikings          | 8-9      | 1529   |
-| 19    | Miami Dolphins             | 9-8      | 1525   |
-| 20    | Cleveland Browns           | 8-9      | 1525   |
-| 21    | Baltimore Ravens           | 8-9      | 1512   |
-| 22    | Seattle Seahawks           | 7-10     | 1474   |
-| 23    | Washington Football Team   | 7-10     | 1465   |
-| 24    | Denver Broncos             | 7-10     | 1433   |
-| 25    | Chicago Bears              | 6-11     | 1431   |
-| 26    | Atlanta Falcons            | 7-10     | 1405   |
-| 27    | Detroit Lions              | 3-13-1   | 1321   |
-| 28    | Carolina Panthers          | 5-12     | 1309   |
-| 29    | New York Giants            | 4-13     | 1309   |
-| 30    | Houston Texans             | 4-13     | 1273   |
-| 31    | New York Jets              | 4-13     | 1264   |
-| 32    | Jacksonville Jaguars       | 3-14     | 1210   |
-_Updated 1/12/2022, 12:00pm__
+| 1     | Kansas City Chiefs         | 13-5     | 1755   |
+| 2     | Green Bay Packers          | 13-4     | 1752   |
+| 3     | Tampa Bay Buccaneers       | 14-4     | 1717   |
+| 4     | Los Angeles Rams           | 13-5     | 1716   |
+| 5     | Tennessee Titans           | 12-5     | 1678   |
+| 6     | San Francisco 49ers        | 11-7     | 1648   |
+| 7     | Dallas Cowboys             | 12-6     | 1636   |
+| 8     | Buffalo Bills              | 12-6     | 1634   |
+| 9     | Cincinnati Bengals         | 11-7     | 1620   |
+| 10    | Arizona Cardinals          | 11-7     | 1595   |
+| 11    | Pittsburgh Steelers        | 9-8-1    | 1593   |
+| 12    | Las Vegas Raiders          | 10-8     | 1586   |
+| 13    | New England Patriots       | 10-8     | 1542   |
+| 14    | Los Angeles Chargers       | 9-8      | 1542   |
+| 15    | Indianapolis Colts         | 9-8      | 1542   |
+| 16    | Minnesota Vikings          | 8-9      | 1532   |
+| 17    | New Orleans Saints         | 9-8      | 1532   |
+| 18    | Cleveland Browns           | 8-9      | 1524   |
+| 19    | Miami Dolphins             | 9-8      | 1524   |
+| 20    | Baltimore Ravens           | 8-9      | 1514   |
+| 21    | Philadelphia Eagles        | 9-9      | 1513   |
+| 22    | Seattle Seahawks           | 7-10     | 1479   |
+| 23    | Washington Football Team   | 7-10     | 1459   |
+| 24    | Chicago Bears              | 6-11     | 1435   |
+| 25    | Denver Broncos             | 7-10     | 1428   |
+| 26    | Atlanta Falcons            | 7-10     | 1403   |
+| 27    | Detroit Lions              | 3-13-1   | 1323   |
+| 28    | Carolina Panthers          | 5-12     | 1306   |
+| 29    | New York Giants            | 4-13     | 1303   |
+| 30    | Houston Texans             | 4-13     | 1275   |
+| 31    | New York Jets              | 4-13     | 1263   |
+| 32    | Jacksonville Jaguars       | 3-14     | 1212   |
+_Updated 1/19/2022, 11:00am__
 
 NFL data comes from [https://www.pro-football-reference.com](https://www.pro-football-reference.com).
 
