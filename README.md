@@ -80,32 +80,32 @@ NFL data comes from [https://www.pro-football-reference.com](https://www.pro-foo
 ### Men's College Basketball
 | Rank  | Team                 | Conference | Record   | Rating |
 | ---:  | ---:                 | ---:       | ---:     | ---:   |
-| 1     | Auburn               | SEC        | 18-1     | 2480   |
-| 2     | Kansas               | Big 12     | 17-2     | 2400   |
-| 3     | Baylor               | Big 12     | 17-2     | 2388   |
-| 4     | Arizona              | Pac 12     | 16-1     | 2344   |
-| 5     | Wisconsin            | Big 10     | 15-3     | 2330   |
-| 6     | Gonzaga              | WCC        | 15-2     | 2323   |
-| 7     | Michigan St.         | Big 10     | 15-3     | 2317   |
-| 8     | Providence           | Big East   | 16-2     | 2315   |
-| 9     | Texas Tech           | Big 12     | 15-5     | 2265   |
-| 10    | UCLA                 | Pac 12     | 13-2     | 2249   |
-| 11    | Houston              | AAC        | 17-2     | 2228   |
-| 12    | Villanova            | Big East   | 14-5     | 2211   |
-| 13    | Marquette            | Big East   | 14-6     | 2201   |
-| 14    | Purdue               | Big 10     | 16-3     | 2189   |
-| 15    | Xavier               | Big East   | 14-4     | 2187   |
-| 16    | Colorado St.         | MWC        | 15-1     | 2185   |
-| 17    | UConn                | Big East   | 13-4     | 2178   |
-| 18    | Iowa St.             | Big 12     | 14-5     | 2162   |
-| 19    | LSU                  | SEC        | 15-4     | 2156   |
-| 20    | Ohio St.             | Big 10     | 12-4     | 2150   |
-| 21    | Tennessee            | SEC        | 13-5     | 2142   |
-| 22    | TCU                  | Big 12     | 13-3     | 2135   |
-| 23    | Kentucky             | SEC        | 15-4     | 2127   |
-| 24    | Davidson             | A-10       | 16-2     | 2124   |
-| 25    | Duke                 | ACC        | 15-3     | 2124   |
-_Updated 1/25/2022, 1:00pm__
+| 1     | Auburn               | SEC        | 19-1     | 2486   |
+| 2     | Kansas               | Big 12     | 17-2     | 2398   |
+| 3     | Baylor               | Big 12     | 18-2     | 2394   |
+| 4     | UCLA                 | Pac 12     | 14-2     | 2338   |
+| 5     | Gonzaga              | WCC        | 15-2     | 2333   |
+| 6     | Wisconsin            | Big 10     | 15-3     | 2331   |
+| 7     | Providence           | Big East   | 16-2     | 2318   |
+| 8     | Texas Tech           | Big 12     | 15-5     | 2268   |
+| 9     | Arizona              | Pac 12     | 16-2     | 2260   |
+| 10    | Michigan St.         | Big 10     | 15-4     | 2247   |
+| 11    | Villanova            | Big East   | 15-5     | 2233   |
+| 12    | Marquette            | Big East   | 14-6     | 2220   |
+| 13    | Houston              | AAC        | 17-2     | 2217   |
+| 14    | Colorado St.         | MWC        | 16-1     | 2214   |
+| 15    | Xavier               | Big East   | 14-4     | 2202   |
+| 16    | Purdue               | Big 10     | 16-3     | 2201   |
+| 17    | UConn                | Big East   | 14-4     | 2186   |
+| 18    | Iowa St.             | Big 12     | 14-5     | 2171   |
+| 19    | Ohio St.             | Big 10     | 12-4     | 2157   |
+| 20    | Kentucky             | SEC        | 16-4     | 2151   |
+| 21    | LSU                  | SEC        | 15-4     | 2150   |
+| 22    | Duke                 | ACC        | 16-3     | 2139   |
+| 23    | Tennessee            | SEC        | 13-5     | 2136   |
+| 24    | West Virginia        | Big 12     | 13-5     | 2136   |
+| 25    | Davidson             | A-10       | 16-2     | 2118   |
+_Updated 1/26/2022, 10:00am__
 
 Script for scraping data by [Luke Benz](https://github.com/lbenz730/NCAA_Hoops).
 One potential standing issue is that, because of the way the games are scraped, every game is actually considered twice when constructing the ranking. I don't think that this can actually be considered an objectively good or bad thing, but regardless it is probably something that I should fix eventually.
