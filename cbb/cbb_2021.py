@@ -8,7 +8,7 @@ from datetime import datetime, timezone
 import subprocess
 today = datetime.now(timezone.utc).strftime("%Y-%m-%d")+'T00:00:00.000Z'
 
-subprocess.call ("./ncaa_hoops_scraper.R")
+#subprocess.call ("./ncaa_hoops_scraper.R")
 sched = pd.read_csv ('NCAA_Hoops_Results.csv')
 sched = sched[(sched.teamscore.notna()) & (sched.opponent.notna())]
 sched.loc[sched.year.isna(), 'year'] = 2021
