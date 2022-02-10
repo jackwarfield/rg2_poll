@@ -73,39 +73,39 @@ Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for
 | 30    | Houston Texans             | 4-13     | 1271   |
 | 31    | New York Jets              | 4-13     | 1256   |
 | 32    | Jacksonville Jaguars       | 3-14     | 1209   |
-_Updated 1/25/2022, 4:00pm__
+_Updated 1/25/2022, 4:00pm_
 
 NFL data comes from [https://www.pro-football-reference.com](https://www.pro-football-reference.com).
 
 ### Men's College Basketball
 | Rank  | Team                 | Conference | Record   | Rating |
 | ---:  | ---:                 | ---:       | ---:     | ---:   |
-| 1     | Auburn               | SEC        | 22-1     | 2451   |
-| 2     | Providence           | Big East   | 20-2     | 2327   |
-| 3     | Arizona              | Pac 12     | 20-2     | 2299   |
-| 4     | Gonzaga              | WCC        | 19-2     | 2268   |
-| 5     | Kansas               | Big 12     | 19-4     | 2234   |
-| 6     | Wisconsin            | Big 10     | 18-4     | 2230   |
-| 7     | Purdue               | Big 10     | 20-3     | 2227   |
-| 8     | Texas Tech           | Big 12     | 18-5     | 2211   |
-| 9     | Houston              | AAC        | 20-2     | 2189   |
-| 10    | Kentucky             | SEC        | 19-4     | 2189   |
-| 11    | Baylor               | Big 12     | 19-4     | 2187   |
-| 12    | Marquette            | Big East   | 16-7     | 2157   |
-| 13    | Illinois             | Big 10     | 17-5     | 2151   |
-| 14    | UCLA                 | Pac 12     | 16-4     | 2137   |
-| 15    | Villanova            | Big East   | 17-6     | 2130   |
-| 16    | Texas                | Big 12     | 18-6     | 2118   |
-| 17    | Wyoming              | MWC        | 19-3     | 2101   |
-| 18    | Ohio St.             | Big 10     | 14-5     | 2094   |
-| 19    | Michigan St.         | Big 10     | 17-5     | 2087   |
-| 20    | Tennessee            | SEC        | 16-6     | 2085   |
-| 21    | Murray St.           | OVC        | 22-2     | 2082   |
-| 22    | Xavier               | Big East   | 16-6     | 2067   |
-| 23    | Duke                 | ACC        | 19-4     | 2052   |
-| 24    | Iowa St.             | Big 12     | 16-7     | 2049   |
-| 25    | TCU                  | Big 12     | 15-5     | 2017   
-_Updated 2/8/2022, 10:00pm__
+| 1     | Providence           | Big East   | 20-2     | 2328   |
+| 2     | Arizona              | Pac 12     | 20-2     | 2324   |
+| 3     | Auburn               | SEC        | 22-2     | 2319   |
+| 4     | Gonzaga              | WCC        | 19-2     | 2266   |
+| 5     | Purdue               | Big 10     | 21-3     | 2261   |
+| 6     | Wisconsin            | Big 10     | 19-4     | 2246   |
+| 7     | Kansas               | Big 12     | 19-4     | 2231   |
+| 8     | Baylor               | Big 12     | 20-4     | 2209   |
+| 9     | Kentucky             | SEC        | 20-4     | 2200   |
+| 10    | UCLA                 | Pac 12     | 17-4     | 2175   |
+| 11    | Texas Tech           | Big 12     | 18-6     | 2160   |
+| 12    | Villanova            | Big East   | 18-6     | 2145   |
+| 13    | Illinois             | Big 10     | 17-6     | 2136   |
+| 14    | Wyoming              | MWC        | 20-3     | 2133   |
+| 15    | Marquette            | Big East   | 16-8     | 2133   |
+| 16    | Texas                | Big 12     | 18-6     | 2122   |
+| 17    | Tennessee            | SEC        | 17-6     | 2110   |
+| 18    | Houston              | AAC        | 20-3     | 2099   |
+| 19    | Murray St.           | OVC        | 22-2     | 2085   |
+| 20    | Michigan St.         | Big 10     | 17-6     | 2078   |
+| 21    | UConn                | Big East   | 16-6     | 2067   |
+| 22    | Arkansas             | SEC        | 19-5     | 2061   |
+| 23    | Duke                 | ACC        | 19-4     | 2061   |
+| 24    | TCU                  | Big 12     | 16-5     | 2047   |
+| 25    | Seton Hall           | Big East   | 15-7     | 2044   |
+_Updated 2/10/2022, 11:00am_
 
 Script for scraping data by [Luke Benz](https://github.com/lbenz730/NCAA_Hoops).
 One potential standing issue is that, because of the way the games are scraped, every game is actually considered twice when constructing the ranking. I don't think that this can actually be considered an objectively good or bad thing, but regardless it is probably something that I should fix eventually.
