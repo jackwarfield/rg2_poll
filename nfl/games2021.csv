@@ -16,7 +16,7 @@ Week,Day,Date,Time,Winner/tie,,Loser/tie,,PtsW,PtsL,YdsW,TOW,YdsL,TOL
 1,Sun,2021-09-12,8:20PM,Los Angeles Rams,,Chicago Bears,boxscore,34,14,386,0,322,2
 1,Mon,2021-09-13,8:15PM,Las Vegas Raiders,,Baltimore Ravens,boxscore,33,27,491,1,406,2
 2,Thu,2021-09-16,8:20PM,Washington Football Team,,New York Giants,boxscore,30,29,407,1,391,0
-2,Sun,2021-09-19,1:00PM,Buffalo Bills,@,Miami Dolphins,boxscore,35,0,314,2,216,3
+2,Sun,2021-09-19,1:00PM,Buffalo Bills,@,Miami Dolphins,boxscore,35,0,314,2,223,3
 2,Sun,2021-09-19,1:00PM,Carolina Panthers,,New Orleans Saints,boxscore,26,7,383,1,128,2
 2,Sun,2021-09-19,1:00PM,Chicago Bears,,Cincinnati Bengals,boxscore,20,17,206,1,248,4
 2,Sun,2021-09-19,1:00PM,Cleveland Browns,,Houston Texans,boxscore,31,21,355,2,302,2
@@ -269,8 +269,8 @@ Week,Day,Date,Time,Winner/tie,,Loser/tie,,PtsW,PtsL,YdsW,TOW,YdsL,TOL
 18,Sun,2022-01-09,1:00PM,Washington Football Team,@,New York Giants,boxscore,22,7,325,0,177,3
 18,Sun,2022-01-09,1:00PM,Pittsburgh Steelers,@,Baltimore Ravens,boxscore,16,13,314,1,381,3
 18,Sun,2022-01-09,4:25PM,Seattle Seahawks,@,Arizona Cardinals,boxscore,38,30,431,2,305,1
-18,Sun,2022-01-09,4:25PM,Las Vegas Raiders,,Los Angeles Chargers,boxscore,35,32,346,0,440,2
 18,Sun,2022-01-09,4:25PM,San Francisco 49ers,@,Los Angeles Rams,boxscore,27,24,449,2,265,2
+18,Sun,2022-01-09,8:25PM,Las Vegas Raiders,,Los Angeles Chargers,boxscore,35,32,346,0,440,2
 WildCard,Sat,2022-01-15,4:30PM,Cincinnati Bengals,,Las Vegas Raiders,boxscore,26,19,308,0,385,2
 WildCard,Sat,2022-01-15,8:15PM,Buffalo Bills,,New England Patriots,boxscore,47,17,482,0,305,2
 WildCard,Sun,2022-01-16,1:00PM,Tampa Bay Buccaneers,,Philadelphia Eagles,boxscore,31,15,349,0,339,3
@@ -281,3 +281,6 @@ Division,Sat,2022-01-22,4:30PM,Cincinnati Bengals,@,Tennessee Titans,boxscore,19
 Division,Sat,2022-01-22,8:15PM,San Francisco 49ers,@,Green Bay Packers,boxscore,13,10,212,1,263,1
 Division,Sun,2022-01-23,3:00PM,Los Angeles Rams,@,Tampa Bay Buccaneers,boxscore,30,27,428,4,359,2
 Division,Sun,2022-01-23,6:30PM,Kansas City Chiefs,,Buffalo Bills,boxscore,42,36,552,0,422,0
+ConfChamp,Sun,2022-01-30,3:00PM,Cincinnati Bengals,@,Kansas City Chiefs,boxscore,27,24,359,1,375,2
+ConfChamp,Sun,2022-01-30,6:30PM,Los Angeles Rams,,San Francisco 49ers,boxscore,20,17,396,1,282,1
+SuperBowl,Sun,2022-02-13,6:30PM,Los Angeles Rams,N,Cincinnati Bengals,boxscore,23,20,313,2,305,0

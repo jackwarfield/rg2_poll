@@ -41,39 +41,39 @@ Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for
 ### NFL
 | Rank  | Team                       | Record   | Rating |
 | ---:  | ---:                       | :---     | ---:   |
-| 1     | Kansas City Chiefs         | 14-5     | 1773   |
-| 2     | Los Angeles Rams           | 14-5     | 1746   |
-| 3     | Green Bay Packers          | 13-5     | 1720   |
-| 4     | San Francisco 49ers        | 12-7     | 1685   |
-| 5     | Tampa Bay Buccaneers       | 14-5     | 1681   |
-| 6     | Cincinnati Bengals         | 12-7     | 1655   |
+| 1     | Los Angeles Rams           | 16-5     | 1794   |
+| 2     | Kansas City Chiefs         | 14-6     | 1734   |
+| 3     | Green Bay Packers          | 13-5     | 1721   |
+| 4     | Tampa Bay Buccaneers       | 14-5     | 1686   |
+| 5     | San Francisco 49ers        | 12-8     | 1671   |
+| 6     | Cincinnati Bengals         | 13-8     | 1667   |
 | 7     | Tennessee Titans           | 12-6     | 1644   |
-| 8     | Dallas Cowboys             | 12-6     | 1636   |
-| 9     | Buffalo Bills              | 12-7     | 1607   |
-| 10    | Arizona Cardinals          | 11-7     | 1601   |
-| 11    | Pittsburgh Steelers        | 9-8-1    | 1597   |
-| 12    | Las Vegas Raiders          | 10-8     | 1592   |
-| 13    | Los Angeles Chargers       | 9-8      | 1546   |
-| 14    | Minnesota Vikings          | 8-9      | 1537   |
-| 15    | Indianapolis Colts         | 9-8      | 1537   |
-| 16    | New England Patriots       | 10-8     | 1531   |
+| 8     | Dallas Cowboys             | 12-6     | 1633   |
+| 9     | Arizona Cardinals          | 11-7     | 1607   |
+| 10    | Buffalo Bills              | 12-7     | 1603   |
+| 11    | Pittsburgh Steelers        | 9-8-1    | 1595   |
+| 12    | Las Vegas Raiders          | 10-8     | 1588   |
+| 13    | Los Angeles Chargers       | 9-8      | 1542   |
+| 14    | Minnesota Vikings          | 8-9      | 1540   |
+| 15    | Indianapolis Colts         | 9-8      | 1539   |
+| 16    | New England Patriots       | 10-8     | 1530   |
 | 17    | Cleveland Browns           | 8-9      | 1530   |
-| 18    | New Orleans Saints         | 9-8      | 1521   |
-| 19    | Baltimore Ravens           | 8-9      | 1520   |
+| 18    | Baltimore Ravens           | 8-9      | 1522   |
+| 19    | New Orleans Saints         | 9-8      | 1520   |
 | 20    | Miami Dolphins             | 9-8      | 1514   |
-| 21    | Philadelphia Eagles        | 9-9      | 1510   |
-| 22    | Seattle Seahawks           | 7-10     | 1483   |
-| 23    | Washington Football Team   | 7-10     | 1455   |
-| 24    | Chicago Bears              | 6-11     | 1439   |
-| 25    | Denver Broncos             | 7-10     | 1432   |
-| 26    | Atlanta Falcons            | 7-10     | 1397   |
-| 27    | Detroit Lions              | 3-13-1   | 1328   |
-| 28    | New York Giants            | 4-13     | 1301   |
+| 21    | Philadelphia Eagles        | 9-9      | 1507   |
+| 22    | Seattle Seahawks           | 7-10     | 1486   |
+| 23    | Washington Football Team   | 7-10     | 1452   |
+| 24    | Chicago Bears              | 6-11     | 1441   |
+| 25    | Denver Broncos             | 7-10     | 1428   |
+| 26    | Atlanta Falcons            | 7-10     | 1396   |
+| 27    | Detroit Lions              | 3-13-1   | 1329   |
+| 28    | New York Giants            | 4-13     | 1299   |
 | 29    | Carolina Panthers          | 5-12     | 1299   |
-| 30    | Houston Texans             | 4-13     | 1271   |
+| 30    | Houston Texans             | 4-13     | 1272   |
 | 31    | New York Jets              | 4-13     | 1256   |
-| 32    | Jacksonville Jaguars       | 3-14     | 1209   |
-_Updated 1/25/2022, 4:00pm_
+| 32    | Jacksonville Jaguars       | 3-14     | 1210   |
+_Updated 2/15/2022, 11:30am_
 
 NFL data comes from [https://www.pro-football-reference.com](https://www.pro-football-reference.com).
 
