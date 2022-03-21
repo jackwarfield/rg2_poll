@@ -36,12 +36,12 @@ for j in range(51):
             _ = df[df.team == id1].values[0]
         except IndexError:
             df3 = pd.DataFrame ([[id1, 'removethis', 800, 600, 0.06]], columns=['team', 'conference', 'rating', 'rd', 'volatility'])
-            df = df.append(df3).reset_index(drop=True)
+            df = pd.concat([df,df3]).reset_index(drop=True)
         try:
             _ = df[df.team == id2].values[0]
         except IndexError:
             df3 = pd.DataFrame ([[id2, 'removethis', 800, 600, 0.06]], columns=['team', 'conference', 'rating', 'rd', 'volatility'])
-            df = df.append(df3).reset_index(drop=True)
+            df = pd.concat([df,df3]).reset_index(drop=True)
         hp = sched.loc[i, 'teamscore']
         ap = sched.loc[i, 'oppscore']
         if hp > ap:
