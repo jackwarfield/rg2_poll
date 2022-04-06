@@ -1755,7 +1755,8 @@
 2022,3,3,"Coastal Carolina","Ga. Southern","N",64,70,FALSE,FALSE,NA,2
 2022,3,16,"Coastal Carolina","UMES  Basketball Classic","H",66,42,FALSE,FALSE,NA,1
 2022,3,21,"Coastal Carolina","FGCU  Basketball Classic","H",84,68,FALSE,FALSE,NA,1
-2022,3,28,"Coastal Carolina","South Alabama  Basketball Classic","V",NA,NA,FALSE,FALSE,NA,1
+2022,3,28,"Coastal Carolina","South Alabama  Basketball Classic","V",69,68,FALSE,FALSE,NA,1
+2022,4,1,"Coastal Carolina","Fresno St.  Basketball Classic","H",74,85,FALSE,FALSE,NA,1
 2021,11,11,"Col. of Charleston","South Carolina St. - MBB Uprise AG College Season Opener","H",106,74,FALSE,FALSE,NA,1
 2021,11,12,"Col. of Charleston","Lipscomb - MBB Uprise AG College Season Opener","H",86,77,FALSE,FALSE,NA,1
 2021,11,13,"Col. of Charleston","Loyola Maryland - MBB Uprise AG College Season Opener","H",79,72,FALSE,FALSE,NA,1
@@ -2477,7 +2478,7 @@
 2022,3,20,"Duke","Michigan St.","N",85,76,FALSE,FALSE,NA,2
 2022,3,24,"Duke","Texas Tech","N",78,73,FALSE,FALSE,NA,2
 2022,3,26,"Duke","Arkansas","N",78,69,FALSE,FALSE,NA,2
-2022,4,2,"Duke","North Carolina","N",NA,NA,FALSE,FALSE,NA,2
+2022,4,2,"Duke","North Carolina","N",77,81,FALSE,FALSE,NA,2
 2021,11,9,"Duquesne","Rider","H",73,61,FALSE,FALSE,NA,2
 2021,11,13,"Duquesne","Hofstra","H",63,73,FALSE,FALSE,NA,2
 2021,11,15,"Duquesne","Weber St.","H",59,63,FALSE,FALSE,NA,2
@@ -3095,7 +3096,8 @@
 2022,3,10,"Fresno St.","San Diego St.","N",46,53,FALSE,FALSE,NA,2
 2022,3,17,"Fresno St.","Eastern Wash.  Basketball Classic","H",83,74,FALSE,FALSE,NA,1
 2022,3,23,"Fresno St.","Youngstown St.  Basketball Classic","H",80,71,FALSE,FALSE,NA,1
-2022,3,28,"Fresno St.","Southern Utah  Basketball Classic","H",NA,NA,FALSE,FALSE,NA,1
+2022,3,28,"Fresno St.","Southern Utah  Basketball Classic","H",67,48,FALSE,FALSE,NA,1
+2022,4,1,"Fresno St.","Coastal Carolina  Basketball Classic","V",85,74,FALSE,FALSE,NA,1
 2021,11,9,"Furman","North Greenville","H",118,66,FALSE,FALSE,NA,1
 2021,11,12,"Furman","Louisville","V",80,72,FALSE,FALSE,NA,2
 2021,11,15,"Furman","Belmont","V",89,95,FALSE,FALSE,NA,2
@@ -4349,7 +4351,8 @@
 2022,3,19,"Kansas","Creighton","N",79,72,FALSE,FALSE,NA,2
 2022,3,25,"Kansas","Providence","N",66,61,FALSE,FALSE,NA,2
 2022,3,27,"Kansas","Miami (FL)","N",76,50,FALSE,FALSE,NA,2
-2022,4,2,"Kansas","Villanova","N",NA,NA,FALSE,FALSE,NA,2
+2022,4,2,"Kansas","Villanova","N",81,65,FALSE,FALSE,NA,2
+2022,4,4,"Kansas","North Carolina","N",72,69,FALSE,FALSE,NA,2
 2021,11,9,"Kansas City","Minnesota","V",56,71,FALSE,FALSE,NA,2
 2021,11,12,"Kansas City","Iowa","V",57,89,FALSE,FALSE,NA,2
 2021,11,15,"Kansas City","Missouri","V",80,66,FALSE,FALSE,NA,2
@@ -6565,7 +6568,8 @@
 2022,3,19,"North Carolina","Baylor","N",93,86,FALSE,FALSE,NA,2
 2022,3,25,"North Carolina","UCLA","N",73,66,FALSE,FALSE,NA,2
 2022,3,27,"North Carolina","Saint Peter&;s","N",69,49,FALSE,FALSE,NA,1
-2022,4,2,"North Carolina","Duke","N",NA,NA,FALSE,FALSE,NA,2
+2022,4,2,"North Carolina","Duke","N",81,77,FALSE,FALSE,NA,2
+2022,4,4,"North Carolina","Kansas","N",69,72,FALSE,FALSE,NA,2
 2021,11,9,"North Dakota","Milwaukee","H",60,75,FALSE,FALSE,NA,2
 2021,11,15,"North Dakota","Montana","H",79,77,FALSE,FALSE,NA,2
 2021,11,19,"North Dakota","Troy","N",74,72,FALSE,FALSE,NA,2
@@ -8720,7 +8724,7 @@
 2022,3,3,"South Alabama","Little Rock","N",71,75,FALSE,FALSE,NA,2
 2022,3,16,"South Alabama","Southeastern La.  Basketball Classic","H",70,68,FALSE,FALSE,NA,1
 2022,3,21,"South Alabama","USC Upstate  Basketball Classic","H",83,79,FALSE,FALSE,NA,1
-2022,3,28,"South Alabama","Coastal Carolina  Basketball Classic","H",NA,NA,FALSE,FALSE,NA,1
+2022,3,28,"South Alabama","Coastal Carolina  Basketball Classic","H",68,69,FALSE,FALSE,NA,1
 2021,11,9,"South Carolina","USC Upstate","H",78,60,FALSE,FALSE,NA,2
 2021,11,12,"South Carolina","Princeton","N",62,66,FALSE,FALSE,NA,2
 2021,11,14,"South Carolina","Western Ky.","N",75,64,FALSE,FALSE,NA,2
@@ -9119,7 +9123,7 @@
 2022,3,16,"Southern Utah","Kent St.  Basketball Classic","H",83,79,FALSE,FALSE,NA,1
 2022,3,22,"Southern Utah","UTEP  Basketball Classic","V",82,69,FALSE,FALSE,NA,1
 2022,3,26,"Southern Utah","Portland  Basketball Classic","H",77,66,FALSE,FALSE,NA,1
-2022,3,28,"Southern Utah","Fresno St.  Basketball Classic","V",NA,NA,FALSE,FALSE,NA,1
+2022,3,28,"Southern Utah","Fresno St.  Basketball Classic","V",48,67,FALSE,FALSE,NA,1
 2021,11,9,"St. Bonaventure","Siena","H",75,47,FALSE,FALSE,NA,2
 2021,11,14,"St. Bonaventure","Canisius","H",69,60,FALSE,FALSE,NA,2
 2021,11,18,"St. Bonaventure","Boise St.","N",67,61,FALSE,FALSE,NA,2
@@ -9154,7 +9158,7 @@
 2022,3,15,"St. Bonaventure","Colorado  NIT","V",76,68,FALSE,FALSE,NA,1
 2022,3,20,"St. Bonaventure","Oklahoma  NIT","V",70,68,FALSE,FALSE,NA,1
 2022,3,22,"St. Bonaventure","Virginia  NIT","V",52,51,FALSE,FALSE,NA,1
-2022,3,29,"St. Bonaventure","Xavier","N",NA,NA,FALSE,FALSE,NA,2
+2022,3,29,"St. Bonaventure","Xavier","N",77,84,FALSE,FALSE,NA,2
 2021,11,9,"St. Francis Brooklyn","Wisconsin","V",58,81,FALSE,FALSE,NA,2
 2021,11,13,"St. Francis Brooklyn","St. Thomas (MN)","H",73,91,FALSE,FALSE,NA,2
 2021,11,18,"St. Francis Brooklyn","Penn St.","V",59,74,FALSE,FALSE,NA,2
@@ -9652,7 +9656,8 @@
 2022,3,15,"Texas A&M","Alcorn  NIT","H",74,62,FALSE,FALSE,NA,1
 2022,3,19,"Texas A&M","Oregon  NIT","H",75,60,FALSE,FALSE,NA,1
 2022,3,23,"Texas A&M","Wake Forest  NIT","H",67,52,FALSE,FALSE,NA,1
-2022,3,29,"Texas A&M","Washington St.","N",NA,NA,FALSE,FALSE,NA,2
+2022,3,29,"Texas A&M","Washington St.","N",72,56,FALSE,FALSE,NA,2
+2022,3,31,"Texas A&M","Xavier","N",72,73,FALSE,FALSE,NA,2
 2021,11,9,"Texas Southern","Oregon","V",66,83,FALSE,FALSE,NA,2
 2021,11,12,"Texas Southern","Saint Mary&;s (CA)","V",58,67,FALSE,FALSE,NA,1
 2021,11,15,"Texas Southern","Washington","V",65,72,FALSE,FALSE,NA,2
@@ -11089,7 +11094,7 @@
 2022,3,20,"Villanova","Ohio St.","N",71,61,FALSE,FALSE,NA,2
 2022,3,24,"Villanova","Michigan","N",63,55,FALSE,FALSE,NA,2
 2022,3,26,"Villanova","Houston","N",50,44,FALSE,FALSE,NA,2
-2022,4,2,"Villanova","Kansas","N",NA,NA,FALSE,FALSE,NA,2
+2022,4,2,"Villanova","Kansas","N",65,81,FALSE,FALSE,NA,2
 2021,11,9,"Virginia","Navy","H",58,66,FALSE,FALSE,NA,2
 2021,11,12,"Virginia","Radford","H",73,52,FALSE,FALSE,NA,2
 2021,11,16,"Virginia","Houston","V",47,67,FALSE,FALSE,NA,2
@@ -11330,7 +11335,7 @@
 2022,3,15,"Washington St.","Santa Clara  NIT","H",63,50,FALSE,FALSE,NA,1
 2022,3,20,"Washington St.","SMU  NIT","V",75,63,FALSE,FALSE,NA,1
 2022,3,23,"Washington St.","BYU  NIT","V",77,58,FALSE,FALSE,NA,1
-2022,3,29,"Washington St.","Texas A&M","N",NA,NA,FALSE,FALSE,NA,2
+2022,3,29,"Washington St.","Texas A&M","N",56,72,FALSE,FALSE,NA,2
 2021,11,9,"Weber St.","Western Colo.","H",100,60,FALSE,FALSE,NA,1
 2021,11,15,"Weber St.","Duquesne","V",63,59,FALSE,FALSE,NA,2
 2021,11,18,"Weber St.","Massachusetts","N",88,73,FALSE,FALSE,NA,2
@@ -11794,7 +11799,8 @@
 2022,3,15,"Xavier","Cleveland St.  NIT","H",72,68,FALSE,FALSE,NA,1
 2022,3,20,"Xavier","Florida  NIT","H",72,56,FALSE,FALSE,NA,1
 2022,3,22,"Xavier","Vanderbilt  NIT","H",75,73,FALSE,FALSE,NA,1
-2022,3,29,"Xavier","St. Bonaventure","N",NA,NA,FALSE,FALSE,NA,2
+2022,3,29,"Xavier","St. Bonaventure","N",84,77,FALSE,FALSE,NA,2
+2022,3,31,"Xavier","Texas A&M","N",73,72,FALSE,FALSE,NA,2
 2021,11,9,"Yale","Vassar","H",88,42,FALSE,FALSE,NA,1
 2021,11,12,"Yale","Massachusetts","H",91,71,FALSE,FALSE,NA,2
 2021,11,14,"Yale","Seton Hall","V",44,80,FALSE,FALSE,NA,2
