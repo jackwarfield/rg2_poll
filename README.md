@@ -2,7 +2,7 @@
 
 This poll is based on the Glicko-2 rating system [\(Glickman 2013\)](http://glicko.net/glicko/glicko2.pdf) to produce resume-based sports rankings.
 
-### College Football
+### College Football (2021 End of Season Top 25)
 | Rank  | Team                 | Conference           | Record   | Rating |
 | ---:  | ---:                 | ---:                 | ---:     | ---:   |
 | 1     | Georgia              | SEC                  | 14-1     | 2437   |
@@ -32,13 +32,13 @@ This poll is based on the Glicko-2 rating system [\(Glickman 2013\)](http://glic
 | 25    | Iowa State           | Big 12               | 7-6      | 1730   |
 _Updated 1/11/2022, 10:30am_
 
-1. All P5 teams start with a rating of 1500 and all G5 teams start with a rating of 1200. Other, non-FBS teams, if encountered in the schedule, are added to the table starting with a rating of 800. All teams start with a rating deviation of 600 and a volatility of 0.6.
-2. The 2020 schedule is run through 1 time to give initial ratings. Note that, after this run, the RD remains high and so the ratings are still quite fluid.
-3. The 2021 schedule is run through 50 times.
+1. All FBS teams start with a rating of 1500, FCS teams start with a rating of 700, and all others with ratings of 200. All teams start with a rating deviation of 600 and a volatility of 0.6.
+2. The 2021 schedule is run through 50 times to give initial ratings. After this run, the RD is reset to 600.
+3. The 2022 schedule is run through 100 times.
 
 Thanks to [https://collegefootballdata.com](https://collegefootballdata.com) for the game data tables.
 
-### NFL
+### NFL (2021 End of Season Top 25)
 | Rank  | Team                       | Record   | Rating |
 | ---:  | ---:                       | :---     | ---:   |
 | 1     | Los Angeles Rams           | 16-5     | 1794   |
@@ -77,7 +77,7 @@ _Updated 2/15/2022, 11:30am_
 
 NFL data comes from [https://www.pro-football-reference.com](https://www.pro-football-reference.com).
 
-### Men's College Basketball
+### Men's College Basketball (2021-2022 End of Season Top 25)
 | Rank  | Team                 | Conference | Record   | Rating |
 | ---:  | ---:                 | ---:       | ---:     | ---:   |
 | 1     | Kansas               | Big 12     | 34-6     | 2228   |
